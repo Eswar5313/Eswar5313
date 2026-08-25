@@ -105,7 +105,7 @@
 
 ## 🗄️ The Deep Bench
 
-Beyond the core 16: **58+ Forage job simulations** ([full list →](./SIMULATIONS.md)), **47 Coursera** courses, and **~200 LinkedIn Learning** completions — maintained in a separate Credential Vault to keep this page recruiter-readable.
+Beyond the core 16: **66 Forage job simulations** ([full list →](./SIMULATIONS.md)), **47 Coursera** courses, and **~200 LinkedIn Learning** completions — maintained in a separate Credential Vault to keep this page recruiter-readable.
 
 ---
 
