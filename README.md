@@ -31,7 +31,7 @@
 
 <img src="https://img.shields.io/badge/DATA_PROJECTS-13-C9A227?style=for-the-badge&labelColor=0A1F44" />
 <img src="https://img.shields.io/badge/PM_CASE_STUDIES-7-C9A227?style=for-the-badge&labelColor=0A1F44" />
-<img src="https://img.shields.io/badge/JOB_SIMULATIONS-58%2B-C9A227?style=for-the-badge&labelColor=0A1F44" />
+<img src="https://img.shields.io/badge/JOB_SIMULATIONS-66-C9A227?style=for-the-badge&labelColor=0A1F44" />
 
 </div>
 
@@ -116,7 +116,7 @@
 **Verified headline figures:**
 🏙️ Dubai model → **99 AED/sqft** · 🛒 Flipkart CSAT → **4.48→3.66** · ⌚ Fitness corr → **r = −0.60**
 
-➡️ [All 20+ projects in detail](./PROJECTS.md) · [🧪 58+ job simulations](./SIMULATIONS.md) · [✍️ Publications](./PUBLICATIONS.md)
+➡️ [All 20+ projects in detail](./PROJECTS.md) · [🧪 66 job simulations](./SIMULATIONS.md) · [✍️ Publications](./PUBLICATIONS.md)
 
 </td>
 <td width="50%" valign="top">
@@ -132,7 +132,7 @@ IIM Ahmedabad SC Digitization · CSCMP SCPro (6 domains) · Six Sigma Black Belt
 <details>
 <summary>📊 <b>Data & BI</b> (5)</summary>
 
-Google Data Analytics · Google BI · Google Project Mgmt · Entri PG Data Analytics *(in progress)* · 58+ Forage simulations
+Google Data Analytics · Google BI · Google Project Mgmt · Entri PG Data Analytics *(in progress)* · 66 Forage simulations
 </details>
 
 <details>
