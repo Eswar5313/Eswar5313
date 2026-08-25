@@ -21,6 +21,7 @@
 > **Data Analyst @ HEXA Solutions** with **8+ years** of cross-functional experience across **supply chain & logistics, fintech, automotive sales, and luxury real estate (Dubai)** — now building at the intersection of **data analytics, operations, and AI**.
 
 - 🔭 Currently: Data Analyst at **HEXA Solutions**, Ghaziabad NCR
+- ⚡ Also active in (freelance/project-based): **AI Trainer @ micro1** · **Data Science & Analytics @ Zidio** · **Data Analytics + AI Engineering @ CadetX** · **UX Design @ GWEN**
 - 📊 Verified career impact: **₹13.5Cr+ sales facilitated** · **28% conversion** · **30% stockout reduction** · **22% cycle-delay reduction** · **92%+ CSAT**
 - 🎓 **MBA (Operations & Marketing)** — SRM IST Chennai · **Six Sigma Black Belt** · **CSCMP SCPro**
 - 🤖 Learning: AI-First Product Management, RAG & AI Agents, SAP MM, German (A1 🇩🇪)
@@ -193,9 +194,20 @@ timeline
     2026 : Data Analyst — HEXA Solutions ⭐ (Current)
 ```
 
+### 🟢 Current — 2026
+
+| Role | Company | Focus |
+|---|---|---|
+| 🟢 **Data Analyst** | HEXA Solutions, Ghaziabad | 13-project analytics portfolio — EDA, SQL, ML, dashboards |
+| 🤖 **AI Trainer** *(freelance)* | micro1 | Evaluating AI outputs · structured feedback for model improvement |
+| 📊 **Data Science & Analytics** *(project-based)* | Zidio Development | Predictive modeling · Python/SQL/R · dashboards |
+| ⚙️ **Data Analytics + AI Engineer track** *(project-based)* | CadetX | Excel · SQL · Power BI business assignments |
+| 🎨 **UX Design Intern** | GWEN | Figma flows, wireframes, prototypes · user research · A/B testing |
+
+### 📜 Earlier Career
+
 | Role | Company | Impact |
 |---|---|---|
-| 🟢 **Data Analyst** | HEXA Solutions, Ghaziabad | *Current* — analytics & reporting |
 | 🚗 **Closure Manager** | Spinny | 250+ deals · **18% closure-rate lift** · 4.8/5 CSAT · Top Consultant Q2 |
 | 🏙️ **Associate Portfolio Manager** | Square Yards, Dubai | 100+ HNI accounts · 15+ nationalities · **90%+ retention** |
 | 💳 **Sales Consultant** | Paisabazaar | **28% conversion** · ₹1.5Cr+ monthly loan disbursals |
