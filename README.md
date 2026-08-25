@@ -5,6 +5,15 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=IBM+Plex+Mono&size=21&duration=3000&pause=800&color=C9A227&center=true&vCenter=true&width=680&lines=Data+Analyst+%40+HEXA+Solutions;Turning+messy+data+into+business+decisions;SQL+%E2%80%A2+Python+%E2%80%A2+Power+BI+%E2%80%A2+AI+Tools;MBA+%7C+Six+Sigma+Black+Belt+%7C+CSCMP+SCPro)](https://git.io/typing-svg)
 
+### 🗂️ Open a Panel in Full
+
+[![Education](https://img.shields.io/badge/🎓_Education-0A1F44?style=for-the-badge)](./EDUCATION.md)
+[![Experience](https://img.shields.io/badge/💼_Experience-C9A227?style=for-the-badge&logoColor=0A1F44)](./EXPERIENCE.md)
+[![Certifications](https://img.shields.io/badge/🏅_Certifications-0A1F44?style=for-the-badge)](./CERTIFICATIONS.md)
+[![Projects](https://img.shields.io/badge/🚀_Projects-C9A227?style=for-the-badge)](./PROJECTS.md)
+[![Simulations](https://img.shields.io/badge/🧪_Simulations-0A1F44?style=for-the-badge)](./SIMULATIONS.md)
+[![Publications](https://img.shields.io/badge/✍️_Publications-C9A227?style=for-the-badge)](./PUBLICATIONS.md)
+
 </div>
 
 <!-- ═══════════════ KPI STRIP ═══════════════ -->
@@ -106,6 +115,8 @@
 
 **Verified headline figures:**
 🏙️ Dubai model → **99 AED/sqft** · 🛒 Flipkart CSAT → **4.48→3.66** · ⌚ Fitness corr → **r = −0.60**
+
+➡️ [All 20+ projects in detail](./PROJECTS.md) · [🧪 58+ job simulations](./SIMULATIONS.md) · [✍️ Publications](./PUBLICATIONS.md)
 
 </td>
 <td width="50%" valign="top">
