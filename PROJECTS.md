@@ -30,7 +30,6 @@
 
 | Project | Verified Result |
 |---|---|
-
 | 🔋 Battery Management System (BMS) Simulation | EKF SOC RMSE **0.63 %** · SOH **90.1 %** after 500 cycles · thermal-managed fast charge 34 °C |
 | 🗺️ EV Charging Station Locator App | React Native + Google Maps · Dijkstra charging-stop route optimiser · 55 tests |
 | ☀️ Solar-Powered EV Charging Station | 8760-h HOMER-style sim on **real NASA POWER** data · LCOE **₹17.20/kWh** |
@@ -63,7 +62,6 @@
 | 09 | Incident Response Playbook | NIST 800-61r2 + 6 ATT&CK playbooks + mini-SIEM |
 | 10 | Honeypot | SSH/HTTP/Telnet credential-capture + analytics |
 | 11 | Mobile App Security Framework | Android SAST → OWASP Mobile Top 10 |
-
 | 12 | IoT Device Pentest Lab | Simulated devices + firmware triage |
 | 13 | ⚠ Ransomware Behaviour Detection | Canary + entropy monitor (no malware) |
 | 14 | ⚠ Threat-Intel Credential Monitor | k-anonymity breach check + IOC enrichment |
@@ -97,7 +95,6 @@
 <summary>🗃️ <b>SQL & Databases</b></summary>
 <br>
 
-
 | Project | Stack |
 |---|---|
 | 📈 NSE Stock Market Analysis | SQL window functions · trend queries |
@@ -129,7 +126,6 @@
 </details>
 
 <details open>
-
 <summary>🧭 <b>Product Management Cases</b> (frameworks: Five Forces · JTBD · RICE · STP)</summary>
 <br>
 
@@ -161,17 +157,16 @@
 
 ## 🏭 View 2 — Sector-Wise
 
-| Sector | Projects That Speak Its Language |
-
-|---|---|
-| 🚚 **Logistics & Mobility** | FedEx EDA · Uber gap analysis · India EV dashboard · EV charging locator · smart traffic-light priority |
-| ⚡ **Energy & Clean-Tech** | Solar EV charging station · BMS simulation · wireless charging · EV lifecycle analysis · EV market forecast |
-| 🛡️ **Cybersecurity & Infrastructure** | VAPT lab · ML IDS · cryptography · digital forensics · SOC/incident response · honeypot · CTF platform |
-| 🛒 **E-commerce & Retail** | Flipkart CSAT · Zepto AOV · Blinkit strategy · 2,000 SKU · grocery segmentation |
-| 🏦 **Finance & Real Estate** | NSE SQL · Dubai price model · Financial Ledger |
-| 🍽️ **Food & Travel** | Zomato · Airbnb |
-| 💻 **SaaS & AI** | B2B SaaS ROI case · Tennis API app · AI driving optimizer · AI publications |
-| 🏥 **Health & People** | Mental Health in Tech · Strava-Fitbit |
+| Sector | # | Projects That Speak Its Language |
+|---|:--:|---|
+| 🚚 **Logistics & Mobility** | 5 | FedEx EDA · Uber gap analysis · India EV dashboard · EV charging locator · smart traffic-light priority |
+| ⚡ **Energy & Clean-Tech** | 5 | Solar EV charging station · BMS simulation · wireless charging · EV lifecycle analysis · EV market forecast |
+| 🛡️ **Cybersecurity & Infrastructure** | 7 | VAPT lab · ML IDS · cryptography · digital forensics · SOC / incident response · honeypot · CTF platform |
+| 🛒 **E-commerce & Retail** | 5 | Flipkart CSAT · Zepto AOV · Blinkit strategy · 2,000 SKU · grocery segmentation |
+| 🏦 **Finance & Real Estate** | 3 | NSE SQL · Dubai price model · Financial Ledger |
+| 🍽️ **Food & Travel** | 2 | Zomato · Airbnb |
+| 💻 **SaaS & AI** | 4 | B2B SaaS ROI case · Tennis API app · AI driving optimizer · AI publications |
+| 🏥 **Health & People** | 2 | Mental Health in Tech · Strava-Fitbit |
 
 ---
 
@@ -194,6 +189,5 @@
 [🏠 Back to Dashboard](./README.md)
 
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:C9A227,100:0A1F44&height=90&section=footer)
-
 
 </div>
