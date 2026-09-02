@@ -1,8 +1,10 @@
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0A1F44,100:C9A227&height=150&section=header&text=🚀%20Projects&fontSize=42&fontColor=ffffff&animation=fadeIn)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:FF9933,50:FFFFFF,100:138808&height=160&section=header&text=🚀%20Projects&fontSize=44&fontColor=0B1F4D&animation=fadeIn)
 
 [🏠 Home](./README.md) · [🎓 Education](./EDUCATION.md) · [💼 Experience](./EXPERIENCE.md) · [🏅 Certifications](./CERTIFICATIONS.md) · **🚀 Projects** · [🧪 Simulations](./SIMULATIONS.md) · [✍️ Publications](./PUBLICATIONS.md)
+
+🪔 ✦ ☸️ ✦ 🪔
 
 </div>
 
@@ -10,11 +12,11 @@
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/DATA_PROJECTS-13-C9A227?style=for-the-badge&labelColor=0A1F44" />
-<img src="https://img.shields.io/badge/PM_CASE_STUDIES-7-0A1F44?style=for-the-badge&labelColor=C9A227" />
-<img src="https://img.shields.io/badge/EV_ENGINEERING-10-C9A227?style=for-the-badge&labelColor=0A1F44" />
-<img src="https://img.shields.io/badge/CYBER_SECURITY-20-0A1F44?style=for-the-badge&labelColor=C9A227" />
-<img src="https://img.shields.io/badge/AUTOMATED_TESTS-452_passing-C9A227?style=for-the-badge&labelColor=0A1F44" />
+<img src="https://img.shields.io/badge/DATA_PROJECTS-13-FF9933?style=for-the-badge&labelColor=0B1F4D" />
+<img src="https://img.shields.io/badge/PM_CASE_STUDIES-7-138808?style=for-the-badge&labelColor=0B1F4D" />
+<img src="https://img.shields.io/badge/EV_ENGINEERING-10-FF9933?style=for-the-badge&labelColor=0B1F4D" />
+<img src="https://img.shields.io/badge/CYBER_SECURITY-20-138808?style=for-the-badge&labelColor=0B1F4D" />
+<img src="https://img.shields.io/badge/AUTOMATED_TESTS-452_passing-E4A11B?style=for-the-badge&labelColor=0B1F4D" />
 
 **Full repos:** [📊 hexa-data-analytics-portfolio](https://github.com/YOUR-USERNAME/hexa-data-analytics-portfolio) · [🧭 product-management-case-studies](https://github.com/YOUR-USERNAME/product-management-case-studies) · [🔌🛡️ Codec-Technologies-Internship-Projects-2026](https://github.com/YOUR-USERNAME/Codec-Technologies-Internship-Projects-2026)
 
@@ -26,7 +28,8 @@
 <summary>🔌 <b>Electric Vehicle Engineering</b> — Codec Technologies (Python · Simulation · Embedded) <b>· 10 projects · 226 tests</b></summary>
 <br>
 
-> Each runs on real cited data (NASA POWER, IEA) or clearly-declared synthetic data. Hardware/MATLAB/COMSOL briefs delivered as open-source Python equivalents + compile-checked Arduino/ESP8266 firmware.
+> Real cited data (NASA POWER, IEA) or clearly-declared synthetic data. MATLAB/COMSOL/HOMER briefs delivered as open-source Python equivalents + compile-checked Arduino/ESP8266 firmware.
+
 
 | Project | Verified Result |
 |---|---|
@@ -47,7 +50,7 @@
 <summary>🛡️ <b>Cyber Security — Defensive & Educational</b> — Codec Technologies (Python · Security) <b>· 20 projects · 226 tests</b></summary>
 <br>
 
-> Every project runs only against its own bundled lab targets or synthetic data. Three offensive briefs delivered as the defensive version (marked ⚠): ransomware → behaviour detector, phishing → detection + safe awareness, dark-web monitoring → lawful k-anonymity credential intel.
+> Every project runs only against its own bundled lab targets or synthetic data. Three offensive briefs delivered as the defensive version (⚠): ransomware → behaviour detector, phishing → detection + safe awareness, dark-web monitoring → lawful k-anonymity credential intel.
 
 | # | Project | Focus |
 |---|---|---|
@@ -60,6 +63,7 @@
 | 07 | Password Hashing & Cracking | bcrypt/argon2 vs weak hashes + strength meter |
 | 08 | Network Traffic Analysis | SYN-scan · C2 beacon · exfil detection |
 | 09 | Incident Response Playbook | NIST 800-61r2 + 6 ATT&CK playbooks + mini-SIEM |
+
 | 10 | Honeypot | SSH/HTTP/Telnet credential-capture + analytics |
 | 11 | Mobile App Security Framework | Android SAST → OWASP Mobile Top 10 |
 | 12 | IoT Device Pentest Lab | Simulated devices + firmware triage |
@@ -92,6 +96,7 @@
 </details>
 
 <details open>
+
 <summary>🗃️ <b>SQL & Databases</b></summary>
 <br>
 
@@ -125,8 +130,9 @@
 
 </details>
 
+
 <details open>
-<summary>🧭 <b>Product Management Cases</b> (frameworks: Five Forces · JTBD · RICE · STP)</summary>
+<summary>🧭 <b>Product Management Cases</b> (Five Forces · JTBD · RICE · STP)</summary>
 <br>
 
 | Case | Core Deliverable |
@@ -157,6 +163,7 @@
 
 ## 🏭 View 2 — Sector-Wise
 
+
 | Sector | # | Projects That Speak Its Language |
 |---|:--:|---|
 | 🚚 **Logistics & Mobility** | 5 | FedEx EDA · Uber gap analysis · India EV dashboard · EV charging locator · smart traffic-light priority |
@@ -184,10 +191,25 @@
 
 ---
 
+## 🧪 How I Build — Engineering Standard
+
+Every project on this page follows the same discipline, which is what makes the portfolio trustworthy to a hiring manager:
+
+
+- ✅ **No fabricated data** — figures trace to a named public source (IEA, NASA POWER, NSL-KDD, ICCT) or are clearly labelled synthetic.
+- ✅ **Reproducible** — each project has a single entry point (`python main.py`) and regenerates its own results.
+- ✅ **Tested** — the 30 Codec projects ship **452 automated tests**, all passing; analytics projects follow CRISP-DM with documented steps.
+- ✅ **Documented** — every folder has a first-person README with method, results and limitations.
+- ✅ **Ethical** — all security work is defensive and runs only against self-contained lab targets.
+
+> **Why this matters for a senior role:** it shows I ship work that a team can audit, re-run and trust — not one-off notebooks. That is the difference between an analyst and an analytics *leader*.
+
+---
+
 <div align="center">
 
 [🏠 Back to Dashboard](./README.md)
 
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:C9A227,100:0A1F44&height=90&section=footer)
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:138808,50:FFFFFF,100:FF9933&height=100&section=footer)
 
 </div>
