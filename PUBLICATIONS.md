@@ -1,8 +1,8 @@
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0:FF9933,50:FFFFFF,100:138808&height=160&section=header&text=🧪%20Job%20Simulations&fontSize=44&fontColor=0B1F4D&animation=fadeIn)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:FF9933,50:FFFFFF,100:138808&height=160&section=header&text=✍️%20Publications&fontSize=44&fontColor=0B1F4D&animation=fadeIn)
 
-[🏠 Home](./README.md) · [🎓 Education](./EDUCATION.md) · [💼 Experience](./EXPERIENCE.md) · [🏅 Certifications](./CERTIFICATIONS.md) · [🚀 Projects](./PROJECTS.md) · **🧪 Simulations** · [✍️ Publications](./PUBLICATIONS.md)
+[🏠 Home](./README.md) · [🎓 Education](./EDUCATION.md) · [💼 Experience](./EXPERIENCE.md) · [🏅 Certifications](./CERTIFICATIONS.md) · [🚀 Projects](./PROJECTS.md) · [🧪 Simulations](./SIMULATIONS.md) · **✍️ Publications**
 
 🪔 ✦ ☸️ ✦ 🪔
 
@@ -12,102 +12,87 @@
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/FORAGE_SIMULATIONS-58%2B-FF9933?style=for-the-badge&labelColor=0B1F4D" />
-<img src="https://img.shields.io/badge/GLOBAL_COMPANIES-Fortune_500%2B-138808?style=for-the-badge&labelColor=0B1F4D" />
-<img src="https://img.shields.io/badge/FUNCTIONS-6%2B-E4A11B?style=for-the-badge&labelColor=0B1F4D" />
+<img src="https://img.shields.io/badge/ESSAYS_&_PAPERS-20%2B-FF9933?style=for-the-badge&labelColor=0B1F4D" />
+<img src="https://img.shields.io/badge/COLLECTIONS-6-138808?style=for-the-badge&labelColor=0B1F4D" />
+<img src="https://img.shields.io/badge/BYLINE-MBA_·_SCPro_·_SSBB-E4A11B?style=for-the-badge&labelColor=0B1F4D" />
 
-**What these are:** Forage job simulations are task-based virtual work experiences designed by real companies — you complete the actual deliverables their teams produce (analysis decks, models, briefs), not quizzes.
+*Everything below is original written work — case studies, essays, and frameworks published on my own sites.*
 
 </div>
 
-## 🏭 View 1 — By Sector & Company
+## 📚 Main Index — Collections
 
-> ⚠️ **Fill-in note:** I've kept slots per sector — replace/add company names from your Forage profile so every entry is verifiable. Confirmed examples are pre-filled.
+| # | Collection | Type | Pieces |
+|---|---|---|---|
+| 1 | 📓 **The Pickup Notebook** | Case-study blog (Uber pickup experience) | 10 pages |
+| 2 | 📦 **The 2,000 SKU Problem** | Inventory strategy essay site | 4 essays |
+| 3 | 🤖 **AI Insights Journal** | AI industry commentary | 2 essays |
+| 4 | 🧭 **PM Strategy Series** | Product method essays | 2 essays |
+| 5 | 📄 **From Operations to Analytics** | Research paper | 1 paper |
+| 6 | 🏗️ **The Operator–Analyst Architecture** | Career framework monograph | 15-page paper + 8-rule monograph |
 
-<details open>
-<summary>🍫 <b>FMCG & Consumer Goods</b></summary>
-<br>
-
-| Company | Simulation Focus | Skill Proven |
-|---|---|---|
-
-| 🧴 **Unilever** | *(add simulation name)* | Consumer analytics / operations |
-| 👜 **LVMH** | *(add simulation name)* | Luxury retail strategy |
-| ➕ *(add more)* | | |
-
-</details>
-
-<details open>
-<summary>🏦 <b>Banking, Finance & Consulting</b></summary>
-<br>
-
-| Company | Simulation Focus | Skill Proven |
-|---|---|---|
-| ➕ *(add — e.g., your bank/consulting sims)* | | Financial analysis · client advisory |
-
-</details>
-
-<details open>
-<summary>💻 <b>Technology & Data</b></summary>
-<br>
-
-| Company | Simulation Focus | Skill Proven |
-|---|---|---|
-| ➕ *(add — e.g., your tech/data sims)* | | Data analytics · engineering thinking |
-
-</details>
-
-<details open>
-<summary>🚚 <b>Logistics, Supply Chain & Operations</b></summary>
-<br>
-
-| Company | Simulation Focus | Skill Proven |
-|---|---|---|
-
-| ➕ *(add)* | | Network design · inventory · ops |
-
-</details>
-
-<details open>
-<summary>⚖️ <b>Legal, Audit & Governance</b></summary>
-<br>
-
-| Company | Simulation Focus | Skill Proven |
-|---|---|---|
-| ➕ *(add)* | | Compliance · structured review |
-
-</details>
-
-<details open>
-<summary>📣 <b>Marketing, Sales & Strategy</b></summary>
-<br>
-
-| Company | Simulation Focus | Skill Proven |
-|---|---|---|
-| ➕ *(add)* | | GTM thinking · customer strategy |
-
-</details>
+> 🔗 Live links: *(replace with your Netlify URLs)* — each collection below lists its internal pages so recruiters see the depth.
 
 ---
 
-## 🎯 View 2 — Why 58+ Simulations = Versatility for Bigger Roles
+## 📓 Collection 1 — The Pickup Notebook
 
-| What a Senior Role Demands | How Simulations Prove It |
+*Companion publication to the [Uber pickup case study](./PROJECTS.md).*
+
+| Page | Content |
 |---|---|
-| 🌍 **Cross-functional fluency** | Completed real deliverables across finance, tech, FMCG, consulting & ops — I speak every department's language in one meeting |
-| 🏢 **Big-company process exposure** | Worked through Fortune-500-designed workflows before ever joining one — lower ramp-up time |
+| 🏠 Index | Case-study hub & navigation |
+| ✍️ Essays 1–7 | Pickup friction · coordination failure · interview method · metrics design · segment logic · solution framing · rollout thinking |
+| 🛠️ The Workbench | 72-formula analysis workbook walkthrough |
+| 📝 Craft Notes ×4 | How the case was researched, structured, modeled & written |
 
-| 🔁 **Learning velocity** | 58+ simulations completed alongside full-time work — evidence of sustained self-directed upskilling |
-| 🧩 **Pattern recognition** | Seeing how *different* industries solve the *same* problems (forecasting, prioritization, stakeholder comms) — the core skill of an AVP who moves between domains |
-| 🤝 **Stakeholder empathy** | Sims span analyst, consultant, marketer & ops seats — I've sat in the chairs of the people I'd manage |
+## 📦 Collection 2 — The 2,000 SKU Problem
 
-> **The honest framing:** simulations are not jobs — they're structured proof of range and initiative. My depth comes from [8+ years of real roles](./EXPERIENCE.md); simulations show the *breadth* on top.
+| Essay | Angle |
+|---|---|
+| Essay 1 | Why unmanaged SKU count silently kills margin |
+| Essay 2 | ABC × XYZ — the classification engine |
+| Essay 3 | From matrix to policy — service levels & reorder logic |
+| Essay 4 | The rollout — change management for inventory discipline |
+
+## 🤖 Collection 3 — AI Insights Journal
+
+| Essay | Thesis |
+|---|---|
+| The AI Product Race | How foundation-model competition reshapes product strategy |
+| The AI Takeover of E-Commerce | Where AI actually moves e-commerce P&Ls |
+
+## 🧭 Collection 4 — PM Strategy Series
+
+| Essay | Core Idea |
+|---|---|
+| *Metrics Tell You What. Users Tell You Why.* | Pairing quant dashboards with qualitative research |
+| *From Twelve Interview Questions to One Target Segment* | Interview-to-segmentation method |
+
+## 📄 Collection 5 — Research Paper
+
+**From Operations to Analytics** — documents the transition path: how 8 years of operations experience converts into analytical advantage, with evidence from my own project portfolio.
+
+## 🏗️ Collection 6 — The Operator–Analyst Architecture
+
+| Piece | Content |
+|---|---|
+| 📄 15-page paper | The full career architecture — why operator experience + analyst tooling is the senior-role combination |
+| 📜 8-Rule Monograph | The framework distilled into eight operating rules |
+
+---
+
+## 🖋️ Byline & Standard
+
+> **Eswar Mahalingam · MBA · CSCMP SCPro · Six Sigma Black Belt**
+
+All publications follow the same integrity rule as my analytics work: **no invented data** — every figure cited in an essay traces to the underlying project workbook or a named public source.
 
 ---
 
 ## ✅ Fitment Snapshot
 
-**58+ simulations is not resume padding — it is a controlled demonstration of range.** A hiring manager filling a cross-functional senior role wants proof that a candidate can move between finance, ops, tech and marketing without a long ramp. That is exactly what this bench shows, sitting *on top of* real operating experience and 30 tested engineering projects — depth first, breadth as the multiplier.
+**Writing is how I prove I can think, not just calculate.** These essays show a senior hiring manager three things a CV cannot: structured reasoning under a clear thesis, the ability to translate technical work into business language stakeholders act on, and the communication range expected of a manager who briefs leadership. The recurring theme — *operator experience + analyst tooling* — is exactly the profile I'm targeting for Sr Manager / AVP roles.
 
 ---
 
