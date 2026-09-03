@@ -3,7 +3,7 @@
 
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0A1F44,50:1a3a6b,100:C9A227&height=210&section=header&text=Eswar%20Mahalingam&fontSize=52&fontColor=ffffff&animation=fadeIn&desc=🎛️%20Career%20Control%20Tower%20—%20Data%20Analytics%20%7C%20Supply%20Chain%20%7C%20AI&descSize=17&descAlignY=75)
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=IBM+Plex+Mono&size=21&duration=3000&pause=800&color=C9A227&center=true&vCenter=true&width=680&lines=Data+Analyst+%40+HEXA+Solutions;Turning+messy+data+into+business+decisions;SQL+%E2%80%A2+Python+%E2%80%A2+Power+BI+%E2%80%A2+AI+Tools;MBA+%7C+Six+Sigma+Black+Belt+%7C+CSCMP+SCPro)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=IBM+Plex+Mono&size=21&duration=3000&pause=800&color=C9A227&center=true&vCenter=true&width=680&lines=Data+Analyst+%7C+Analytics+%26+Operations+Leader;Available+Now+%E2%80%94+Immediate+Joiner;Turning+messy+data+into+business+decisions;SQL+%E2%80%A2+Python+%E2%80%A2+Power+BI+%E2%80%A2+AI+Tools;MBA+%7C+Six+Sigma+Black+Belt+%7C+CSCMP+SCPro)](https://git.io/typing-svg)
 
 ### 🗂️ Open a Panel in Full
 
@@ -67,9 +67,9 @@
 
 | Signal | Status |
 |---|---|
-| 💼 **Role** | Data Analyst @ **HEXA Solutions** |
+| 💼 **Status** | 🟢 **Available now** — Data Analyst · Analytics & Ops Manager · *(HEXA Solutions Data Analyst program completed Sep 2026, certified)* |
 | 📍 **Base** | Ghaziabad, NCR, India |
-| ⚡ **Side engagements** | micro1 (AI Trainer) · Zidio (DS&A) · CadetX (Analytics+AI) · GWEN (UX) — *freelance/project* |
+| ⚡ **Active engagements** | micro1 (AI Trainer) · Zidio (DS&A) · CadetX (Analytics+AI) · Codec (EV & Cyber) · GWEN (UX) — *freelance/project* |
 | 📚 **Learning** | AI-First PM · RAG & Agents · SAP MM · German A1 🇩🇪 |
 | 🎯 **Targeting** | Sr Manager / AVP — Analytics · SCM · Ops |
 | 🌍 **Open to** | India · EU (Blue Card) · Gulf · Immediate |
@@ -186,14 +186,14 @@ timeline
     2021 : Sales Analyst — Spinny 🚗 : Portfolio Manager — Square Yards, Dubai 🏙️
     2021-22 : Team Lead — OLX Autos 📞
     2025-26 : Closure Manager — Spinny (250+ deals, Top Consultant Q2)
-    2026 : Data Analyst — HEXA Solutions 📊 ⭐
+    2026 : Data Analyst — HEXA Solutions 📊 (Jun–Sep, certified) : 🟢 Available for next role
 ```
 
 <div align="center">
 
 | 🏢 | Role | Key Number |
 |---|---|---|
-| **HEXA Solutions** | Data Analyst 🟢 | 13-project portfolio |
+| **HEXA Solutions** | Data Analyst (Jun–Sep 2026) ✅ | 13-project portfolio · Completion + Experience Certificate |
 | **Spinny** | Closure Manager | 250+ deals · **18% closure lift** · 4.8/5 CSAT |
 | **Square Yards, Dubai** | Portfolio Manager | 100+ HNI · 15+ nationalities · **90% retention** |
 | **Paisabazaar** | Sales Consultant | **28% conversion** · ₹1.5Cr+/month |
