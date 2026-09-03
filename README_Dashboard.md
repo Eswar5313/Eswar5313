@@ -14,6 +14,27 @@
 [![Simulations](https://img.shields.io/badge/🧪_Simulations-0A1F44?style=for-the-badge)](./SIMULATIONS.md)
 [![Publications](https://img.shields.io/badge/✍️_Publications-C9A227?style=for-the-badge)](./PUBLICATIONS.md)
 
+### 🧬 Layer 2 — Capability Panels
+
+*Who I am, by every lens a hiring manager uses: skills, tools, roles, responsibilities, duties, domains, sectors, industries, methods, impact, soft skills, leadership, employability, learning, mobility, integrity.*
+
+[![Skills](https://img.shields.io/badge/🧠_Skills-0A1F44?style=for-the-badge)](./SKILLS.md)
+[![Tools](https://img.shields.io/badge/🛠️_Tools-C9A227?style=for-the-badge)](./TOOLS.md)
+[![Roles](https://img.shields.io/badge/🎯_Roles-0A1F44?style=for-the-badge)](./ROLES.md)
+[![Responsibilities](https://img.shields.io/badge/📋_Responsibilities-C9A227?style=for-the-badge)](./RESPONSIBILITIES.md)
+[![Duties](https://img.shields.io/badge/🗓️_Duties-0A1F44?style=for-the-badge)](./DUTIES.md)
+[![Domains](https://img.shields.io/badge/🧭_Domains-C9A227?style=for-the-badge)](./DOMAINS.md)
+[![Sectors](https://img.shields.io/badge/🏭_Sectors-0A1F44?style=for-the-badge)](./SECTORS.md)
+[![Industries](https://img.shields.io/badge/🏢_Industries-C9A227?style=for-the-badge)](./INDUSTRIES.md)
+[![Methods](https://img.shields.io/badge/📐_Methods-0A1F44?style=for-the-badge)](./METHODS.md)
+[![Impact](https://img.shields.io/badge/📈_Impact-C9A227?style=for-the-badge)](./IMPACT.md)
+[![Soft Skills](https://img.shields.io/badge/🤝_Soft_Skills-0A1F44?style=for-the-badge)](./SOFT_SKILLS.md)
+[![Leadership](https://img.shields.io/badge/🧑‍✈️_Leadership-C9A227?style=for-the-badge)](./LEADERSHIP.md)
+[![Employability](https://img.shields.io/badge/✅_Employability-0A1F44?style=for-the-badge)](./EMPLOYABILITY.md)
+[![Learning](https://img.shields.io/badge/📚_Learning-C9A227?style=for-the-badge)](./LEARNING.md)
+[![Mobility](https://img.shields.io/badge/🌍_Mobility-0A1F44?style=for-the-badge)](./MOBILITY.md)
+[![Integrity](https://img.shields.io/badge/🛡️_Integrity-C9A227?style=for-the-badge)](./INTEGRITY.md)
+
 </div>
 
 <!-- ═══════════════ KPI STRIP ═══════════════ -->
@@ -30,13 +51,8 @@
 <img src="https://img.shields.io/badge/CSAT-92%25%2B-0A1F44?style=for-the-badge&labelColor=C9A227" />
 
 <img src="https://img.shields.io/badge/DATA_PROJECTS-13-C9A227?style=for-the-badge&labelColor=0A1F44" />
-
 <img src="https://img.shields.io/badge/PM_CASE_STUDIES-7-C9A227?style=for-the-badge&labelColor=0A1F44" />
 <img src="https://img.shields.io/badge/JOB_SIMULATIONS-58%2B-C9A227?style=for-the-badge&labelColor=0A1F44" />
-
-<img src="https://img.shields.io/badge/EV_ENGINEERING-10-0A1F44?style=for-the-badge&labelColor=C9A227" />
-<img src="https://img.shields.io/badge/CYBER_SECURITY-20-0A1F44?style=for-the-badge&labelColor=C9A227" />
-<img src="https://img.shields.io/badge/TESTS_PASSING-452-0A1F44?style=for-the-badge&labelColor=C9A227" />
 
 </div>
 
@@ -53,8 +69,8 @@
 |---|---|
 | 💼 **Role** | Data Analyst @ **HEXA Solutions** |
 | 📍 **Base** | Ghaziabad, NCR, India |
-| ⚡ **Side engagements** | micro1 (AI Trainer) · Zidio (DS&A) · CadetX (Analytics+AI) · GWEN (UX) · **Codec Technologies (EV + Cyber Security)** — *intern/project* |
-| 📚 **Learning** | AI-First PM · RAG & Agents · SAP MM · EV systems · Cybersecurity · German A1 🇩🇪 |
+| ⚡ **Side engagements** | micro1 (AI Trainer) · Zidio (DS&A) · CadetX (Analytics+AI) · GWEN (UX) — *freelance/project* |
+| 📚 **Learning** | AI-First PM · RAG & Agents · SAP MM · German A1 🇩🇪 |
 | 🎯 **Targeting** | Sr Manager / AVP — Analytics · SCM · Ops |
 | 🌍 **Open to** | India · EU (Blue Card) · Gulf · Immediate |
 
@@ -62,7 +78,6 @@
 <td width="50%" valign="top">
 
 ### 🧠 Skill Radar
-
 
 | Domain | Level |
 |---|---|
@@ -72,7 +87,6 @@
 | 🐍 Python (Pandas/Sklearn) | 🟨🟨🟨🟨⬜ |
 | 📈 Power BI / Tableau | 🟨🟨🟨🟨⬜ |
 | 🤖 AI Tools / Prompting | 🟨🟨🟨🟨🟨 |
-| 🛡️ Cyber Security (VAPT/Crypto/IDS) | 🟨🟨🟨🟨⬜ |
 | 🚚 Supply Chain Ops | 🟨🟨🟨🟨🟨 |
 
 </td>
@@ -94,13 +108,6 @@
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white)
 ![Excel](https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
-![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=flat-square&logo=plotly&logoColor=white)
-
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white)
-![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
 ![Salesforce](https://img.shields.io/badge/Salesforce-00A1E0?style=flat-square&logo=salesforce&logoColor=white)
 ![SAP](https://img.shields.io/badge/SAP_MM-0FAAFF?style=flat-square&logo=sap&logoColor=white)
@@ -126,13 +133,11 @@
 |---|---|
 | 📊 [`hexa-data-analytics-portfolio`](https://github.com/YOUR-USERNAME/hexa-data-analytics-portfolio) | **13 projects** — EDA · SQL · ML · API · dashboards |
 | 🧭 [`product-management-case-studies`](https://github.com/YOUR-USERNAME/product-management-case-studies) | **7 cases** — Uber · Zepto · Nykaa · B2B SaaS · Blinkit |
-| 🔌🛡️ [`Codec-Technologies-Internship-Projects-2026`](https://github.com/YOUR-USERNAME/Codec-Technologies-Internship-Projects-2026) | **30 projects** — 10 EV engineering + 20 defensive cyber security · **452 tests** · per-track dashboards |
 
 **Verified headline figures:**
+🏙️ Dubai model → **99 AED/sqft** · 🛒 Flipkart CSAT → **4.48→3.66** · ⌚ Fitness corr → **r = −0.60**
 
-🏙️ Dubai model → **99 AED/sqft** · 🛒 Flipkart CSAT → **4.48→3.66** · ⌚ Fitness corr → **r = −0.60** · 🔋 BMS EKF SOC RMSE → **0.63 %** · 🛡️ ML IDS F1 → **0.998**
-
-➡️ [All 50+ projects in detail](./PROJECTS.md) · [🧪 58+ job simulations](./SIMULATIONS.md) · [✍️ Publications](./PUBLICATIONS.md)
+➡️ [All 20+ projects in detail](./PROJECTS.md) · [🧪 58+ job simulations](./SIMULATIONS.md) · [✍️ Publications](./PUBLICATIONS.md)
 
 </td>
 <td width="50%" valign="top">
@@ -158,13 +163,6 @@ Anthropic AI Fluency ×2 · Claude 101 · Agent Skills · Outskill AI Generalist
 </details>
 
 <details>
-<summary>🔌🛡️ <b>Engineering & Security</b> (Codec Technologies)</summary>
-
-Electric Vehicle intern · Cyber Security intern · Digital Electronics & VLSI intern · Robotics & Automation intern · GraySentinel Blue-Team/SOC trainee
-</details>
-
-
-<details>
 <summary>💼 <b>Sales & CRM</b> (3)</summary>
 
 Salesforce Administrator · PepsiCo Sales Star · SAP MM *(in progress)*
@@ -188,16 +186,14 @@ timeline
     2021 : Sales Analyst — Spinny 🚗 : Portfolio Manager — Square Yards, Dubai 🏙️
     2021-22 : Team Lead — OLX Autos 📞
     2025-26 : Closure Manager — Spinny (250+ deals, Top Consultant Q2)
-    2026 : Data Analyst — HEXA Solutions 📊 ⭐ : EV + Cyber Security intern — Codec Technologies 🔌🛡️
+    2026 : Data Analyst — HEXA Solutions 📊 ⭐
 ```
 
 <div align="center">
 
 | 🏢 | Role | Key Number |
 |---|---|---|
-
 | **HEXA Solutions** | Data Analyst 🟢 | 13-project portfolio |
-| **Codec Technologies** | EV + Cyber Security intern 🟢 | 30 projects · 452 tests |
 | **Spinny** | Closure Manager | 250+ deals · **18% closure lift** · 4.8/5 CSAT |
 | **Square Yards, Dubai** | Portfolio Manager | 100+ HNI · 15+ nationalities · **90% retention** |
 | **Paisabazaar** | Sales Consultant | **28% conversion** · ₹1.5Cr+/month |
@@ -227,7 +223,6 @@ timeline
 <td width="55%" valign="top">
 
 ### 📈 GitHub Telemetry
-
 
 <img src="https://github-readme-stats.vercel.app/api?username=YOUR-USERNAME&show_icons=true&bg_color=0A1F44&title_color=C9A227&icon_color=C9A227&text_color=ffffff&border_color=C9A227" width="100%" />
 
