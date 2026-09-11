@@ -1,10 +1,8 @@
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0:FF9933,50:FFFFFF,100:138808&height=160&section=header&text=💼%20Experience&fontSize=44&fontColor=0B1F4D&animation=fadeIn)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0A1F44,100:C9A227&height=150&section=header&text=💼%20Experience&fontSize=42&fontColor=ffffff&animation=fadeIn)
 
 [🏠 Home](./README.md) · [🎓 Education](./EDUCATION.md) · **💼 Experience** · [🏅 Certifications](./CERTIFICATIONS.md) · [🚀 Projects](./PROJECTS.md) · [🧪 Simulations](./SIMULATIONS.md) · [✍️ Publications](./PUBLICATIONS.md)
-
-🪔 ✦ ☸️ ✦ 🪔
 
 </div>
 
@@ -12,10 +10,9 @@
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/YEARS-8%2B-FF9933?style=for-the-badge&labelColor=0B1F4D" />
-<img src="https://img.shields.io/badge/SECTORS-6-138808?style=for-the-badge&labelColor=0B1F4D" />
-<img src="https://img.shields.io/badge/COUNTRIES-🇮🇳_India_+_🇦🇪_UAE-E4A11B?style=for-the-badge&labelColor=0B1F4D" />
-<img src="https://img.shields.io/badge/SALES_FACILITATED-₹13.5Cr%2B-FF9933?style=for-the-badge&labelColor=0B1F4D" />
+<img src="https://img.shields.io/badge/YEARS-8%2B-C9A227?style=for-the-badge&labelColor=0A1F44" />
+<img src="https://img.shields.io/badge/SECTORS-7-0A1F44?style=for-the-badge&labelColor=C9A227" />
+<img src="https://img.shields.io/badge/COUNTRIES-🇮🇳_India_+_🇦🇪_UAE-C9A227?style=for-the-badge&labelColor=0A1F44" />
 
 </div>
 
@@ -27,24 +24,26 @@
 
 | Role | Company | Period | What I Deliver |
 |---|---|---|---|
-| 🟢 **Data Analyst** | HEXA Solutions, Ghaziabad | Jun 2026 – Present | 13-project analytics portfolio (EDA, SQL, ML, API pipelines, dashboards) · weekly learning decks · CRISP-DM workflow |
+| 🟢 **Data Scientist** — Data Science & Analytics | Zidio Development *(remote)* | Jul 2026 – Present | Data cleaning · predictive modeling (Project FORESIGHT demand forecast) · dashboards · Python/SQL/R |
+| 📊 **Data Analyst** | HEXA Solutions, Ghaziabad | Jun – Sep 2026 | 13-project analytics portfolio (EDA, SQL, ML, API pipelines, dashboards) · weekly learning decks · CRISP-DM workflow · Completion + Experience Certificate |
 | 🤖 **AI Trainer** *(freelance)* | micro1 | Aug 2026 – Present | Evaluating AI-generated responses against guidelines · structured feedback for model improvement |
-| 📈 **Data Science & Analytics** *(project-based)* | Zidio Development | Aug 2026 – Present | Data cleaning · predictive modeling · dashboards · Python/SQL/R |
 | ⚙️ **Data Analytics + AI Engineer track** *(project-based)* | CadetX | Aug 2026 – Present | Excel, SQL, Power BI business assignments |
 
 </details>
 
 <details open>
-<summary>🔌🛡️ <b>Engineering & Security</b> — Codec Technologies</summary>
+<summary>⚙️ <b>Engineering & Security — 2026 internship tracks</b></summary>
 <br>
 
-| Role | Company | Period | What I Deliver |
+| Role | Company | Period | What I Delivered |
 |---|---|---|---|
-| 🔌 **Electric Vehicle Intern** | Codec Technologies | Aug 2026 – Present | 10 EV projects — BMS (EKF SOC/SOH), drivetrain, solar-charging, wireless charging, IoT firmware, market forecasting · 226 tests |
-| 🛡️ **Cyber Security Intern** | Codec Technologies | Aug 2026 – Present | 20 defensive projects — VAPT, ML IDS, cryptography, forensics, incident response, honeypot, CTF · 226 tests |
-| ⚡ **Digital Electronics & VLSI · Robotics & Automation Interns** | Codec Technologies | Aug 2026 – Present | Parallel embedded/hardware tracks |
+| 🔌 **Digital Electronics & VLSI Intern** | Codec Technologies India *(remote)* | Aug 2026 – Present | [10 RTL/FPGA/ASIC projects](https://github.com/Eswar5313/Codec-Technologies-Internship-Portfolio-2026/tree/main/Digital-Electronics-VLSI) — Verilog/VHDL, self-checking testbenches, Yosys + nextpnr place-and-route (UART **135 MHz**), low-power ALU **−63.8 %**, own RTL-to-GDSII flow |
+| 🤖 **Robotics & Automation Intern** | Codec Technologies India *(remote)* | Aug 2026 – Present | [10 simulation projects](https://github.com/Eswar5313/Codec-Technologies-Internship-Portfolio-2026/tree/main/Robotics-Automation) — A*/Dijkstra AMR (**0 collisions**), Kalman + PID balancing, SLAM search & rescue, drone surveillance, conveyor vision **99.7 %** · 143 tests |
+| ⚡ **Electric Vehicle Intern** | Codec Technologies India *(remote)* | Aug 2026 – Present | [10 EV projects](https://github.com/Eswar5313/Codec-Technologies-Internship-Portfolio-2026/tree/main/Electric-Vehicle) — BMS with EKF (SOC RMSE **0.63 %**), solar charging techno-economics on NASA POWER data, drivetrain, wireless charging, IEA market forecast · 226 tests |
+| 🛡️ **Cyber Security Intern** | Codec Technologies India *(remote)* | Aug 2026 – Present | [20 defensive projects](https://github.com/Eswar5313/Codec-Technologies-Internship-Portfolio-2026/tree/main/Cyber-Security) — IDS on NSL-KDD (F1 0.998), phishing detection, ransomware-behaviour detector, forensics, honeypot · 226 tests |
+| 🔵 **Blue Team Operator & Trainee** | GraySentinel Cyber Defence Lab | Jul 2026 – Present | Guided zero-day discovery and attack-chain labs · Sigma detection rules · defensive reports |
 
-*Reinforced by GraySentinel Blue-Team/SOC training — see [Certifications](./CERTIFICATIONS.md)*
+*All 50 Codec projects: one repo, one dashboard → [https://eswar5313.github.io/Codec-Technologies-Internship-Portfolio-2026/](https://eswar5313.github.io/Codec-Technologies-Internship-Portfolio-2026/)*
 
 </details>
 
@@ -109,30 +108,13 @@
 
 | Role Lens | Evidence Across Career |
 |---|---|
-| 📊 **The Analyst** | HEXA 13 projects · Spinny sales analysis · Excel/SQL/Python/BI stack · verified-figures discipline |
+| 📊 **The Analyst** | HEXA 13 projects · Zidio forecasting · Spinny sales analysis · Excel/SQL/Python/BI stack · verified figures discipline |
+| ⚙️ **The Engineer-Analyst** | 50 Codec projects across VLSI, robotics, EV and cyber — RTL timing reports, robot simulations and detection models, all with tests and reports |
 | 💼 **The Closer** | ₹13.5Cr+ facilitated · 28% conversion (Paisabazaar) · 250+ deals & Top Consultant (Spinny) |
 | 👥 **The Team Lead** | OLX team leadership · 87% FCR · mentoring & escalation handling |
 | 🌍 **The International Operator** | Dubai HNI portfolio · 15+ nationalities · 4 languages · EU Blue Card track |
 | 🚚 **The Ops Improver** | 30% stockout ↓ · 22% cycle-delay ↓ · Six Sigma Black Belt DMAIC mindset |
-| 🔧 **The Builder** | 30 EV + cyber projects at Codec · 452 automated tests · ships reproducible, tested work |
 | 🤖 **The AI-Fluent Professional** | micro1 AI training · 4 Anthropic certifications · AI-First PM cohort · RAG/agents study |
-
----
-
-## 📊 Impact Ledger — Quantified Track Record
-
-| Metric | Result | Where |
-|---|---|---|
-| 💰 Sales facilitated | **₹13.5 Cr+** | Across Spinny · Paisabazaar · Square Yards |
-| 📈 Conversion rate | **28%** | Paisabazaar |
-| 🤝 Deals closed | **250+** | Spinny (Closure Manager) |
-| ⬆️ Closure-rate lift | **18%** | Spinny |
-| ⭐ CSAT | **4.8/5 · 92%+** | Spinny · service roles |
-| 📞 First-contact resolution | **87%** | OLX Autos |
-| 📦 Stockout reduction | **30%** | Globus Logisys |
-| ⏱️ Cycle-delay cut | **22%** | Globus Logisys |
-| 🌏 Client retention | **90%+** | Square Yards, Dubai |
-| 🧪 Automated tests shipped | **452 passing** | Codec EV + Cyber projects |
 
 ---
 
@@ -147,16 +129,11 @@ timeline
     2021 : Spinny (Analyst) : Square Yards Dubai 🏙️
     2021-22 : OLX Autos — Team Lead 📞
     2025-26 : Spinny — Closure Manager 🏆
-    2026 : HEXA — Data Analyst 📊 ⭐ : Codec — EV + Cyber Security 🔌🛡️
+    2026 : HEXA Solutions — Data Analyst 📊 : Codec Technologies — 4 engineering tracks ⚙️
+    2026-Now : Zidio Development — Data Scientist 📈 ⭐
 ```
 
-> **Why the breadth matters:** most analysts have seen one industry's data. I've operated inside six — so when I analyze a supply chain, a sales funnel, or a customer-service queue, I've *worked* the process behind the numbers. And with Codec I've now shipped hands-on engineering, not just analysis.
-
----
-
-## ✅ Fitment Snapshot
-
-**I'm ready for Sr Manager / AVP because I combine three things most candidates have only one of:** a measurable *operating* record (₹13.5 Cr+, 30% stockout ↓), a modern *analytics + AI* toolkit (13 data projects, 4 Anthropic credentials), and *builder credibility* (30 tested engineering/security projects). Add international experience and an EU-Blue-Card language track, and I fit roles that span **analytics leadership, supply-chain/ops, and AI product** — in India, the EU, or the Gulf.
+> **Why the breadth matters:** most analysts have seen one industry's data. I've operated inside seven — so when I analyze a supply chain, a sales funnel, or a customer-service queue, I've *worked* the process behind the numbers.
 
 ---
 
@@ -164,6 +141,6 @@ timeline
 
 [🏠 Back to Dashboard](./README.md)
 
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:138808,50:FFFFFF,100:FF9933&height=100&section=footer)
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:C9A227,100:0A1F44&height=90&section=footer)
 
 </div>
