@@ -1,10 +1,8 @@
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0:FF9933,50:FFFFFF,100:138808&height=160&section=header&text=🚀%20Projects&fontSize=44&fontColor=0B1F4D&animation=fadeIn)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0A1F44,100:C9A227&height=150&section=header&text=🚀%20Projects&fontSize=42&fontColor=ffffff&animation=fadeIn)
 
 [🏠 Home](./README.md) · [🎓 Education](./EDUCATION.md) · [💼 Experience](./EXPERIENCE.md) · [🏅 Certifications](./CERTIFICATIONS.md) · **🚀 Projects** · [🧪 Simulations](./SIMULATIONS.md) · [✍️ Publications](./PUBLICATIONS.md)
-
-🪔 ✦ ☸️ ✦ 🪔
 
 </div>
 
@@ -12,71 +10,16 @@
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/DATA_PROJECTS-13-FF9933?style=for-the-badge&labelColor=0B1F4D" />
-<img src="https://img.shields.io/badge/PM_CASE_STUDIES-7-138808?style=for-the-badge&labelColor=0B1F4D" />
-<img src="https://img.shields.io/badge/EV_ENGINEERING-10-FF9933?style=for-the-badge&labelColor=0B1F4D" />
-<img src="https://img.shields.io/badge/CYBER_SECURITY-20-138808?style=for-the-badge&labelColor=0B1F4D" />
-<img src="https://img.shields.io/badge/AUTOMATED_TESTS-452_passing-E4A11B?style=for-the-badge&labelColor=0B1F4D" />
+<img src="https://img.shields.io/badge/DATA_PROJECTS-13-C9A227?style=for-the-badge&labelColor=0A1F44" />
+<img src="https://img.shields.io/badge/PM_CASE_STUDIES-7-0A1F44?style=for-the-badge&labelColor=C9A227" />
+<img src="https://img.shields.io/badge/LIVE_TOOLS-3%2B-C9A227?style=for-the-badge&labelColor=0A1F44" />
+<img src="https://img.shields.io/badge/ENGINEERING_PROJECTS-50-0A1F44?style=for-the-badge&labelColor=C9A227" />
 
-**Full repos:** [📊 hexa-data-analytics-portfolio](https://github.com/YOUR-USERNAME/hexa-data-analytics-portfolio) · [🧭 product-management-case-studies](https://github.com/YOUR-USERNAME/product-management-case-studies) · [🔌🛡️ Codec-Technologies-Internship-Projects-2026](https://github.com/YOUR-USERNAME/Codec-Technologies-Internship-Projects-2026)
+**Full repos:** [📊 hexa-data-analytics-portfolio](https://github.com/Eswar5313/hexa-data-analytics-portfolio) · [🧭 product-management-case-studies](https://github.com/Eswar5313/product-management-case-studies) · [⚙️ Codec-Technologies-Internship-Portfolio-2026](https://github.com/Eswar5313/Codec-Technologies-Internship-Portfolio-2026) ([live dashboard](https://eswar5313.github.io/Codec-Technologies-Internship-Portfolio-2026/))
 
 </div>
 
 ## 🔬 View 1 — Subject-Wise
-
-<details open>
-<summary>🔌 <b>Electric Vehicle Engineering</b> — Codec Technologies (Python · Simulation · Embedded) <b>· 10 projects · 226 tests</b></summary>
-<br>
-
-> Real cited data (NASA POWER, IEA) or clearly-declared synthetic data. MATLAB/COMSOL/HOMER briefs delivered as open-source Python equivalents + compile-checked Arduino/ESP8266 firmware.
-
-
-| Project | Verified Result |
-|---|---|
-| 🔋 Battery Management System (BMS) Simulation | EKF SOC RMSE **0.63 %** · SOH **90.1 %** after 500 cycles · thermal-managed fast charge 34 °C |
-| 🗺️ EV Charging Station Locator App | React Native + Google Maps · Dijkstra charging-stop route optimiser · 55 tests |
-| ☀️ Solar-Powered EV Charging Station | 8760-h HOMER-style sim on **real NASA POWER** data · LCOE **₹17.20/kWh** |
-| 🧠 AI Driving Efficiency Optimizer | GradientBoosting **R² 0.975** · counterfactual driving-tip recommender |
-| ⚙️ EV Drivetrain Modeling | PMSM 90.4 % vs brushed-DC 80.1 % cycle efficiency · AC-vs-DC comparison |
-| 📡 IoT EV Health Monitoring | NodeMCU + INA219/DS18B20 → ThingSpeak/Firebase · live web dashboard |
-| ♻️ EV Lifecycle Analysis | EV **31.5 t** vs petrol **41.6 t** CO₂e / 150k km · break-even 12,163 km |
-| 🚦 Smart Traffic Light EV Priority | Arduino RFID/GPS · EV delay **−52 %** at 5 % EV share (SimPy) |
-| 🔌 Wireless Charging Design | SAE J2954 WPT2 7.7 kW · k = 0.221 · system efficiency **96.5 %** |
-| 📈 EV Market Forecast Dashboard | **Real IEA** data · logistic/Bass/CAGR to 2035 · Plotly Dash |
-
-</details>
-
-<details open>
-<summary>🛡️ <b>Cyber Security — Defensive & Educational</b> — Codec Technologies (Python · Security) <b>· 20 projects · 226 tests</b></summary>
-<br>
-
-> Every project runs only against its own bundled lab targets or synthetic data. Three offensive briefs delivered as the defensive version (⚠): ransomware → behaviour detector, phishing → detection + safe awareness, dark-web monitoring → lawful k-anonymity credential intel.
-
-| # | Project | Focus |
-|---|---|---|
-| 01 | VAPT Lab | Vulnerable app + scanner + CVSS report |
-| 02 | Personal Firewall | scapy monitor + rule engine + iptables |
-| 03 | Intrusion Detection (ML) | RandomForest + IsolationForest on **NSL-KDD** (F1 0.998) |
-| 04 | ⚠ Phishing Detection & Awareness | URL/email classifiers + safe awareness sim |
-| 05 | Secure Web Application | OWASP Top 10 defences (argon2, JWT, RBAC, CSRF) |
-| 06 | Cryptography Algorithms | AES · RSA · SHA vs FIPS/NIST vectors |
-| 07 | Password Hashing & Cracking | bcrypt/argon2 vs weak hashes + strength meter |
-| 08 | Network Traffic Analysis | SYN-scan · C2 beacon · exfil detection |
-| 09 | Incident Response Playbook | NIST 800-61r2 + 6 ATT&CK playbooks + mini-SIEM |
-
-| 10 | Honeypot | SSH/HTTP/Telnet credential-capture + analytics |
-| 11 | Mobile App Security Framework | Android SAST → OWASP Mobile Top 10 |
-| 12 | IoT Device Pentest Lab | Simulated devices + firmware triage |
-| 13 | ⚠ Ransomware Behaviour Detection | Canary + entropy monitor (no malware) |
-| 14 | ⚠ Threat-Intel Credential Monitor | k-anonymity breach check + IOC enrichment |
-| 15 | Email Security Gateway | SPF/DKIM/DMARC + ML → ALLOW/QUARANTINE/REJECT |
-| 16 | Browser Exploit Detection | XSS · clickjacking · weak-CSP detection |
-| 17 | Digital Forensics Toolkit | Hashing · carving · EXIF · memory triage |
-| 18 | Secure File Sharing | AES-256-GCM envelope + expiring links |
-| 19 | Insider Threat Detection | UBA + IsolationForest (precision@K 1.0) |
-| 20 | CTF Platform | 8 challenges · hashed flags · scoreboard · Docker |
-
-</details>
 
 <details open>
 <summary>📊 <b>Data Analytics & EDA</b> (Python · Pandas · Matplotlib)</summary>
@@ -96,7 +39,6 @@
 </details>
 
 <details open>
-
 <summary>🗃️ <b>SQL & Databases</b></summary>
 <br>
 
@@ -130,9 +72,8 @@
 
 </details>
 
-
 <details open>
-<summary>🧭 <b>Product Management Cases</b> (Five Forces · JTBD · RICE · STP)</summary>
+<summary>🧭 <b>Product Management Cases</b> (frameworks: Five Forces · JTBD · RICE · STP)</summary>
 <br>
 
 | Case | Core Deliverable |
@@ -144,6 +85,46 @@
 | 📦 The 2,000 SKU Problem | ABC × XYZ inventory matrix |
 | ⚡ Blinkit Strategy | 5/10-year roadmap |
 | 🛍️ Grocery Segmentation Sprint | "Schedule Selector" target segment |
+
+</details>
+
+<details open>
+<summary>⚙️ <b>Engineering & Security — Codec Technologies internship, 4 tracks, 50 projects</b> (every number measured by the code in the repo · 50 report PDFs · <a href="https://eswar5313.github.io/Codec-Technologies-Internship-Portfolio-2026/">live dashboard</a>)</summary>
+<br>
+
+**🔌 Digital Electronics & VLSI — 10** · Verilog/VHDL · Icarus/GHDL · Yosys + nextpnr-ice40 + icetime · [track](https://github.com/Eswar5313/Codec-Technologies-Internship-Portfolio-2026/tree/main/Digital-Electronics-VLSI)
+
+| Project | Measured result |
+|---|---|
+| FPGA Traffic Light Controller with Emergency Priority | 39/39 checks · 0 safety assertions fired · **Fmax 109.4 MHz** |
+| Low-Power 8-bit ALU (CMOS, clock gating + operand isolation) | **Power 390.8 → 141.3 µW (−63.8 %)** · area +0.2 % |
+| Smart Digital Lock (VHDL, keypad + 7-seg, 3-strike lockout) | 38/38 checks · Fmax 97.2 MHz |
+| FIR Filter for DSP — direct / transposed / pipelined-symmetric | Bit-exact ×3 · **SNR 88.9 dB** · Fmax 38.7 / 99.1 / 90.7 MHz |
+| UART TX/RX (VHDL, parity + framing + FIFO) | 68 checks at 9600 / 115200 / 921600 baud · **Fmax 135 MHz** |
+| Smart Energy Meter with GSM (Verilog DSP + C firmware + billing) | 37/37 registers bit-exact · firmware 20/20 |
+| 4-bit Processor (custom ISA, assembler, golden model) | 3/3 programs match golden model · Fmax 115.9 MHz |
+| ASIC Flow RTL → GDSII (own placement/routing/GDSII writer) | **HPWL −47 %** · 122/122 nets routed · 0 DRC-lite violations |
+| IoT Home Automation (UART register map, clock-gated sleep) | 40/40 checks · dynamic power −23.6 % |
+| Digital Voting Machine (I²C EEPROM, CRC-8, tamper seal) | 32/32 checks · Fmax 88.3 MHz |
+
+**🤖 Robotics & Automation — 10** · pure-Python simulators + ROS 2 package skeletons · 143 tests · [track](https://github.com/Eswar5313/Codec-Technologies-Internship-Portfolio-2026/tree/main/Robotics-Automation)
+
+| Project | Measured result |
+|---|---|
+| Autonomous Warehouse Robot (A*/Dijkstra, LiDAR, OpenCV picking) | 6/6 picks · **0 collisions** · recogniser 98 % |
+| Robotic Arm Quality Inspection (OpenCV + SVM/RF, DH + IK) | Classical 96.0 % · SVM 97.3 % · 0 false alarms |
+| Voice-Controlled Home Bot (MFCC + DTW recogniser, intent parser) | 98.3 % words @ 20 dB · 6/6 commands executed |
+| Self-Balancing Two-Wheel Robot (cascaded PID, Kalman) | Recovers 10° in 0.65 s · tilt RMSE **0.33°** |
+| Autonomous Surveillance Drone (GPS waypoints, MOG2 + HOG) | 12/12 waypoints · 7/7 intruders · 0 false alerts |
+| Smart Farming Robot (vegetation indices, irrigation control) | **Water −77 %** vs timer · health classifier 96 % |
+| Gesture-Controlled Arm (skin segmentation, LM inverse kinematics) | Recogniser 95.6 % · IK 200/200 · jerk −97 % |
+| Search & Rescue Robot (log-odds SLAM + scan matching, TDOA) | 4/4 victims · **pose RMSE 0.34 m vs 1.41 m odometry** |
+| Automated Multi-Level Parking (DES, slot allocation, manoeuvres) | 0 collisions over 16 runs · 53 s avg wait |
+| Industrial Conveyor Sorting (colour/shape vision, 2 SCARA arms) | **Vision 99.7 %** on 600 items · OEE 0.993 |
+
+**⚡ Electric Vehicle — 10** · 226 tests · [track](https://github.com/Eswar5313/Codec-Technologies-Internship-Portfolio-2026/tree/main/Electric-Vehicle) — BMS **EKF SOC RMSE 0.63 %** · solar station LCOE ₹12.24/kWh on real NASA POWER data · drivetrain 253 km WLTP-like range · wireless charging η 95.8–96.9 % · IEA-data market forecast to 2035 · EV-priority traffic light (EV delay −52 %) · driving-efficiency GBM R² 0.975
+
+**🛡️ Cyber Security — 20 (defensive only)** · 226 tests · [track](https://github.com/Eswar5313/Codec-Technologies-Internship-Portfolio-2026/tree/main/Cyber-Security) — IDS on real NSL-KDD (RF **F1 0.998** held-out) · phishing URL detector F1 0.9997 on URLhaus/Umbrella · email gateway on UCI SMS (F1 0.939) · ransomware-behaviour detector · k-anonymity credential-leak monitor · forensics toolkit · honeypot · insider-threat detection (ROC-AUC 1.000) · CTF platform
 
 </details>
 
@@ -163,17 +144,15 @@
 
 ## 🏭 View 2 — Sector-Wise
 
-
-| Sector | # | Projects That Speak Its Language |
-|---|:--:|---|
-| 🚚 **Logistics & Mobility** | 5 | FedEx EDA · Uber gap analysis · India EV dashboard · EV charging locator · smart traffic-light priority |
-| ⚡ **Energy & Clean-Tech** | 5 | Solar EV charging station · BMS simulation · wireless charging · EV lifecycle analysis · EV market forecast |
-| 🛡️ **Cybersecurity & Infrastructure** | 7 | VAPT lab · ML IDS · cryptography · digital forensics · SOC / incident response · honeypot · CTF platform |
-| 🛒 **E-commerce & Retail** | 5 | Flipkart CSAT · Zepto AOV · Blinkit strategy · 2,000 SKU · grocery segmentation |
-| 🏦 **Finance & Real Estate** | 3 | NSE SQL · Dubai price model · Financial Ledger |
-| 🍽️ **Food & Travel** | 2 | Zomato · Airbnb |
-| 💻 **SaaS & AI** | 4 | B2B SaaS ROI case · Tennis API app · AI driving optimizer · AI publications |
-| 🏥 **Health & People** | 2 | Mental Health in Tech · Strava-Fitbit |
+| Sector | Projects That Speak Its Language |
+|---|---|
+| 🚚 **Logistics & Mobility** | FedEx EDA · Uber gap analysis · India EV dashboard |
+| 🛒 **E-commerce & Retail** | Flipkart CSAT · Zepto AOV · Blinkit strategy · 2,000 SKU · grocery segmentation |
+| 🏦 **Finance & Real Estate** | NSE SQL · Dubai price model · Financial Ledger |
+| 🍽️ **Food & Travel** | Zomato · Airbnb |
+| 💻 **SaaS & AI** | B2B SaaS ROI case · Tennis API app · AI publications |
+| ⚙️ **Engineering — Semiconductors, Robotics, EV, Security** | 10 VLSI/FPGA designs · 10 robotics simulations · 10 EV systems · 20 defensive security tools |
+| 🏥 **Health & People** | Mental Health in Tech · Strava-Fitbit |
 
 ---
 
@@ -184,25 +163,9 @@
 | 📊 **Data Analyst / Analytics Manager** | 13 end-to-end projects · CRISP-DM discipline · verified-figures standard |
 | 🚚 **Supply Chain Manager** | 2,000 SKU ABC×XYZ · FedEx EDA · EV market sizing |
 | 🧭 **Product Manager** | 7 framework-driven cases with financial models |
-| 🔌 **EV / Embedded Systems Engineer** | 10 EV projects — BMS, drivetrain, wireless charging, IoT firmware, techno-economic simulation |
-| 🛡️ **Cyber Security Analyst / Blue Team** | 20 defensive projects — VAPT, ML IDS, cryptography, forensics, incident response, 226 tests |
 | 💼 **Business Analyst** | Flipkart root-cause · Zepto growth math · ROI workbooks |
-| ⚙️ **Ops Manager** | Uber ops diagnosis · CSAT recovery plans · process metrics |
-
----
-
-## 🧪 How I Build — Engineering Standard
-
-Every project on this page follows the same discipline, which is what makes the portfolio trustworthy to a hiring manager:
-
-
-- ✅ **No fabricated data** — figures trace to a named public source (IEA, NASA POWER, NSL-KDD, ICCT) or are clearly labelled synthetic.
-- ✅ **Reproducible** — each project has a single entry point (`python main.py`) and regenerates its own results.
-- ✅ **Tested** — the 30 Codec projects ship **452 automated tests**, all passing; analytics projects follow CRISP-DM with documented steps.
-- ✅ **Documented** — every folder has a first-person README with method, results and limitations.
-- ✅ **Ethical** — all security work is defensive and runs only against self-contained lab targets.
-
-> **Why this matters for a senior role:** it shows I ship work that a team can audit, re-run and trust — not one-off notebooks. That is the difference between an analyst and an analytics *leader*.
+| ⚙️ **Ops Manager** | Uber ops diagnosis · CSAT recovery plans · process metrics · warehouse AMR, parking and conveyor-line simulations with throughput/OEE metrics |
+| 🔌 **Technical / Engineering Analyst** | 50 Codec projects with measured timing, power, accuracy and test evidence; declared substitutions instead of unverifiable claims |
 
 ---
 
@@ -210,6 +173,6 @@ Every project on this page follows the same discipline, which is what makes the 
 
 [🏠 Back to Dashboard](./README.md)
 
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:138808,50:FFFFFF,100:FF9933&height=100&section=footer)
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:C9A227,100:0A1F44&height=90&section=footer)
 
 </div>
