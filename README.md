@@ -1,61 +1,54 @@
 <!-- ═══════════════ HEADER ═══════════════ -->
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0A1F44,50:1a3a6b,100:C9A227&height=210&section=header&text=Eswar%20Mahalingam&fontSize=52&fontColor=ffffff&animation=fadeIn&desc=🎛️%20Career%20Control%20Tower%20—%20Data%20Analytics%20%7C%20Supply%20Chain%20%7C%20AI&descSize=17&descAlignY=75)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0B0F1A,35:1E1B4B,70:7C3AED,100:22D3EE&height=230&section=header&text=Eswar%20Mahalingam&fontSize=54&fontColor=ffffff&fontAlignY=38&animation=twinkling&stroke=22D3EE&strokeWidth=1&desc=Career%20Control%20Tower%20%E2%80%94%20Data%20%C2%B7%20Supply%20Chain%20%C2%B7%20Product%20%C2%B7%20AI%20%C2%B7%20Engineering&descSize=16&descAlignY=62&descColor=22D3EE)
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=IBM+Plex+Mono&size=21&duration=3000&pause=800&color=C9A227&center=true&vCenter=true&width=680&lines=Data+Scientist+%40+Zidio+Development;Turning+messy+data+into+business+decisions;SQL+%E2%80%A2+Python+%E2%80%A2+Power+BI+%E2%80%A2+AI+Tools;103+projects+%7C+50+engineering+builds+with+tests;MBA+%7C+Six+Sigma+Black+Belt+%7C+CSCMP+SCPro)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=600&size=20&duration=2800&pause=700&color=22D3EE&center=true&vCenter=true&width=760&lines=Data+Scientist+%40+Zidio+Development;103+projects+%C2%B7+50+engineering+builds+with+tests;SQL+%E2%80%A2+Python+%E2%80%A2+Power+BI+%E2%80%A2+Verilog+%E2%80%A2+OpenCV+%E2%80%A2+AI;Operator+who+became+an+analyst+%E2%80%94+evidence%2C+not+adjectives;MBA+%7C+Six+Sigma+Black+Belt+%7C+CSCMP+SCPro)](https://git.io/typing-svg)
 
-### 🗂️ Open a Panel in Full
-
-[![Education](https://img.shields.io/badge/🎓_Education-0A1F44?style=for-the-badge)](./EDUCATION.md)
-[![Experience](https://img.shields.io/badge/💼_Experience-C9A227?style=for-the-badge&logoColor=0A1F44)](./EXPERIENCE.md)
-[![Certifications](https://img.shields.io/badge/🏅_Certifications-0A1F44?style=for-the-badge)](./CERTIFICATIONS.md)
-[![Projects](https://img.shields.io/badge/🚀_Projects-C9A227?style=for-the-badge)](./PROJECTS.md)
-[![Simulations](https://img.shields.io/badge/🧪_Simulations-0A1F44?style=for-the-badge)](./SIMULATIONS.md)
-[![Publications](https://img.shields.io/badge/✍️_Publications-C9A227?style=for-the-badge)](./PUBLICATIONS.md)
+<img src="https://komarev.com/ghpvc/?username=Eswar5313&color=7C3AED&style=for-the-badge&label=PROFILE+VIEWS" alt="views"/>
+<img src="https://img.shields.io/badge/Open_to_Sr_Manager_/_AVP_roles-34D399?style=for-the-badge" alt="Open to Sr Manager / AVP roles"/> <img src="https://img.shields.io/badge/India_·_EU_Blue_Card_·_Gulf-22D3EE?style=for-the-badge&labelColor=0B0F1A" alt="India · EU Blue Card · Gulf"/> <img src="https://img.shields.io/badge/Immediate_joiner-F472B6?style=for-the-badge" alt="Immediate joiner"/>
 
 </div>
+
+<div align="center">
+
+<a href="./README.md"><img src="https://img.shields.io/badge/⬅_Career_Control_Tower-7C3AED?style=for-the-badge" alt="⬅ Career Control Tower"/></a> <a href="https://github.com/Eswar5313/Eswar-Master-Project-Portfolio-2026"><img src="https://img.shields.io/badge/📦_Master_Portfolio_·_103-22D3EE?style=for-the-badge" alt="📦 Master Portfolio · 103"/></a> <a href="https://github.com/Eswar5313/Codec-Technologies-Internship-Portfolio-2026"><img src="https://img.shields.io/badge/⚙️_Codec_·_50_engineering-F472B6?style=for-the-badge" alt="⚙️ Codec · 50 engineering"/></a> <a href="https://github.com/Eswar5313/Eswar-Portfolio-Lens-Index-2026"><img src="https://img.shields.io/badge/🔍_Lens_Index-34D399?style=for-the-badge" alt="🔍 Lens Index"/></a>
+
+<table><tbody>
+<tr><td align="right"><sub><b><font color="#7C3AED">WHO I AM</font></b></sub></td><td><a href="./EDUCATION.md"><img src="https://img.shields.io/badge/🎓_Education-0B0F1A?style=for-the-badge&labelColor=7C3AED" alt="🎓 Education"/></a> <a href="./EXPERIENCE.md"><img src="https://img.shields.io/badge/💼_Experience-0B0F1A?style=for-the-badge&labelColor=7C3AED" alt="💼 Experience"/></a> <a href="./CERTIFICATIONS.md"><img src="https://img.shields.io/badge/🏅_Certifications-0B0F1A?style=for-the-badge&labelColor=7C3AED" alt="🏅 Certifications"/></a></td></tr>
+<tr><td align="right"><sub><b><font color="#22D3EE">WHAT I BUILT</font></b></sub></td><td><a href="./PROJECTS.md"><img src="https://img.shields.io/badge/🚀_Projects-0B0F1A?style=for-the-badge&labelColor=22D3EE" alt="🚀 Projects"/></a> <a href="./SIMULATIONS.md"><img src="https://img.shields.io/badge/🧪_Simulations-0B0F1A?style=for-the-badge&labelColor=22D3EE" alt="🧪 Simulations"/></a> <a href="./PUBLICATIONS.md"><img src="https://img.shields.io/badge/✍️_Publications-0B0F1A?style=for-the-badge&labelColor=22D3EE" alt="✍️ Publications"/></a></td></tr>
+<tr><td align="right"><sub><b><font color="#F472B6">WHAT I CAN DO</font></b></sub></td><td><a href="./SKILLS.md"><img src="https://img.shields.io/badge/🧠_Skills-0B0F1A?style=for-the-badge&labelColor=F472B6" alt="🧠 Skills"/></a> <a href="./TOOLS.md"><img src="https://img.shields.io/badge/🛠️_Tools-0B0F1A?style=for-the-badge&labelColor=F472B6" alt="🛠️ Tools"/></a> <a href="./METHODS.md"><img src="https://img.shields.io/badge/📐_Methods-0B0F1A?style=for-the-badge&labelColor=F472B6" alt="📐 Methods"/></a></td></tr>
+<tr><td align="right"><sub><b><font color="#34D399">WHERE I HAVE WORKED</font></b></sub></td><td><a href="./DOMAINS.md"><img src="https://img.shields.io/badge/🧭_Domains-0B0F1A?style=for-the-badge&labelColor=34D399" alt="🧭 Domains"/></a> <a href="./SECTORS.md"><img src="https://img.shields.io/badge/🏭_Sectors-0B0F1A?style=for-the-badge&labelColor=34D399" alt="🏭 Sectors"/></a> <a href="./INDUSTRIES.md"><img src="https://img.shields.io/badge/🏢_Industries-0B0F1A?style=for-the-badge&labelColor=34D399" alt="🏢 Industries"/></a></td></tr>
+<tr><td align="right"><sub><b><font color="#7C3AED">HOW I WORK</font></b></sub></td><td><a href="./RESPONSIBILITIES.md"><img src="https://img.shields.io/badge/📋_Responsibilities-0B0F1A?style=for-the-badge&labelColor=7C3AED" alt="📋 Responsibilities"/></a> <a href="./DUTIES.md"><img src="https://img.shields.io/badge/🗓️_Duties-0B0F1A?style=for-the-badge&labelColor=7C3AED" alt="🗓️ Duties"/></a> <a href="./SOFT_SKILLS.md"><img src="https://img.shields.io/badge/🤝_Soft_Skills-0B0F1A?style=for-the-badge&labelColor=7C3AED" alt="🤝 Soft Skills"/></a> <a href="./LEADERSHIP.md"><img src="https://img.shields.io/badge/🧑‍✈️_Leadership-0B0F1A?style=for-the-badge&labelColor=7C3AED" alt="🧑‍✈️ Leadership"/></a></td></tr>
+<tr><td align="right"><sub><b><font color="#22D3EE">WHY HIRE ME</font></b></sub></td><td><a href="./ROLES.md"><img src="https://img.shields.io/badge/🎯_Roles-0B0F1A?style=for-the-badge&labelColor=22D3EE" alt="🎯 Roles"/></a> <a href="./EMPLOYABILITY.md"><img src="https://img.shields.io/badge/✅_Employability-0B0F1A?style=for-the-badge&labelColor=22D3EE" alt="✅ Employability"/></a> <a href="./IMPACT.md"><img src="https://img.shields.io/badge/📈_Impact-0B0F1A?style=for-the-badge&labelColor=22D3EE" alt="📈 Impact"/></a> <a href="./LEARNING.md"><img src="https://img.shields.io/badge/📚_Learning-0B0F1A?style=for-the-badge&labelColor=22D3EE" alt="📚 Learning"/></a> <a href="./MOBILITY.md"><img src="https://img.shields.io/badge/🌍_Mobility-0B0F1A?style=for-the-badge&labelColor=22D3EE" alt="🌍 Mobility"/></a> <a href="./INTEGRITY.md"><img src="https://img.shields.io/badge/🛡️_Integrity-0B0F1A?style=for-the-badge&labelColor=22D3EE" alt="🛡️ Integrity"/></a></td></tr>
+</tbody></table>
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:22D3EE,50:7C3AED,100:F472B6&height=3&section=header" width="100%" alt=""/>
 
 <!-- ═══════════════ KPI STRIP ═══════════════ -->
 <div align="center">
 
 ## 📟 Career KPI Board
 
-<img src="https://img.shields.io/badge/EXPERIENCE-8%2B_YEARS-C9A227?style=for-the-badge&labelColor=0A1F44" />
-<img src="https://img.shields.io/badge/SALES_FACILITATED-₹13.5Cr%2B-C9A227?style=for-the-badge&labelColor=0A1F44" />
-<img src="https://img.shields.io/badge/CONVERSION-28%25-C9A227?style=for-the-badge&labelColor=0A1F44" />
+<img src="https://img.shields.io/badge/EXPERIENCE-8%2B_YEARS-22D3EE?style=for-the-badge&labelColor=0B0F1A" />
+<img src="https://img.shields.io/badge/SALES_FACILITATED-₹13.5Cr%2B-22D3EE?style=for-the-badge&labelColor=0B0F1A" />
+<img src="https://img.shields.io/badge/CONVERSION-28%25-22D3EE?style=for-the-badge&labelColor=0B0F1A" />
 
-<img src="https://img.shields.io/badge/STOCKOUT_REDUCTION-30%25-0A1F44?style=for-the-badge&labelColor=C9A227" />
-<img src="https://img.shields.io/badge/CYCLE_DELAY_CUT-22%25-0A1F44?style=for-the-badge&labelColor=C9A227" />
-<img src="https://img.shields.io/badge/CSAT-92%25%2B-0A1F44?style=for-the-badge&labelColor=C9A227" />
+<img src="https://img.shields.io/badge/STOCKOUT_REDUCTION-30%25-7C3AED?style=for-the-badge&labelColor=22D3EE" />
+<img src="https://img.shields.io/badge/CYCLE_DELAY_CUT-22%25-7C3AED?style=for-the-badge&labelColor=22D3EE" />
+<img src="https://img.shields.io/badge/CSAT-92%25%2B-7C3AED?style=for-the-badge&labelColor=22D3EE" />
 
-<img src="https://img.shields.io/badge/DATA_PROJECTS-13-C9A227?style=for-the-badge&labelColor=0A1F44" />
-<img src="https://img.shields.io/badge/PM_CASE_STUDIES-7-C9A227?style=for-the-badge&labelColor=0A1F44" />
-<img src="https://img.shields.io/badge/ENGINEERING_PROJECTS-50-C9A227?style=for-the-badge&labelColor=0A1F44" />
-<img src="https://img.shields.io/badge/AUTOMATED_TESTS-595%2B-C9A227?style=for-the-badge&labelColor=0A1F44" />
-<img src="https://img.shields.io/badge/JOB_SIMULATIONS-58%2B-C9A227?style=for-the-badge&labelColor=0A1F44" />
-
-</div>
-
----
-
-<div align="center">
-
-## 🆕 Recent Additions — September 2026
-
-| Date | What was added | Scale | Open |
-|---|---|:-:|---|
-| 11 Sep | **Codec Technologies portfolio — all 4 internship tracks in one repo** with a navigation dashboard and one engineering-report PDF per project | 50 projects · 595+ tests · 50 PDFs | [Repo](https://github.com/Eswar5313/Codec-Technologies-Internship-Portfolio-2026) · [Dashboard](https://eswar5313.github.io/Codec-Technologies-Internship-Portfolio-2026/) |
-| 11 Sep | **Digital Electronics & VLSI track** — Verilog/VHDL RTL, self-checking testbenches, Yosys + nextpnr-ice40 place-and-route, low-power CMOS ALU (−63.8 %), UART 135 MHz, own RTL-to-GDSII flow | 10 projects · 10/10 PASS | [Track](https://github.com/Eswar5313/Codec-Technologies-Internship-Portfolio-2026/tree/main/Digital-Electronics-VLSI) |
-| 11 Sep | **Robotics & Automation track** — A*/Dijkstra warehouse AMR (0 collisions), Kalman + PID balancing, SLAM search & rescue (pose RMSE 0.34 m), conveyor vision 99.7 % | 10 projects · 143 tests | [Track](https://github.com/Eswar5313/Codec-Technologies-Internship-Portfolio-2026/tree/main/Robotics-Automation) |
-| 11 Sep | **Report PDFs for the EV and Cyber Security tracks** (previously code + README only) | 30 PDFs | [EV](https://github.com/Eswar5313/Codec-Technologies-Internship-Portfolio-2026/tree/main/Electric-Vehicle/reports) · [Cyber](https://github.com/Eswar5313/Codec-Technologies-Internship-Portfolio-2026/tree/main/Cyber-Security/reports) |
-| 11 Sep | **Portfolio Lens Index rebuilt** — 103 projects × 10 lenses, one-page dashboard with live value filters | 103 projects | [Repo](https://github.com/Eswar5313/Eswar-Portfolio-Lens-Index-2026) · [Dashboard](https://eswar5313.github.io/Eswar-Portfolio-Lens-Index-2026/) |
-
-<sub>Every number above was produced by the code that sits next to it; tools that were unavailable are declared as substitutions inside each report.</sub>
+<img src="https://img.shields.io/badge/DATA_PROJECTS-13-22D3EE?style=for-the-badge&labelColor=0B0F1A" />
+<img src="https://img.shields.io/badge/PM_CASE_STUDIES-7-22D3EE?style=for-the-badge&labelColor=0B0F1A" />
+<img src="https://img.shields.io/badge/ENGINEERING_PROJECTS-50-22D3EE?style=for-the-badge&labelColor=0B0F1A" />
+<img src="https://img.shields.io/badge/AUTOMATED_TESTS-595%2B-22D3EE?style=for-the-badge&labelColor=0B0F1A" />
+<img src="https://img.shields.io/badge/JOB_SIMULATIONS-58%2B-22D3EE?style=for-the-badge&labelColor=0B0F1A" />
 
 </div>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:22D3EE,50:7C3AED,100:F472B6&height=3&section=header" width="100%" alt=""/>
 
 <!-- ═══════════════ DASHBOARD GRID ROW 1 ═══════════════ -->
 <table width="100%">
@@ -80,21 +73,21 @@
 
 | Domain | Level |
 |---|---|
-| 📊 Excel / Dashboards | 🟨🟨🟨🟨🟨 |
-| 🔍 EDA & Statistics | 🟨🟨🟨🟨⬜ |
-| 🗃️ SQL | 🟨🟨🟨🟨⬜ |
-| 🐍 Python (Pandas/Sklearn) | 🟨🟨🟨🟨⬜ |
-| 📈 Power BI / Tableau | 🟨🟨🟨🟨⬜ |
-| 🤖 AI Tools / Prompting | 🟨🟨🟨🟨🟨 |
-| 🚚 Supply Chain Ops | 🟨🟨🟨🟨🟨 |
-| 🔌 Digital Design (Verilog/VHDL/FPGA) | 🟨🟨🟨⬜⬜ |
-| 🤖 Robotics Algorithms (SLAM/PID/IK) | 🟨🟨🟨⬜⬜ |
+| 📊 Excel / Dashboards | 🟦🟦🟦🟦🟦 |
+| 🔍 EDA & Statistics | 🟦🟦🟦🟦⬛ |
+| 🗃️ SQL | 🟦🟦🟦🟦⬛ |
+| 🐍 Python (Pandas/Sklearn) | 🟦🟦🟦🟦⬛ |
+| 📈 Power BI / Tableau | 🟦🟦🟦🟦⬛ |
+| 🤖 AI Tools / Prompting | 🟦🟦🟦🟦🟦 |
+| 🚚 Supply Chain Ops | 🟦🟦🟦🟦🟦 |
+| 🔌 Digital Design (Verilog/VHDL/FPGA) | 🟦🟦🟦⬛⬛ |
+| 🤖 Robotics Algorithms (SLAM/PID/IK) | 🟦🟦🟦⬛⬛ |
 
 </td>
 </tr>
 </table>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:22D3EE,50:7C3AED,100:F472B6&height=3&section=header" width="100%" alt=""/>
 
 <!-- ═══════════════ TECH TICKER ═══════════════ -->
 <div align="center">
@@ -114,10 +107,10 @@
 ![SAP](https://img.shields.io/badge/SAP_MM-0FAAFF?style=flat-square&logo=sap&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=FF9900)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
-![Claude](https://img.shields.io/badge/Claude-C9A227?style=flat-square&logo=anthropic&logoColor=0A1F44)
+![Claude](https://img.shields.io/badge/Claude-7C3AED?style=flat-square&logo=anthropic&logoColor=white)
 ![ChatGPT](https://img.shields.io/badge/ChatGPT-74AA9C?style=flat-square&logo=openai&logoColor=white)
 ![Verilog](https://img.shields.io/badge/Verilog%2FVHDL-1E3A5F?style=flat-square)
-![Yosys](https://img.shields.io/badge/Yosys_%2B_nextpnr-C9A227?style=flat-square&logoColor=0A1F44)
+![Yosys](https://img.shields.io/badge/Yosys_%2B_nextpnr-22D3EE?style=flat-square&logoColor=0B0F1A)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
 ![ROS2](https://img.shields.io/badge/ROS_2-22314E?style=flat-square&logo=ros&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
@@ -125,7 +118,7 @@
 
 </div>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:22D3EE,50:7C3AED,100:F472B6&height=3&section=header" width="100%" alt=""/>
 
 <!-- ═══════════════ DASHBOARD GRID ROW 2 ═══════════════ -->
 <table width="100%">
@@ -139,8 +132,6 @@
 | 📊 [`hexa-data-analytics-portfolio`](https://github.com/Eswar5313/hexa-data-analytics-portfolio-) | **13 projects** — EDA · SQL · ML · API · dashboards |
 | 🧭 [`product-management-case-studies`](https://github.com/Eswar5313/product-management-case-studies) | **7 cases** — Uber · Zepto · Nykaa · B2B SaaS · Blinkit |
 | ⚙️ [`Codec-Technologies-Internship-Portfolio-2026`](https://github.com/Eswar5313/Codec-Technologies-Internship-Portfolio-2026) | **50 projects** — VLSI · Robotics · EV · Cyber · 50 report PDFs · [live dashboard](https://eswar5313.github.io/Codec-Technologies-Internship-Portfolio-2026/) |
-| 📦 [`Eswar-Master-Project-Portfolio-2026`](https://github.com/Eswar5313/Eswar-Master-Project-Portfolio-2026) | **103 projects · 6 tracks** — one dashboard, every project → evidence · [open](https://eswar5313.github.io/Eswar-Master-Project-Portfolio-2026/) |
-| 🔍 [`Eswar-Portfolio-Lens-Index-2026`](https://github.com/Eswar5313/Eswar-Portfolio-Lens-Index-2026) | Same 103 projects **by skill · tool · sector · role · method** · [open](https://eswar5313.github.io/Eswar-Portfolio-Lens-Index-2026/) |
 
 **Verified headline figures:**
 🏙️ Dubai model → **99 AED/sqft** · 🛒 Flipkart CSAT → **4.48→3.66** · ⌚ Fitness corr → **r = −0.60** · 🔌 UART on iCE40 → **135 MHz** · 🔋 CMOS ALU power → **−63.8 %** · 🤖 SLAM pose RMSE → **0.34 m**
@@ -180,12 +171,13 @@ Salesforce Administrator · PepsiCo Sales Star · SAP MM *(in progress)*
 </tr>
 </table>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:22D3EE,50:7C3AED,100:F472B6&height=3&section=header" width="100%" alt=""/>
 
 <!-- ═══════════════ EXPERIENCE TIMELINE ═══════════════ -->
 ## 🕐 Journey Monitor
 
 ```mermaid
+%%{init: {'theme':'dark','themeVariables':{'primaryColor':'#1E1B4B','primaryTextColor':'#E5E7EB','primaryBorderColor':'#22D3EE','lineColor':'#7C3AED','cScale0':'#7C3AED','cScale1':'#22D3EE','cScale2':'#F472B6','cScale3':'#34D399','pie1':'#7C3AED','pie2':'#22D3EE','pie3':'#F472B6','pie4':'#34D399','pie5':'#A78BFA','pie6':'#FBBF24'}}}%%
 timeline
     title 8+ Years Across 7 Industries
     2016-17 : Digital Marketing — Tidalwave / Digiperform
@@ -213,7 +205,7 @@ timeline
 
 </div>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:22D3EE,50:7C3AED,100:F472B6&height=3&section=header" width="100%" alt=""/>
 
 <!-- ═══════════════ EDUCATION + STATS ═══════════════ -->
 <table width="100%">
@@ -235,7 +227,7 @@ timeline
 
 ### 📈 GitHub Telemetry
 
-<img src="https://github-readme-stats.vercel.app/api?username=Eswar5313&show_icons=true&bg_color=0A1F44&title_color=C9A227&icon_color=C9A227&text_color=ffffff&border_color=C9A227" width="100%" />
+<img src="https://github-readme-stats.vercel.app/api?username=Eswar5313&show_icons=true&bg_color=0B0F1A&title_color=22D3EE&icon_color=7C3AED&text_color=E5E7EB&border_color=7C3AED&hide_border=false" width="100%" />
 
 </td>
 </tr>
@@ -243,12 +235,22 @@ timeline
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Eswar5313&background=0A1F44&ring=C9A227&fire=C9A227&currStreakLabel=C9A227&sideLabels=ffffff&currStreakNum=ffffff&sideNums=ffffff&border=C9A227" height="160" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eswar5313&layout=compact&bg_color=0A1F44&title_color=C9A227&text_color=ffffff&border_color=C9A227" height="160" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Eswar5313&background=0B0F1A&ring=22D3EE&fire=F472B6&currStreakLabel=22D3EE&sideLabels=E5E7EB&currStreakNum=E5E7EB&sideNums=E5E7EB&border=7C3AED&dates=94A3B8" height="160" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eswar5313&layout=compact&bg_color=0B0F1A&title_color=22D3EE&text_color=E5E7EB&border_color=7C3AED" height="160" />
 
 </div>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:22D3EE,50:7C3AED,100:F472B6&height=3&section=header" width="100%" alt=""/>
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=Eswar5313&theme=algolia&no-frame=true&no-bg=true&column=7&margin-w=8" width="100%" alt="trophies"/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Eswar5313&bg_color=0B0F1A&color=22D3EE&line=7C3AED&point=F472B6&area=true&area_color=1E1B4B&hide_border=true&custom_title=Commit%20activity" width="100%" alt="activity"/>
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:22D3EE,50:7C3AED,100:F472B6&height=3&section=header" width="100%" alt=""/>
 
 <!-- ═══════════════ CONTACT FOOTER ═══════════════ -->
 <div align="center">
@@ -261,8 +263,8 @@ timeline
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/eswar-mahalingam)
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:eswarmba05313@gmail.com)
 [![Phone](https://img.shields.io/badge/+91--9360548243-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:+919360548243)
-[![Portfolio](https://img.shields.io/badge/Career_Control_Tower-C9A227?style=for-the-badge&logo=netlify&logoColor=0A1F44)](https://YOUR-PORTFOLIO.netlify.app)
+[![Portfolio](https://img.shields.io/badge/Career_Control_Tower-22D3EE?style=for-the-badge&logo=netlify&logoColor=0B0F1A)](https://YOUR-PORTFOLIO.netlify.app)
 
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:C9A227,100:0A1F44&height=110&section=footer)
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:22D3EE,50:7C3AED,100:0B0F1A&height=100&section=footer&animation=twinkling)
 
 </div>
