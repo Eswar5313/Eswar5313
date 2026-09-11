@@ -2,7 +2,7 @@
 
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0A1F44,50:1a3a6b,100:C9A227&height=170&section=header&text=Methods&fontSize=44&fontColor=ffffff&desc=Frameworks%20and%20analytical%20methods%20applied&descSize=15&descAlignY=72)
 
-[![Back](https://img.shields.io/badge/⬅_Career_Control_Tower-0A1F44?style=for-the-badge)](./README.md) [![Master repo](https://img.shields.io/badge/📦_Master_Project_Repo-C9A227?style=for-the-badge)](https://github.com/YOUR-USERNAME/Eswar-Master-Project-Portfolio-2026) [![Lens index](https://img.shields.io/badge/🔍_Lens_Index-0A1F44?style=for-the-badge)](https://github.com/YOUR-USERNAME/Eswar-Portfolio-Lens-Index-2026)
+[![Back](https://img.shields.io/badge/⬅_Career_Control_Tower-0A1F44?style=for-the-badge)](./README.md) [![Master repo](https://img.shields.io/badge/📦_Master_Project_Repo-C9A227?style=for-the-badge)](https://github.com/Eswar5313/Eswar-Master-Project-Portfolio-2026) [![Lens index](https://img.shields.io/badge/🔍_Lens_Index-0A1F44?style=for-the-badge)](https://github.com/Eswar5313/Eswar-Portfolio-Lens-Index-2026)
 
 ### 🗂️ Capability Panels
 
@@ -30,7 +30,7 @@
 
 | Family | Method | Applied in | Result |
 |---|---|---|---|
-| **Analytics process** | CRISP-DM · DIKW · PDCA · OODA (Operator–Analyst framework, 8 rules) | Every HEXA project; research paper | [Operator–Analyst Architecture](https://github.com/YOUR-USERNAME/Eswar-Master-Project-Portfolio-2026/tree/main/01-HEXA-Data-Analytics/00-Portfolio-Package) |
+| **Analytics process** | CRISP-DM · DIKW · PDCA · OODA (Operator–Analyst framework, 8 rules) | Every HEXA project; research paper | [Operator–Analyst Architecture](https://github.com/Eswar5313/Eswar-Master-Project-Portfolio-2026/tree/main/01-HEXA-Data-Analytics/00-Portfolio-Package) |
 | **Statistics** | Descriptive stats · correlation · regression · seasonality index · moving average · FORECAST | Strava (r −0.60) · Excel A3 trend | Honest weak-fit caveat (R² 0.269) printed |
 | **Machine learning** | Ridge regression · RandomForest (balanced) · GradientBoosting · PR-curve thresholding · chronological split · feature importance | Student Performance · Panopticon · Overheat · Driving Optimizer | R² 0.8805 · precision 1.00 @ 0.90 · R² 0.975 |
 | **Control / estimation** | Extended Kalman Filter · SOH tracking | BMS simulation | SOC RMSE 0.63 % |
@@ -44,13 +44,15 @@
 | **Finance** | Ratio analysis · articulated statements · dilution · CFO ROI · sensitivity grid · unit economics | Aurora Foods · B2B SaaS | ROI 8.4×, 36-cell grid |
 | **Engineering standards** | IS 456 limit-state · TOD/PF/MD tariff analysis · LCA (ICCT/CEA factors) | RCC · textile energy · EV LCA | Interaction ratio 0.389 · ₹81.9 L savings |
 | **Security** | Signature + anomaly IDS · threat-feed matching · k-anonymity · behaviour-based detection | Codec cyber | Defensive only |
+| **Digital design** | FSM design with safe hand-over states · clock gating & operand isolation · fixed-point Q1.15 · pipelining & transposed/symmetric FIR · 16× oversampling UART · golden-model CPU verification · RTL-to-GDSII (simulated-annealing placement, maze routing, DRC-lite) | Codec VLSI (10 projects) | ALU power −63.8 % · FIR SNR 88.9 dB · 122/122 nets routed |
+| **Robotics & control** | A*/Dijkstra · pure pursuit · cascaded PID · complementary vs Kalman fusion · log-odds occupancy SLAM + correlative scan matching + ICP · frontier exploration · DH forward/inverse kinematics (Levenberg–Marquardt) · TDOA bearing · discrete-event simulation · SAT collision checking | Codec Robotics (10 projects) | 0 collisions · SLAM RMSE 0.34 m · tilt RMSE 0.33° |
 | **Documentation** | Formula registers · step-by-step method blocks · verified-figures register · integrity statements | Excel Module · HEXA | 187 steps documented |
 
 ## ✅ Fitment Snapshot — Methods
 
 | What the best roles ask for | What I bring | Proof |
 |---|---|---|
-| Framework fluency for PM and analyst interviews | 27 named methods, each tied to a shipped artefact | [Lens index → methods](https://github.com/YOUR-USERNAME/Eswar-Portfolio-Lens-Index-2026) |
+| Framework fluency for PM and analyst interviews | 40+ named methods, each tied to a shipped artefact | [Lens index → methods](https://github.com/Eswar5313/Eswar-Portfolio-Lens-Index-2026) |
 | Statistical honesty | Weak fits, blank hypotheses and declared inputs are printed rather than hidden | [Integrity](./INTEGRITY.md) |
 
 ---
