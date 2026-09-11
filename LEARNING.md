@@ -2,7 +2,7 @@
 
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0A1F44,50:1a3a6b,100:C9A227&height=170&section=header&text=Learning&fontSize=44&fontColor=ffffff&desc=Live%20training%20programmes%20and%20what%20they%20add&descSize=15&descAlignY=72)
 
-[![Back](https://img.shields.io/badge/⬅_Career_Control_Tower-0A1F44?style=for-the-badge)](./README.md) [![Master repo](https://img.shields.io/badge/📦_Master_Project_Repo-C9A227?style=for-the-badge)](https://github.com/YOUR-USERNAME/Eswar-Master-Project-Portfolio-2026) [![Lens index](https://img.shields.io/badge/🔍_Lens_Index-0A1F44?style=for-the-badge)](https://github.com/YOUR-USERNAME/Eswar-Portfolio-Lens-Index-2026)
+[![Back](https://img.shields.io/badge/⬅_Career_Control_Tower-0A1F44?style=for-the-badge)](./README.md) [![Master repo](https://img.shields.io/badge/📦_Master_Project_Repo-C9A227?style=for-the-badge)](https://github.com/Eswar5313/Eswar-Master-Project-Portfolio-2026) [![Lens index](https://img.shields.io/badge/🔍_Lens_Index-0A1F44?style=for-the-badge)](https://github.com/Eswar5313/Eswar-Portfolio-Lens-Index-2026)
 
 ### 🗂️ Capability Panels
 
@@ -36,6 +36,7 @@
 | AI Generalist | Outskill | Jun 2026 – Feb 2027 | LLMs, prompt engineering, RAG, agents |
 | Gen AI Academy APAC | Google Cloud × Hack2Skill | Aug 2026 | ADK + RAG agent on Cloud Run, Gemini + BigQuery MCP |
 | Blue Team / SOC training | GraySentinel Cyber Defence Lab | Jul 2026 – | Defensive security operations |
+| Internship tracks: Electric Vehicle · Cyber Security · Digital Electronics & VLSI · Robotics & Automation | Codec Technologies India | Aug 2026 – | [50 published projects, 50 reports](https://github.com/Eswar5313/Codec-Technologies-Internship-Portfolio-2026) — Verilog/VHDL & FPGA flow, robotics algorithms, EV systems, defensive security |
 | German A1 | Self-study | 2026 – | EU Blue Card readiness |
 
 ## 🏅 Credentials kept on the profile (curated 16 of 333)
@@ -49,7 +50,7 @@ Learn → build a project → document the method → publish. Every programme a
 | What the best roles ask for | What I bring | Proof |
 |---|---|---|
 | Keeps skills current | Seven concurrent programmes across data, product, AI, ERP and language | This page |
-| Learning converts to output | Cohort assignments became 8 PM cases; Gen AI tracks became agent builds | [Projects](./PROJECTS.md) |
+| Learning converts to output | Cohort assignments became 8 PM cases; Gen AI tracks became agent builds; Codec briefs became 50 tested, reported projects | [Projects](./PROJECTS.md) |
 
 ---
 
