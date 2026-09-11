@@ -2,7 +2,7 @@
 
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0A1F44,50:1a3a6b,100:C9A227&height=170&section=header&text=Domains&fontSize=44&fontColor=ffffff&desc=Functional%20domains%20I%20can%20operate%20in&descSize=15&descAlignY=72)
 
-[![Back](https://img.shields.io/badge/⬅_Career_Control_Tower-0A1F44?style=for-the-badge)](./README.md) [![Master repo](https://img.shields.io/badge/📦_Master_Project_Repo-C9A227?style=for-the-badge)](https://github.com/YOUR-USERNAME/Eswar-Master-Project-Portfolio-2026) [![Lens index](https://img.shields.io/badge/🔍_Lens_Index-0A1F44?style=for-the-badge)](https://github.com/YOUR-USERNAME/Eswar-Portfolio-Lens-Index-2026)
+[![Back](https://img.shields.io/badge/⬅_Career_Control_Tower-0A1F44?style=for-the-badge)](./README.md) [![Master repo](https://img.shields.io/badge/📦_Master_Project_Repo-C9A227?style=for-the-badge)](https://github.com/Eswar5313/Eswar-Master-Project-Portfolio-2026) [![Lens index](https://img.shields.io/badge/🔍_Lens_Index-0A1F44?style=for-the-badge)](https://github.com/Eswar5313/Eswar-Portfolio-Lens-Index-2026)
 
 ### 🗂️ Capability Panels
 
@@ -30,15 +30,17 @@
 
 | Domain | Depth | Years | Projects | Credentials | Evidence |
 |---|---|:-:|:-:|---|---|
-| **Data Analytics & BI** | Expert-track | 2 (+8 as consumer) | 30+ | Google Data Analytics · Google BI · HEXA certificate | [HEXA](https://github.com/YOUR-USERNAME/Eswar-Master-Project-Portfolio-2026/tree/main/01-HEXA-Data-Analytics) · [Excel Module](https://github.com/YOUR-USERNAME/Eswar-Master-Project-Portfolio-2026/tree/main/05-Excel-Data-Analytics-Module) |
+| **Data Analytics & BI** | Expert-track | 2 (+8 as consumer) | 30+ | Google Data Analytics · Google BI · HEXA certificate | [HEXA](https://github.com/Eswar5313/Eswar-Master-Project-Portfolio-2026/tree/main/01-HEXA-Data-Analytics) · [Excel Module](https://github.com/Eswar5313/Eswar-Master-Project-Portfolio-2026/tree/main/05-Excel-Data-Analytics-Module) |
 | **Supply Chain & Logistics** | Expert | 8+ | 4 | CSCMP SCPro (6 domains) · IIM-A SC Digitization · PGDLSCM · Six Sigma BB · PepsiCo SC Stars · Flipkart SCOA | Globus results · 2,000-SKU study · FedEx EDA |
 | **Operations & Process Excellence** | Expert | 8+ | 6 | Six Sigma Black Belt · Google PM | Cycle-delay −22 % · APFD/energy/HR process projects |
 | **Sales, CRM & Customer Success** | Expert | 6 | 3 | Salesforce Administrator · PepsiCo Sales Star | ₹13.5 Cr+ facilitated · 90 %+ retention · 87 % FCR |
-| **Product Management (AI-first)** | Advanced | 1 | 8 | Airtribe AI-First PM · Google PM | [PM cases](https://github.com/YOUR-USERNAME/Eswar-Master-Project-Portfolio-2026/tree/main/02-Product-Management-Case-Studies) |
+| **Product Management (AI-first)** | Advanced | 1 | 8 | Airtribe AI-First PM · Google PM | [PM cases](https://github.com/Eswar5313/Eswar-Master-Project-Portfolio-2026/tree/main/02-Product-Management-Case-Studies) |
 | **Finance & FP&A modelling** | Advanced | 3 | 5 | MBA (Finance electives) · B.Com Bank Management | Aurora Foods · revenue/sensitivity models |
 | **AI / Generative AI** | Advanced | 2 | 10+ | Anthropic AI Fluency ×2 · Outskill AI Generalist · Gen AI Academy APAC | Panopticon, Driving Optimizer, application engine |
-| **Cyber Security (defensive)** | Working | 0.5 | 20 | GraySentinel Blue Team · Codec Cyber | [Codec Cyber](https://github.com/YOUR-USERNAME/Eswar-Master-Project-Portfolio-2026/tree/main/04-Codec-Technologies-EV-and-Cyber) |
-| **Electric Vehicles & Embedded** | Working | 0.5 | 11 | Codec EV · Digital Electronics & VLSI · Robotics | [Codec EV](https://github.com/YOUR-USERNAME/Eswar-Master-Project-Portfolio-2026/tree/main/04-Codec-Technologies-EV-and-Cyber) · India EV dashboard |
+| **Cyber Security (defensive)** | Working | 0.5 | 20 | GraySentinel Blue Team · Codec Cyber | [Codec Cyber track](https://github.com/Eswar5313/Codec-Technologies-Internship-Portfolio-2026/tree/main/Cyber-Security) — 20 projects, 226 tests, 20 report PDFs |
+| **Electric Vehicles & Embedded** | Working | 0.5 | 11 | Codec EV | [Codec EV track](https://github.com/Eswar5313/Codec-Technologies-Internship-Portfolio-2026/tree/main/Electric-Vehicle) — EKF SOC RMSE 0.63 % · India EV dashboard |
+| **Digital Electronics & VLSI** | Working | 0.5 | 10 | Codec Digital Electronics & VLSI | [Codec VLSI track](https://github.com/Eswar5313/Codec-Technologies-Internship-Portfolio-2026/tree/main/Digital-Electronics-VLSI) — Verilog/VHDL RTL, Yosys + nextpnr-ice40 P&R, ALU power −63.8 %, UART Fmax 135 MHz, own RTL-to-GDSII flow |
+| **Robotics & Automation** | Working | 0.5 | 10 | Codec Robotics & Automation | [Codec Robotics track](https://github.com/Eswar5313/Codec-Technologies-Internship-Portfolio-2026/tree/main/Robotics-Automation) — A*/Dijkstra, PID + Kalman, SLAM (pose RMSE 0.34 m vs 1.41 m odometry), DH kinematics + IK, OpenCV 99.7 % |
 | **HR & Organisational Psychology** | Working | 1 | 3 | Internship Studio HR + Psychology | HR manual · TechX Thrive |
 | **Marketing & Growth** | Advanced | 3 | 4 | Digiperform · Imagine.bo Growth Partner | EcoStyle ROAS 4.53× · Zepto AOV · LinkedIn playbook |
 | **UX & Design** | Working | 1 | 4 | GWEN UX intern · Zidio UI/UX · Illustrator | Nykaa UX · VitaFit wireframes · 34 SVGs |
@@ -50,6 +52,7 @@
 | Combination | Why it matters to an employer |
 |---|---|
 | Supply chain **+** data analytics | I can build the stockout model *and* know why the picker skipped the bin |
+| Analytics **+** hardware/robotics engineering | Same measurement discipline applied to RTL timing reports and robot simulations — 50 Codec projects, every number produced by the code beside it |
 | Sales **+** analytics | Conversion dashboards built by someone who hit 28 % conversion himself |
 | Product **+** operations | PRDs with real rollout, kill criteria and ops constraints, not just features |
 | AI fluency **+** integrity discipline | AI-accelerated output with disclosure, verification and declared substitutions |
@@ -58,7 +61,7 @@
 
 | What the best roles ask for | What I bring | Proof |
 |---|---|---|
-| T-shaped: one deep domain, many adjacent | Deep in SCM/ops and analytics; working knowledge across 10 more with shipped projects in each | [Lens index](https://github.com/YOUR-USERNAME/Eswar-Portfolio-Lens-Index-2026) |
+| T-shaped: one deep domain, many adjacent | Deep in SCM/ops and analytics; working knowledge across 10 more with shipped projects in each | [Lens index](https://github.com/Eswar5313/Eswar-Portfolio-Lens-Index-2026) |
 | Credentialed, not just self-taught | CSCMP, IIM-A, Google ×4, Salesforce, Six Sigma BB, Anthropic ×2 | [Certifications](./CERTIFICATIONS.md) |
 
 ---
