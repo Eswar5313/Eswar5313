@@ -2,7 +2,7 @@
 
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0A1F44,50:1a3a6b,100:C9A227&height=170&section=header&text=Sectors&fontSize=44&fontColor=ffffff&desc=Sector%20exposure%20through%20projects%20and%20roles&descSize=15&descAlignY=72)
 
-[![Back](https://img.shields.io/badge/⬅_Career_Control_Tower-0A1F44?style=for-the-badge)](./README.md) [![Master repo](https://img.shields.io/badge/📦_Master_Project_Repo-C9A227?style=for-the-badge)](https://github.com/YOUR-USERNAME/Eswar-Master-Project-Portfolio-2026) [![Lens index](https://img.shields.io/badge/🔍_Lens_Index-0A1F44?style=for-the-badge)](https://github.com/YOUR-USERNAME/Eswar-Portfolio-Lens-Index-2026)
+[![Back](https://img.shields.io/badge/⬅_Career_Control_Tower-0A1F44?style=for-the-badge)](./README.md) [![Master repo](https://img.shields.io/badge/📦_Master_Project_Repo-C9A227?style=for-the-badge)](https://github.com/Eswar5313/Eswar-Master-Project-Portfolio-2026) [![Lens index](https://img.shields.io/badge/🔍_Lens_Index-0A1F44?style=for-the-badge)](https://github.com/Eswar5313/Eswar-Portfolio-Lens-Index-2026)
 
 ### 🗂️ Capability Panels
 
@@ -39,6 +39,8 @@
 | **Mobility & Ride-hailing** | — | Uber supply–demand gap · Uber pickup coordination · Pickup Notebook blog | 14-page master + 11-slide deck |
 | **IT, SaaS & AI products** | micro1 · CadetX · Outskill | AI Customer Operations Platform · Panopticon · application engine | ROI 8.4× model |
 | **Cyber Security** | GraySentinel · Codec | 20 defensive projects | 226 tests |
+| **Semiconductors & Embedded (VLSI / FPGA)** | Codec | Traffic-light priority controller · low-power CMOS ALU · VHDL digital lock · FIR filter · UART · GSM energy meter · 4-bit CPU · RTL-to-GDSII · IoT home logic · voting machine | UART Fmax 135 MHz · ALU power −63.8 % |
+| **Robotics & Industrial Automation** | Codec | Warehouse AMR · inspection arm · voice home bot · self-balancing robot · surveillance drone · farming robot · gesture arm · SLAM search & rescue · automated parking · conveyor sorting | 0 collisions · vision 99.7 % |
 | **Health, Fitness & Wellbeing** | — | Strava/Fitbit · VitaFit PRD · Mental Health in Tech · TechX Thrive | r −0.60 · 1,503-formula workbook |
 | **Food & Hospitality** | Fora Travel / Dreamport advisor · Placement International prep | Zomato EDA | — |
 | **Media, Gaming & Sport** | — | Amazon Prime · Video Game Sales · Tennis SportRadar API | Streamlit app |
@@ -57,7 +59,7 @@ India (NCR, Chennai, Hyderabad, Mumbai) · UAE (Dubai — HNI clients of 15+ nat
 
 | What the best roles ask for | What I bring | Proof |
 |---|---|---|
-| Sector-agnostic analytical method | Same EDA → model → decision loop applied across 19 sectors | [Lens index](https://github.com/YOUR-USERNAME/Eswar-Portfolio-Lens-Index-2026) |
+| Sector-agnostic analytical method | Same EDA → model → decision loop applied across 21 sectors | [Lens index](https://github.com/Eswar5313/Eswar-Portfolio-Lens-Index-2026) |
 | Direct exposure to India's fastest-growing sectors | Quick-commerce, EV, fintech, used-car marketplaces | [Industries](./INDUSTRIES.md) |
 
 ---
