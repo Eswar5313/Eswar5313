@@ -2,7 +2,7 @@
 
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0A1F44,50:1a3a6b,100:C9A227&height=170&section=header&text=Leadership&fontSize=44&fontColor=ffffff&desc=Team%2C%20ownership%20and%20decision%20evidence&descSize=15&descAlignY=72)
 
-[![Back](https://img.shields.io/badge/⬅_Career_Control_Tower-0A1F44?style=for-the-badge)](./README.md) [![Master repo](https://img.shields.io/badge/📦_Master_Project_Repo-C9A227?style=for-the-badge)](https://github.com/YOUR-USERNAME/Eswar-Master-Project-Portfolio-2026) [![Lens index](https://img.shields.io/badge/🔍_Lens_Index-0A1F44?style=for-the-badge)](https://github.com/YOUR-USERNAME/Eswar-Portfolio-Lens-Index-2026)
+[![Back](https://img.shields.io/badge/⬅_Career_Control_Tower-0A1F44?style=for-the-badge)](./README.md) [![Master repo](https://img.shields.io/badge/📦_Master_Project_Repo-C9A227?style=for-the-badge)](https://github.com/Eswar5313/Eswar-Master-Project-Portfolio-2026) [![Lens index](https://img.shields.io/badge/🔍_Lens_Index-0A1F44?style=for-the-badge)](https://github.com/Eswar5313/Eswar-Portfolio-Lens-Index-2026)
 
 ### 🗂️ Capability Panels
 
@@ -34,7 +34,7 @@
 | **Revenue ownership** | Closure Manager, Spinny — owned the final stage of the funnel end-to-end | 250+ deals · Top Closure Consultant Q2 |
 | **Portfolio ownership** | Associate Portfolio Manager, Dubai — 100+ HNI accounts | 90 %+ retention |
 | **Process leadership** | Management Trainee, Globus — drove inventory and cycle-time improvements | −30 % stockouts · −22 % delay |
-| **Programme self-management** | Ran 15+ concurrent 2026 engagements with dated deliverables | 83 projects |
+| **Programme self-management** | Ran 15+ concurrent 2026 engagements with dated deliverables; closed all four Codec Technologies tracks (50 projects) in one 3-day sprint | 103 projects |
 | **Standards setting** | Wrote the Operator–Analyst framework (8 rules) and the integrity protocol P1–P4 used in every document | Research paper |
 | **Planning** | 90-day plan with three live gates; department playbook; KPI scoreboard for HEXA | Fitment Dossier |
 | **Mentoring-ready artefacts** | Formula registers, method books, runbooks written so a junior can reproduce | 187 documented steps |
@@ -57,7 +57,7 @@ Analytics team lead (3–8 analysts) · Operations / warehouse manager · Custom
 | What the best roles ask for | What I bring | Proof |
 |---|---|---|
 | Led people and owned numbers | Team Lead + revenue owner + portfolio owner in three different companies | [Roles](./ROLES.md) |
-| Builds systems others can run | Registers, playbooks, gates, scoreboards | [Portfolio package](https://github.com/YOUR-USERNAME/Eswar-Master-Project-Portfolio-2026/tree/main/01-HEXA-Data-Analytics/00-Portfolio-Package) |
+| Builds systems others can run | Registers, playbooks, gates, scoreboards | [Portfolio package](https://github.com/Eswar5313/Eswar-Master-Project-Portfolio-2026/tree/main/01-HEXA-Data-Analytics/00-Portfolio-Package) |
 
 ---
 
