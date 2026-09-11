@@ -2,7 +2,7 @@
 
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0A1F44,50:1a3a6b,100:C9A227&height=170&section=header&text=Duties&fontSize=44&fontColor=ffffff&desc=Day-to-day%20duties%20by%20function%20—%20analyst%2C%20ops%2C%20sales%2C%20PM&descSize=15&descAlignY=72)
 
-[![Back](https://img.shields.io/badge/⬅_Career_Control_Tower-0A1F44?style=for-the-badge)](./README.md) [![Master repo](https://img.shields.io/badge/📦_Master_Project_Repo-C9A227?style=for-the-badge)](https://github.com/YOUR-USERNAME/Eswar-Master-Project-Portfolio-2026) [![Lens index](https://img.shields.io/badge/🔍_Lens_Index-0A1F44?style=for-the-badge)](https://github.com/YOUR-USERNAME/Eswar-Portfolio-Lens-Index-2026)
+[![Back](https://img.shields.io/badge/⬅_Career_Control_Tower-0A1F44?style=for-the-badge)](./README.md) [![Master repo](https://img.shields.io/badge/📦_Master_Project_Repo-C9A227?style=for-the-badge)](https://github.com/Eswar5313/Eswar-Master-Project-Portfolio-2026) [![Lens index](https://img.shields.io/badge/🔍_Lens_Index-0A1F44?style=for-the-badge)](https://github.com/Eswar5313/Eswar-Portfolio-Lens-Index-2026)
 
 ### 🗂️ Capability Panels
 
@@ -31,12 +31,12 @@
 ### 📊 As a Data / Business Analyst
 | Duty | Frequency | How I do it | Proof |
 |---|---|---|---|
-| Pull, clean and validate data (SQL / Excel / pandas) | Daily | Cleaning pipeline with audit sheet (raw → cleaned → audit) | [A2 Data Cleaning](https://github.com/YOUR-USERNAME/Eswar-Master-Project-Portfolio-2026/tree/main/05-Excel-Data-Analytics-Module/02-Data-Cleaning-Pipeline) |
-| Maintain dashboards and MIS | Daily / weekly | Drop-down filtered dashboards, tested on multiple filter states | [A3 Interactive Dashboard](https://github.com/YOUR-USERNAME/Eswar-Master-Project-Portfolio-2026/tree/main/05-Excel-Data-Analytics-Module/03-Advanced-Analysis-Lookups-Pivots-Dashboard) |
-| Answer ad-hoc business questions with EDA | Daily | Question → hypothesis → chart → one-line decision | [HEXA EDA set](https://github.com/YOUR-USERNAME/Eswar-Master-Project-Portfolio-2026/tree/main/01-HEXA-Data-Analytics) |
-| Build models where they pay off (forecast, regression, classification) | Weekly | Baseline first, honest R², chronological splits | [Predictive Maintenance](https://github.com/YOUR-USERNAME/Eswar-Master-Project-Portfolio-2026/tree/main/03-Internship-Studio-Projects/02-Predictive-Maintenance-IoT-ML) |
-| Write the weekly report / deck | Weekly | Report + deck + workbook triad, verified figures only | [Level-3 Learning deck](https://github.com/YOUR-USERNAME/Eswar-Master-Project-Portfolio-2026/tree/main/01-HEXA-Data-Analytics/00-Portfolio-Package) |
-| Document methods for reproducibility | Per project | Step-by-step formula / code registers | [A3 Formula Register](https://github.com/YOUR-USERNAME/Eswar-Master-Project-Portfolio-2026/tree/main/05-Excel-Data-Analytics-Module/03-Advanced-Analysis-Lookups-Pivots-Dashboard) |
+| Pull, clean and validate data (SQL / Excel / pandas) | Daily | Cleaning pipeline with audit sheet (raw → cleaned → audit) | [A2 Data Cleaning](https://github.com/Eswar5313/Eswar-Master-Project-Portfolio-2026/tree/main/05-Excel-Data-Analytics-Module/02-Data-Cleaning-Pipeline) |
+| Maintain dashboards and MIS | Daily / weekly | Drop-down filtered dashboards, tested on multiple filter states | [A3 Interactive Dashboard](https://github.com/Eswar5313/Eswar-Master-Project-Portfolio-2026/tree/main/05-Excel-Data-Analytics-Module/03-Advanced-Analysis-Lookups-Pivots-Dashboard) |
+| Answer ad-hoc business questions with EDA | Daily | Question → hypothesis → chart → one-line decision | [HEXA EDA set](https://github.com/Eswar5313/Eswar-Master-Project-Portfolio-2026/tree/main/01-HEXA-Data-Analytics) |
+| Build models where they pay off (forecast, regression, classification) | Weekly | Baseline first, honest R², chronological splits | [Predictive Maintenance](https://github.com/Eswar5313/Eswar-Master-Project-Portfolio-2026/tree/main/03-Internship-Studio-Projects/02-Predictive-Maintenance-IoT-ML) |
+| Write the weekly report / deck | Weekly | Report + deck + workbook triad, verified figures only | [Level-3 Learning deck](https://github.com/Eswar5313/Eswar-Master-Project-Portfolio-2026/tree/main/01-HEXA-Data-Analytics/00-Portfolio-Package) |
+| Document methods for reproducibility | Per project | Step-by-step formula / code registers | [A3 Formula Register](https://github.com/Eswar5313/Eswar-Master-Project-Portfolio-2026/tree/main/05-Excel-Data-Analytics-Module/03-Advanced-Analysis-Lookups-Pivots-Dashboard) |
 
 ### 🚚 As an Operations / Supply-Chain professional
 | Duty | Frequency | Evidence |
@@ -44,7 +44,7 @@
 | Inventory counts, replenishment triggers, stockout tracking | Daily | Globus: −30 % stockouts |
 | Cycle-time and delay root-cause (5-Why, fishbone, Six Sigma) | Weekly | Globus: −22 % cycle delay · Six Sigma Black Belt |
 | Vendor / transporter coordination and escalation | Daily | Globus Management Trainee |
-| Dark-store assortment & availability measurement | Project | [The 2,000 SKU Problem](https://github.com/YOUR-USERNAME/Eswar-Master-Project-Portfolio-2026/tree/main/06-Personal-Builds-and-Sites/08-The-2000-SKU-Problem-Blog) |
+| Dark-store assortment & availability measurement | Project | [The 2,000 SKU Problem](https://github.com/Eswar5313/Eswar-Master-Project-Portfolio-2026/tree/main/06-Personal-Builds-and-Sites/08-The-2000-SKU-Problem-Blog) |
 
 ### 💼 As a Sales / Customer-facing professional
 | Duty | Frequency | Evidence |
@@ -58,21 +58,24 @@
 | Duty | Evidence |
 |---|---|
 | User interviews and synthesis (no fabricated insight) | Uber & Nykaa toolkits; blank templates kept honest until real interviews |
-| Market sizing, competitive teardown | [AI Customer Ops](https://github.com/YOUR-USERNAME/Eswar-Master-Project-Portfolio-2026/tree/main/02-Product-Management-Case-Studies/02-AI-Customer-Operations-Platform-B2B-SaaS) |
-| PRD, flows, event schema, rollout & kill criteria | [VitaFit](https://github.com/YOUR-USERNAME/Eswar-Master-Project-Portfolio-2026/tree/main/02-Product-Management-Case-Studies/05-VitaFit-PRD-and-Core-Flows) |
+| Market sizing, competitive teardown | [AI Customer Ops](https://github.com/Eswar5313/Eswar-Master-Project-Portfolio-2026/tree/main/02-Product-Management-Case-Studies/02-AI-Customer-Operations-Platform-B2B-SaaS) |
+| PRD, flows, event schema, rollout & kill criteria | [VitaFit](https://github.com/Eswar5313/Eswar-Master-Project-Portfolio-2026/tree/main/02-Product-Management-Case-Studies/05-VitaFit-PRD-and-Core-Flows) |
 | Prioritisation and stakeholder comms | RICE across Zepto/VitaFit; launch-comms plan in VitaFit PRD |
 
-### 🛡️ As a Security / Engineering intern
+### 🛡️ As a Security / Engineering intern (Codec Technologies, 4 tracks)
 | Duty | Evidence |
 |---|---|
-| Build detection logic, test against lab targets, document runbooks | 20 defensive projects · 226 tests |
-| Simulate, validate, unit-test engineering models | BMS, drivetrain, solar sizing · 226 tests |
+| Build detection logic, test against lab targets, document runbooks | [20 defensive projects · 226 tests](https://github.com/Eswar5313/Codec-Technologies-Internship-Portfolio-2026/tree/main/Cyber-Security) |
+| Simulate, validate, unit-test engineering models | [BMS, drivetrain, solar sizing · 226 tests](https://github.com/Eswar5313/Codec-Technologies-Internship-Portfolio-2026/tree/main/Electric-Vehicle) |
+| Write RTL, self-checking testbenches, synthesise and place-and-route, read timing reports | [10 VLSI projects · 12 real P&R runs · 10/10 run_all.sh PASS](https://github.com/Eswar5313/Codec-Technologies-Internship-Portfolio-2026/tree/main/Digital-Electronics-VLSI) |
+| Simulate robots end-to-end (planning, control, SLAM, vision) with unit tests and GIF evidence | [10 robotics projects · 143 tests](https://github.com/Eswar5313/Codec-Technologies-Internship-Portfolio-2026/tree/main/Robotics-Automation) |
+| Write one engineering report per project and publish with a navigation dashboard | [50 report PDFs · live dashboard](https://eswar5313.github.io/Codec-Technologies-Internship-Portfolio-2026/) |
 
 ## ✅ Fitment Snapshot — Duties
 
 | What the best roles ask for | What I bring | Proof |
 |---|---|---|
-| Comfortable with the unglamorous daily work | Cleaning, MIS, follow-ups, documentation — done for years and documented in 2026 | [Excel Module](https://github.com/YOUR-USERNAME/Eswar-Master-Project-Portfolio-2026/tree/main/05-Excel-Data-Analytics-Module) |
+| Comfortable with the unglamorous daily work | Cleaning, MIS, follow-ups, documentation — done for years and documented in 2026 | [Excel Module](https://github.com/Eswar5313/Eswar-Master-Project-Portfolio-2026/tree/main/05-Excel-Data-Analytics-Module) |
 | Can switch between analyst and operator duties | Same person who ran inventory counts now builds the stockout model | [Domains](./DOMAINS.md) |
 
 ---
