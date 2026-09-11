@@ -3,7 +3,7 @@
 
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0A1F44,50:1a3a6b,100:C9A227&height=210&section=header&text=Eswar%20Mahalingam&fontSize=52&fontColor=ffffff&animation=fadeIn&desc=🎛️%20Career%20Control%20Tower%20—%20Data%20Analytics%20%7C%20Supply%20Chain%20%7C%20AI&descSize=17&descAlignY=75)
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=IBM+Plex+Mono&size=21&duration=3000&pause=800&color=C9A227&center=true&vCenter=true&width=680&lines=Data+Scientist+%40+Zidio+Development;Data+Analyst+%7C+Analytics+%26+Operations+Leader;Turning+messy+data+into+business+decisions;SQL+%E2%80%A2+Python+%E2%80%A2+Power+BI+%E2%80%A2+AI+Tools;MBA+%7C+Six+Sigma+Black+Belt+%7C+CSCMP+SCPro)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=IBM+Plex+Mono&size=21&duration=3000&pause=800&color=C9A227&center=true&vCenter=true&width=680&lines=Data+Scientist+%40+Zidio+Development;Turning+messy+data+into+business+decisions;SQL+%E2%80%A2+Python+%E2%80%A2+Power+BI+%E2%80%A2+AI+Tools;103+projects+%7C+50+engineering+builds+with+tests;MBA+%7C+Six+Sigma+Black+Belt+%7C+CSCMP+SCPro)](https://git.io/typing-svg)
 
 ### 🗂️ Open a Panel in Full
 
@@ -13,27 +13,6 @@
 [![Projects](https://img.shields.io/badge/🚀_Projects-C9A227?style=for-the-badge)](./PROJECTS.md)
 [![Simulations](https://img.shields.io/badge/🧪_Simulations-0A1F44?style=for-the-badge)](./SIMULATIONS.md)
 [![Publications](https://img.shields.io/badge/✍️_Publications-C9A227?style=for-the-badge)](./PUBLICATIONS.md)
-
-### 🧬 Layer 2 — Capability Panels
-
-*Who I am, by every lens a hiring manager uses: skills, tools, roles, responsibilities, duties, domains, sectors, industries, methods, impact, soft skills, leadership, employability, learning, mobility, integrity.*
-
-[![Skills](https://img.shields.io/badge/🧠_Skills-0A1F44?style=for-the-badge)](./SKILLS.md)
-[![Tools](https://img.shields.io/badge/🛠️_Tools-C9A227?style=for-the-badge)](./TOOLS.md)
-[![Roles](https://img.shields.io/badge/🎯_Roles-0A1F44?style=for-the-badge)](./ROLES.md)
-[![Responsibilities](https://img.shields.io/badge/📋_Responsibilities-C9A227?style=for-the-badge)](./RESPONSIBILITIES.md)
-[![Duties](https://img.shields.io/badge/🗓️_Duties-0A1F44?style=for-the-badge)](./DUTIES.md)
-[![Domains](https://img.shields.io/badge/🧭_Domains-C9A227?style=for-the-badge)](./DOMAINS.md)
-[![Sectors](https://img.shields.io/badge/🏭_Sectors-0A1F44?style=for-the-badge)](./SECTORS.md)
-[![Industries](https://img.shields.io/badge/🏢_Industries-C9A227?style=for-the-badge)](./INDUSTRIES.md)
-[![Methods](https://img.shields.io/badge/📐_Methods-0A1F44?style=for-the-badge)](./METHODS.md)
-[![Impact](https://img.shields.io/badge/📈_Impact-C9A227?style=for-the-badge)](./IMPACT.md)
-[![Soft Skills](https://img.shields.io/badge/🤝_Soft_Skills-0A1F44?style=for-the-badge)](./SOFT_SKILLS.md)
-[![Leadership](https://img.shields.io/badge/🧑‍✈️_Leadership-C9A227?style=for-the-badge)](./LEADERSHIP.md)
-[![Employability](https://img.shields.io/badge/✅_Employability-0A1F44?style=for-the-badge)](./EMPLOYABILITY.md)
-[![Learning](https://img.shields.io/badge/📚_Learning-C9A227?style=for-the-badge)](./LEARNING.md)
-[![Mobility](https://img.shields.io/badge/🌍_Mobility-0A1F44?style=for-the-badge)](./MOBILITY.md)
-[![Integrity](https://img.shields.io/badge/🛡️_Integrity-C9A227?style=for-the-badge)](./INTEGRITY.md)
 
 </div>
 
@@ -52,6 +31,8 @@
 
 <img src="https://img.shields.io/badge/DATA_PROJECTS-13-C9A227?style=for-the-badge&labelColor=0A1F44" />
 <img src="https://img.shields.io/badge/PM_CASE_STUDIES-7-C9A227?style=for-the-badge&labelColor=0A1F44" />
+<img src="https://img.shields.io/badge/ENGINEERING_PROJECTS-50-C9A227?style=for-the-badge&labelColor=0A1F44" />
+<img src="https://img.shields.io/badge/AUTOMATED_TESTS-595%2B-C9A227?style=for-the-badge&labelColor=0A1F44" />
 <img src="https://img.shields.io/badge/JOB_SIMULATIONS-58%2B-C9A227?style=for-the-badge&labelColor=0A1F44" />
 
 </div>
@@ -67,10 +48,9 @@
 
 | Signal | Status |
 |---|---|
-| 💼 **Role** | 🟢 **Data Scientist @ Zidio Development** — Data Science & Analytics track *(Jul 2026–Present, remote)* |
-| 🏁 **Just completed** | Data Analyst program @ HEXA Solutions (Jun–Sep 2026) — 13-project portfolio, certified |
+| 💼 **Role** | Data Scientist @ **Zidio Development** (Data Science & Analytics) |
 | 📍 **Base** | Ghaziabad, NCR, India |
-| ⚡ **Also active** | micro1 (AI Trainer) · CadetX (Analytics+AI) · Codec (EV & Cyber) · GWEN (UX) · Imagine.bo (Growth) — *project-based* |
+| ⚡ **Side engagements** | Codec Technologies (VLSI · Robotics · EV · Cyber — 50 projects shipped) · micro1 (AI Trainer) · CadetX (Analytics+AI) · GWEN (UX) — *internship/freelance* |
 | 📚 **Learning** | AI-First PM · RAG & Agents · SAP MM · German A1 🇩🇪 |
 | 🎯 **Targeting** | Sr Manager / AVP — Analytics · SCM · Ops |
 | 🌍 **Open to** | India · EU (Blue Card) · Gulf · Immediate |
@@ -89,6 +69,8 @@
 | 📈 Power BI / Tableau | 🟨🟨🟨🟨⬜ |
 | 🤖 AI Tools / Prompting | 🟨🟨🟨🟨🟨 |
 | 🚚 Supply Chain Ops | 🟨🟨🟨🟨🟨 |
+| 🔌 Digital Design (Verilog/VHDL/FPGA) | 🟨🟨🟨⬜⬜ |
+| 🤖 Robotics Algorithms (SLAM/PID/IK) | 🟨🟨🟨⬜⬜ |
 
 </td>
 </tr>
@@ -116,6 +98,10 @@
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
 ![Claude](https://img.shields.io/badge/Claude-C9A227?style=flat-square&logo=anthropic&logoColor=0A1F44)
 ![ChatGPT](https://img.shields.io/badge/ChatGPT-74AA9C?style=flat-square&logo=openai&logoColor=white)
+![Verilog](https://img.shields.io/badge/Verilog%2FVHDL-1E3A5F?style=flat-square)
+![Yosys](https://img.shields.io/badge/Yosys_%2B_nextpnr-C9A227?style=flat-square&logoColor=0A1F44)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
+![ROS2](https://img.shields.io/badge/ROS_2-22314E?style=flat-square&logo=ros&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=flat-square&logo=netlify&logoColor=white)
 
@@ -132,13 +118,14 @@
 
 | Repo | Contents |
 |---|---|
-| 📊 [`hexa-data-analytics-portfolio`](https://github.com/YOUR-USERNAME/hexa-data-analytics-portfolio) | **13 projects** — EDA · SQL · ML · API · dashboards |
-| 🧭 [`product-management-case-studies`](https://github.com/YOUR-USERNAME/product-management-case-studies) | **7 cases** — Uber · Zepto · Nykaa · B2B SaaS · Blinkit |
+| 📊 [`hexa-data-analytics-portfolio`](https://github.com/Eswar5313/hexa-data-analytics-portfolio) | **13 projects** — EDA · SQL · ML · API · dashboards |
+| 🧭 [`product-management-case-studies`](https://github.com/Eswar5313/product-management-case-studies) | **7 cases** — Uber · Zepto · Nykaa · B2B SaaS · Blinkit |
+| ⚙️ [`Codec-Technologies-Internship-Portfolio-2026`](https://github.com/Eswar5313/Codec-Technologies-Internship-Portfolio-2026) | **50 projects** — VLSI · Robotics · EV · Cyber · 50 report PDFs · [live dashboard](https://eswar5313.github.io/Codec-Technologies-Internship-Portfolio-2026/) |
 
 **Verified headline figures:**
-🏙️ Dubai model → **99 AED/sqft** · 🛒 Flipkart CSAT → **4.48→3.66** · ⌚ Fitness corr → **r = −0.60**
+🏙️ Dubai model → **99 AED/sqft** · 🛒 Flipkart CSAT → **4.48→3.66** · ⌚ Fitness corr → **r = −0.60** · 🔌 UART on iCE40 → **135 MHz** · 🔋 CMOS ALU power → **−63.8 %** · 🤖 SLAM pose RMSE → **0.34 m**
 
-➡️ [All 20+ projects in detail](./PROJECTS.md) · [🧪 58+ job simulations](./SIMULATIONS.md) · [✍️ Publications](./PUBLICATIONS.md)
+➡️ [All 70+ projects in detail](./PROJECTS.md) · [🧪 58+ job simulations](./SIMULATIONS.md) · [✍️ Publications](./PUBLICATIONS.md)
 
 </td>
 <td width="50%" valign="top">
@@ -180,22 +167,24 @@ Salesforce Administrator · PepsiCo Sales Star · SAP MM *(in progress)*
 
 ```mermaid
 timeline
-    title 8+ Years Across 5 Industries
+    title 8+ Years Across 7 Industries
     2016-17 : Digital Marketing — Tidalwave / Digiperform
     2017 : Management Trainee — Globus Logisys 🚚
     2019-20 : Sales Consultant — Paisabazaar 💳 (₹1.5Cr+ monthly disbursals)
     2021 : Sales Analyst — Spinny 🚗 : Portfolio Manager — Square Yards, Dubai 🏙️
     2021-22 : Team Lead — OLX Autos 📞
     2025-26 : Closure Manager — Spinny (250+ deals, Top Consultant Q2)
-    2026 : Data Analyst — HEXA Solutions 📊 (Jun–Sep, certified) : Data Scientist — Zidio Development 🧪 ⭐ (Jul–Present)
+    2026 : Data Analyst — HEXA Solutions 📊 : Codec Technologies — VLSI · Robotics · EV · Cyber ⚙️
+    2026-Now : Data Scientist — Zidio Development 📈 ⭐
 ```
 
 <div align="center">
 
 | 🏢 | Role | Key Number |
 |---|---|---|
-| **Zidio Development** | Data Scientist 🟢 | Data Science & Analytics track · predictive modelling · dashboards |
-| **HEXA Solutions** | Data Analyst (Jun–Sep 2026) ✅ | 13-project portfolio · Completion + Experience Certificate |
+| **Zidio Development** | Data Scientist 🟢 | Project FORESIGHT demand forecast |
+| **Codec Technologies** | Engineering intern — 4 tracks | **50 projects · 595+ tests · 50 reports** |
+| **HEXA Solutions** | Data Analyst (Jun–Sep 2026) | 13-project portfolio |
 | **Spinny** | Closure Manager | 250+ deals · **18% closure lift** · 4.8/5 CSAT |
 | **Square Yards, Dubai** | Portfolio Manager | 100+ HNI · 15+ nationalities · **90% retention** |
 | **Paisabazaar** | Sales Consultant | **28% conversion** · ₹1.5Cr+/month |
@@ -226,7 +215,7 @@ timeline
 
 ### 📈 GitHub Telemetry
 
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR-USERNAME&show_icons=true&bg_color=0A1F44&title_color=C9A227&icon_color=C9A227&text_color=ffffff&border_color=C9A227" width="100%" />
+<img src="https://github-readme-stats.vercel.app/api?username=Eswar5313&show_icons=true&bg_color=0A1F44&title_color=C9A227&icon_color=C9A227&text_color=ffffff&border_color=C9A227" width="100%" />
 
 </td>
 </tr>
@@ -234,8 +223,8 @@ timeline
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR-USERNAME&background=0A1F44&ring=C9A227&fire=C9A227&currStreakLabel=C9A227&sideLabels=ffffff&currStreakNum=ffffff&sideNums=ffffff&border=C9A227" height="160" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-USERNAME&layout=compact&bg_color=0A1F44&title_color=C9A227&text_color=ffffff&border_color=C9A227" height="160" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Eswar5313&background=0A1F44&ring=C9A227&fire=C9A227&currStreakLabel=C9A227&sideLabels=ffffff&currStreakNum=ffffff&sideNums=ffffff&border=C9A227" height="160" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eswar5313&layout=compact&bg_color=0A1F44&title_color=C9A227&text_color=ffffff&border_color=C9A227" height="160" />
 
 </div>
 
