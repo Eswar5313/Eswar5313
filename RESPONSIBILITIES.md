@@ -2,7 +2,7 @@
 
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0A1F44,50:1a3a6b,100:C9A227&height=170&section=header&text=Responsibilities&fontSize=44&fontColor=ffffff&desc=What%20I%20owned%20in%20every%20role%20held&descSize=15&descAlignY=72)
 
-[![Back](https://img.shields.io/badge/⬅_Career_Control_Tower-0A1F44?style=for-the-badge)](./README.md) [![Master repo](https://img.shields.io/badge/📦_Master_Project_Repo-C9A227?style=for-the-badge)](https://github.com/YOUR-USERNAME/Eswar-Master-Project-Portfolio-2026) [![Lens index](https://img.shields.io/badge/🔍_Lens_Index-0A1F44?style=for-the-badge)](https://github.com/YOUR-USERNAME/Eswar-Portfolio-Lens-Index-2026)
+[![Back](https://img.shields.io/badge/⬅_Career_Control_Tower-0A1F44?style=for-the-badge)](./README.md) [![Master repo](https://img.shields.io/badge/📦_Master_Project_Repo-C9A227?style=for-the-badge)](https://github.com/Eswar5313/Eswar-Master-Project-Portfolio-2026) [![Lens index](https://img.shields.io/badge/🔍_Lens_Index-0A1F44?style=for-the-badge)](https://github.com/Eswar5313/Eswar-Portfolio-Lens-Index-2026)
 
 ### 🗂️ Capability Panels
 
@@ -44,7 +44,7 @@
 | Programme | What I was responsible for | Scale |
 |---|---|:-:|
 | Internship Studio (12 domains) | End-to-end delivery of one project pack per domain — brief analysis, build, report, submission | 16 packs |
-| Codec Technologies (EV + Cyber) | Choose, build, test and publish projects; email submission with offer letter | 30 projects · 452 tests |
+| Codec Technologies (EV · Cyber · Digital Electronics & VLSI · Robotics) | Choose, build, test and publish every project on all four track briefs; one engineering-report PDF per project; single compact portfolio repo with navigation dashboard; email submission with offer letters | [50 projects · 595+ tests · 50 reports](https://github.com/Eswar5313/Codec-Technologies-Internship-Portfolio-2026) |
 | Airtribe AI-First PM cohort | Assignment ownership: research, interviews, PRD, deck, workbook, Loom | 8 cases |
 | Data Analytics Module 1 | Three assignments with step-by-step formula registers | 5,149 formulas |
 | Personal brand | Portfolio sites, GitHub profile, blogs, application tooling | 11 builds |
@@ -63,8 +63,8 @@
 | What the best roles ask for | What I bring | Proof |
 |---|---|---|
 | Accountability for KPIs | Named metrics owned in 6 roles | [Impact](./IMPACT.md) |
-| Cross-functional coordination | Finance/RC (Spinny), vendors (Globus), HNI clients (Dubai), engineering (CartShare, Codec) | [Soft Skills](./SOFT_SKILLS.md) |
-| Self-managed delivery | 83 documented projects in 2026 without a manager assigning tasks | [Master repo](https://github.com/YOUR-USERNAME/Eswar-Master-Project-Portfolio-2026) |
+| Cross-functional coordination | Finance/RC (Spinny), vendors (Globus), HNI clients (Dubai), engineering (CartShare, Codec — 4 tracks) | [Soft Skills](./SOFT_SKILLS.md) |
+| Self-managed delivery | 103 documented projects in 2026 without a manager assigning tasks | [Master repo](https://github.com/Eswar5313/Eswar-Master-Project-Portfolio-2026) |
 
 ---
 
