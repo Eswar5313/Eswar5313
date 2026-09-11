@@ -2,7 +2,7 @@
 
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0A1F44,50:1a3a6b,100:C9A227&height=170&section=header&text=Industries&fontSize=44&fontColor=ffffff&desc=Industries%20worked%20in%2C%20with%20employers%20and%20numbers&descSize=15&descAlignY=72)
 
-[![Back](https://img.shields.io/badge/⬅_Career_Control_Tower-0A1F44?style=for-the-badge)](./README.md) [![Master repo](https://img.shields.io/badge/📦_Master_Project_Repo-C9A227?style=for-the-badge)](https://github.com/YOUR-USERNAME/Eswar-Master-Project-Portfolio-2026) [![Lens index](https://img.shields.io/badge/🔍_Lens_Index-0A1F44?style=for-the-badge)](https://github.com/YOUR-USERNAME/Eswar-Portfolio-Lens-Index-2026)
+[![Back](https://img.shields.io/badge/⬅_Career_Control_Tower-0A1F44?style=for-the-badge)](./README.md) [![Master repo](https://img.shields.io/badge/📦_Master_Project_Repo-C9A227?style=for-the-badge)](https://github.com/Eswar5313/Eswar-Master-Project-Portfolio-2026) [![Lens index](https://img.shields.io/badge/🔍_Lens_Index-0A1F44?style=for-the-badge)](https://github.com/Eswar5313/Eswar-Portfolio-Lens-Index-2026)
 
 ### 🗂️ Capability Panels
 
@@ -46,8 +46,10 @@
 | Industry | Programme | What was built |
 |---|---|---|
 | AI / LLM services | micro1 (AI Trainer) · Outskill · Gen AI Academy APAC | Model-output evaluation, RAG/agent tracks |
-| Cyber security | GraySentinel · Codec Technologies | 20 defensive projects |
-| Electric vehicles, VLSI, robotics | Codec Technologies | 10 EV projects + firmware |
+| Cyber security | GraySentinel · Codec Technologies | [20 defensive projects](https://github.com/Eswar5313/Codec-Technologies-Internship-Portfolio-2026/tree/main/Cyber-Security), 226 tests |
+| Electric vehicles | Codec Technologies | [10 EV projects + firmware](https://github.com/Eswar5313/Codec-Technologies-Internship-Portfolio-2026/tree/main/Electric-Vehicle), 226 tests |
+| Semiconductors / digital electronics & VLSI | Codec Technologies | [10 RTL/FPGA/ASIC projects](https://github.com/Eswar5313/Codec-Technologies-Internship-Portfolio-2026/tree/main/Digital-Electronics-VLSI) — Verilog/VHDL, real place-and-route, RTL-to-GDSII |
+| Robotics & industrial automation | Codec Technologies | [10 simulation projects](https://github.com/Eswar5313/Codec-Technologies-Internship-Portfolio-2026/tree/main/Robotics-Automation) — AMR, SLAM, drones, robotic arms, parking, conveyor sorting |
 | Product / SaaS | Airtribe AI-First PM | 8 case studies |
 | UX / design services | GWEN · Zidio Development | Figma flows, design systems |
 | Growth / BD services | Imagine.bo Growth Partner | Lead-gen pipeline |
