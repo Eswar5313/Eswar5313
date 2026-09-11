@@ -15,7 +15,7 @@
 <img src="https://img.shields.io/badge/LIVE_TOOLS-3%2B-C9A227?style=for-the-badge&labelColor=0A1F44" />
 <img src="https://img.shields.io/badge/ENGINEERING_PROJECTS-50-0A1F44?style=for-the-badge&labelColor=C9A227" />
 
-**Full repos:** [📊 hexa-data-analytics-portfolio](https://github.com/Eswar5313/hexa-data-analytics-portfolio) · [🧭 product-management-case-studies](https://github.com/Eswar5313/product-management-case-studies) · [⚙️ Codec-Technologies-Internship-Portfolio-2026](https://github.com/Eswar5313/Codec-Technologies-Internship-Portfolio-2026) ([live dashboard](https://eswar5313.github.io/Codec-Technologies-Internship-Portfolio-2026/))
+**Full repos:** [📊 hexa-data-analytics-portfolio](https://github.com/Eswar5313/hexa-data-analytics-portfolio-) · [🧭 product-management-case-studies](https://github.com/Eswar5313/product-management-case-studies) · [⚙️ Codec-Technologies-Internship-Portfolio-2026](https://github.com/Eswar5313/Codec-Technologies-Internship-Portfolio-2026) ([live dashboard](https://eswar5313.github.io/Codec-Technologies-Internship-Portfolio-2026/))
 
 </div>
 
