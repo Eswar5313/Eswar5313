@@ -136,7 +136,7 @@
 
 | Repo | Contents |
 |---|---|
-| 📊 [`hexa-data-analytics-portfolio`](https://github.com/Eswar5313/hexa-data-analytics-portfolio) | **13 projects** — EDA · SQL · ML · API · dashboards |
+| 📊 [`hexa-data-analytics-portfolio`](https://github.com/Eswar5313/hexa-data-analytics-portfolio-) | **13 projects** — EDA · SQL · ML · API · dashboards |
 | 🧭 [`product-management-case-studies`](https://github.com/Eswar5313/product-management-case-studies) | **7 cases** — Uber · Zepto · Nykaa · B2B SaaS · Blinkit |
 | ⚙️ [`Codec-Technologies-Internship-Portfolio-2026`](https://github.com/Eswar5313/Codec-Technologies-Internship-Portfolio-2026) | **50 projects** — VLSI · Robotics · EV · Cyber · 50 report PDFs · [live dashboard](https://eswar5313.github.io/Codec-Technologies-Internship-Portfolio-2026/) |
 | 📦 [`Eswar-Master-Project-Portfolio-2026`](https://github.com/Eswar5313/Eswar-Master-Project-Portfolio-2026) | **103 projects · 6 tracks** — one dashboard, every project → evidence · [open](https://eswar5313.github.io/Eswar-Master-Project-Portfolio-2026/) |
