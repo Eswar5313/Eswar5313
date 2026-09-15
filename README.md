@@ -294,7 +294,7 @@ timeline
 [![LinkedIn](https://img.shields.io/badge/✦-LINKEDIN-000000?style=for-the-badge&labelColor=C9CDD6)](https://linkedin.com/in/eswar-mahalingam)
 [![Gmail](https://img.shields.io/badge/✦-EMAIL-000000?style=for-the-badge&labelColor=FFFFFF)](mailto:eswarmba05313@gmail.com)
 [![Phone](https://img.shields.io/badge/✦-+91_9360548243-000000?style=for-the-badge&labelColor=C9CDD6)](tel:+919360548243)
-[![Portfolio](https://img.shields.io/badge/✦-CAREER_CONTROL_TOWER-000000?style=for-the-badge&labelColor=FFFFFF)](https://YOUR-PORTFOLIO.netlify.app)
+[![Portfolio](https://img.shields.io/badge/✦-CAREER_CONTROL_TOWER-000000?style=for-the-badge&labelColor=FFFFFF)](https://eswarhero.netlify.app)
 
 <img src="https://raw.githubusercontent.com/Eswar5313/Eswar5313/main/assets/kailash-footer.svg" width="100%" alt="" />
 
