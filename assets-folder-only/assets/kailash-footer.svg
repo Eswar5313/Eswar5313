@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1400 140" width="1400" height="140" font-family="Georgia, 'Times New Roman', serif">
+  <defs><linearGradient id="sky" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#000000"/><stop offset="1" stop-color="#1A1A1A"/></linearGradient>
+  <linearGradient id="gold" x1="0" x2="1"><stop offset="0" stop-color="#9A9A9A"/><stop offset="0.5" stop-color="#FFFFFF"/><stop offset="1" stop-color="#9A9A9A"/></linearGradient></defs>
+  <rect width="1400" height="140" fill="url(#sky)"/>
+  <path d="M0,140 L0,100 L110,60 L200,90 L300,40 L420,95 L540,55 L660,100 L780,50 L900,95 L1020,60 L1140,100 L1260,55 L1400,95 L1400,140 Z" fill="#0D0D0D"/>
+  <path d="M0,140 L0,118 L150,92 L280,120 L420,88 L560,122 L700,96 L840,124 L980,94 L1120,122 L1260,98 L1400,124 L1400,140 Z" fill="#222222"/>
+  <g fill="#FFFFFF"><circle cx="90" cy="20" r="1.4"><animate attributeName="opacity" values="0.2;1;0.2" dur="3s" repeatCount="indefinite"/></circle><circle cx="420" cy="14" r="1.1"/><circle cx="1010" cy="18" r="1.5"><animate attributeName="opacity" values="1;0.2;1" dur="4s" repeatCount="indefinite"/></circle><circle cx="1300" cy="24" r="1.2"><animate attributeName="opacity" values="0.3;1;0.3" dur="2.6s" repeatCount="indefinite"/></circle></g>
+  <rect x="0" y="0" width="1400" height="3" fill="url(#gold)"/>
+  <text x="700" y="44" text-anchor="middle" font-size="16" letter-spacing="5" fill="#FFFFFF">ॐ  ·  शिवोऽहम्  ·  ॐ</text>
+  <text x="700" y="72" text-anchor="middle" font-size="15" fill="#FFFFFF">Eswar Mahalingam · MBA · CSCMP SCPro · Six Sigma Black Belt · Ghaziabad, NCR</text>
+  <text x="700" y="96" text-anchor="middle" font-size="13" fill="#9A9A9A">eswarmba05313@gmail.com · +91-9360548243 · linkedin.com/in/eswar-mahalingam · github.com/Eswar5313</text>
+</svg>
