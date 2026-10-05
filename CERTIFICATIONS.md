@@ -1,32 +1,30 @@
+<!-- ═══════════════ KAILASH MONOCHROME · CERTIFICATIONS ═══════════════ -->
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0B0F1A,35:1E1B4B,70:7C3AED,100:22D3EE&height=190&section=header&text=Certifications&fontSize=46&fontColor=ffffff&fontAlignY=38&animation=twinkling&stroke=22D3EE&strokeWidth=1&desc=16%20curated%20credentials%20%2B%204%20engineering%20tracks&descSize=16&descAlignY=62&descColor=22D3EE)
+<img src="https://raw.githubusercontent.com/Eswar5313/Eswar5313/main/assets/headers/CERTIFICATIONS.svg" width="100%" alt="Certifications — Eswar Mahalingam, Career Control Tower" />
 
-</div>
-
-<div align="center">
-
-<a href="./README.md"><img src="https://img.shields.io/badge/⬅_Career_Control_Tower-7C3AED?style=for-the-badge" alt="⬅ Career Control Tower"/></a> <a href="https://github.com/Eswar5313/Eswar-Master-Project-Portfolio-2026"><img src="https://img.shields.io/badge/📦_Master_Portfolio_·_103-22D3EE?style=for-the-badge" alt="📦 Master Portfolio · 103"/></a> <a href="https://github.com/Eswar5313/Codec-Technologies-Internship-Portfolio-2026"><img src="https://img.shields.io/badge/⚙️_Codec_·_50_engineering-F472B6?style=for-the-badge" alt="⚙️ Codec · 50 engineering"/></a> <a href="https://github.com/Eswar5313/Eswar-Portfolio-Lens-Index-2026"><img src="https://img.shields.io/badge/🔍_Lens_Index-34D399?style=for-the-badge" alt="🔍 Lens Index"/></a>
+<a href="./README.md"><img src="https://img.shields.io/badge/⬅-CAREER_CONTROL_TOWER-000000?style=for-the-badge&labelColor=FFFFFF" alt="Back to Career Control Tower"/></a> <a href="https://eswar5313.github.io/Eswar-Master-Project-Portfolio-2026/"><img src="https://img.shields.io/badge/✦-MASTER_PORTFOLIO_·_110%2B-000000?style=for-the-badge&labelColor=FFFFFF" alt="Master Portfolio"/></a> <a href="https://eswar5313.github.io/Codec-Technologies-Internship-Portfolio-2026/"><img src="https://img.shields.io/badge/✦-CODEC_·_50_ENGINEERING-000000?style=for-the-badge&labelColor=C9CDD6" alt="Codec portfolio"/></a> <a href="https://eswar5313.github.io/Eswar-Portfolio-Lens-Index-2026/"><img src="https://img.shields.io/badge/✦-LENS_INDEX-000000?style=for-the-badge&labelColor=C9CDD6" alt="Lens Index"/></a>
 
 <table><tbody>
-<tr><td align="right"><sub><b><font color="#7C3AED">WHO I AM</font></b></sub></td><td><a href="./EDUCATION.md"><img src="https://img.shields.io/badge/🎓_Education-0B0F1A?style=for-the-badge&labelColor=7C3AED" alt="🎓 Education"/></a> <a href="./EXPERIENCE.md"><img src="https://img.shields.io/badge/💼_Experience-0B0F1A?style=for-the-badge&labelColor=7C3AED" alt="💼 Experience"/></a> <img src="https://img.shields.io/badge/🏅_Certifications-ffffff?style=for-the-badge&labelColor=7C3AED" alt="🏅 Certifications"/></td></tr>
-<tr><td align="right"><sub><b><font color="#22D3EE">WHAT I BUILT</font></b></sub></td><td><a href="./PROJECTS.md"><img src="https://img.shields.io/badge/🚀_Projects-0B0F1A?style=for-the-badge&labelColor=22D3EE" alt="🚀 Projects"/></a> <a href="./SIMULATIONS.md"><img src="https://img.shields.io/badge/🧪_Simulations-0B0F1A?style=for-the-badge&labelColor=22D3EE" alt="🧪 Simulations"/></a> <a href="./PUBLICATIONS.md"><img src="https://img.shields.io/badge/✍️_Publications-0B0F1A?style=for-the-badge&labelColor=22D3EE" alt="✍️ Publications"/></a></td></tr>
-<tr><td align="right"><sub><b><font color="#F472B6">WHAT I CAN DO</font></b></sub></td><td><a href="./SKILLS.md"><img src="https://img.shields.io/badge/🧠_Skills-0B0F1A?style=for-the-badge&labelColor=F472B6" alt="🧠 Skills"/></a> <a href="./TOOLS.md"><img src="https://img.shields.io/badge/🛠️_Tools-0B0F1A?style=for-the-badge&labelColor=F472B6" alt="🛠️ Tools"/></a> <a href="./METHODS.md"><img src="https://img.shields.io/badge/📐_Methods-0B0F1A?style=for-the-badge&labelColor=F472B6" alt="📐 Methods"/></a></td></tr>
-<tr><td align="right"><sub><b><font color="#34D399">WHERE I HAVE WORKED</font></b></sub></td><td><a href="./DOMAINS.md"><img src="https://img.shields.io/badge/🧭_Domains-0B0F1A?style=for-the-badge&labelColor=34D399" alt="🧭 Domains"/></a> <a href="./SECTORS.md"><img src="https://img.shields.io/badge/🏭_Sectors-0B0F1A?style=for-the-badge&labelColor=34D399" alt="🏭 Sectors"/></a> <a href="./INDUSTRIES.md"><img src="https://img.shields.io/badge/🏢_Industries-0B0F1A?style=for-the-badge&labelColor=34D399" alt="🏢 Industries"/></a></td></tr>
-<tr><td align="right"><sub><b><font color="#7C3AED">HOW I WORK</font></b></sub></td><td><a href="./RESPONSIBILITIES.md"><img src="https://img.shields.io/badge/📋_Responsibilities-0B0F1A?style=for-the-badge&labelColor=7C3AED" alt="📋 Responsibilities"/></a> <a href="./DUTIES.md"><img src="https://img.shields.io/badge/🗓️_Duties-0B0F1A?style=for-the-badge&labelColor=7C3AED" alt="🗓️ Duties"/></a> <a href="./SOFT_SKILLS.md"><img src="https://img.shields.io/badge/🤝_Soft_Skills-0B0F1A?style=for-the-badge&labelColor=7C3AED" alt="🤝 Soft Skills"/></a> <a href="./LEADERSHIP.md"><img src="https://img.shields.io/badge/🧑‍✈️_Leadership-0B0F1A?style=for-the-badge&labelColor=7C3AED" alt="🧑‍✈️ Leadership"/></a></td></tr>
-<tr><td align="right"><sub><b><font color="#22D3EE">WHY HIRE ME</font></b></sub></td><td><a href="./ROLES.md"><img src="https://img.shields.io/badge/🎯_Roles-0B0F1A?style=for-the-badge&labelColor=22D3EE" alt="🎯 Roles"/></a> <a href="./EMPLOYABILITY.md"><img src="https://img.shields.io/badge/✅_Employability-0B0F1A?style=for-the-badge&labelColor=22D3EE" alt="✅ Employability"/></a> <a href="./IMPACT.md"><img src="https://img.shields.io/badge/📈_Impact-0B0F1A?style=for-the-badge&labelColor=22D3EE" alt="📈 Impact"/></a> <a href="./LEARNING.md"><img src="https://img.shields.io/badge/📚_Learning-0B0F1A?style=for-the-badge&labelColor=22D3EE" alt="📚 Learning"/></a> <a href="./MOBILITY.md"><img src="https://img.shields.io/badge/🌍_Mobility-0B0F1A?style=for-the-badge&labelColor=22D3EE" alt="🌍 Mobility"/></a> <a href="./INTEGRITY.md"><img src="https://img.shields.io/badge/🛡️_Integrity-0B0F1A?style=for-the-badge&labelColor=22D3EE" alt="🛡️ Integrity"/></a></td></tr>
+<tr><td align="right"><sub><b>WHO I AM</b></sub></td><td><a href="./EDUCATION.md"><img src="https://img.shields.io/badge/✦-EDUCATION-000000?style=for-the-badge&labelColor=C9CDD6" alt="EDUCATION"/></a> <a href="./EXPERIENCE.md"><img src="https://img.shields.io/badge/✦-EXPERIENCE-000000?style=for-the-badge&labelColor=C9CDD6" alt="EXPERIENCE"/></a> <img src="https://img.shields.io/badge/✦-CERTIFICATIONS-FFFFFF?style=for-the-badge&labelColor=000000" alt="CERTIFICATIONS (this page)"/></td></tr>
+<tr><td align="right"><sub><b>WHAT I BUILT</b></sub></td><td><a href="./PROJECTS.md"><img src="https://img.shields.io/badge/✦-PROJECTS-000000?style=for-the-badge&labelColor=C9CDD6" alt="PROJECTS"/></a> <a href="./SIMULATIONS.md"><img src="https://img.shields.io/badge/✦-SIMULATIONS-000000?style=for-the-badge&labelColor=C9CDD6" alt="SIMULATIONS"/></a> <a href="./PUBLICATIONS.md"><img src="https://img.shields.io/badge/✦-PUBLICATIONS-000000?style=for-the-badge&labelColor=C9CDD6" alt="PUBLICATIONS"/></a></td></tr>
+<tr><td align="right"><sub><b>WHAT I CAN DO</b></sub></td><td><a href="./SKILLS.md"><img src="https://img.shields.io/badge/◆-SKILLS-000000?style=for-the-badge&labelColor=C9CDD6" alt="SKILLS"/></a> <a href="./TOOLS.md"><img src="https://img.shields.io/badge/◆-TOOLS-000000?style=for-the-badge&labelColor=C9CDD6" alt="TOOLS"/></a> <a href="./METHODS.md"><img src="https://img.shields.io/badge/◆-METHODS-000000?style=for-the-badge&labelColor=C9CDD6" alt="METHODS"/></a></td></tr>
+<tr><td align="right"><sub><b>WHERE I HAVE WORKED</b></sub></td><td><a href="./DOMAINS.md"><img src="https://img.shields.io/badge/◆-DOMAINS-000000?style=for-the-badge&labelColor=C9CDD6" alt="DOMAINS"/></a> <a href="./SECTORS.md"><img src="https://img.shields.io/badge/◆-SECTORS-000000?style=for-the-badge&labelColor=C9CDD6" alt="SECTORS"/></a> <a href="./INDUSTRIES.md"><img src="https://img.shields.io/badge/◆-INDUSTRIES-000000?style=for-the-badge&labelColor=C9CDD6" alt="INDUSTRIES"/></a></td></tr>
+<tr><td align="right"><sub><b>HOW I WORK</b></sub></td><td><a href="./RESPONSIBILITIES.md"><img src="https://img.shields.io/badge/◆-RESPONSIBILITIES-000000?style=for-the-badge&labelColor=C9CDD6" alt="RESPONSIBILITIES"/></a> <a href="./DUTIES.md"><img src="https://img.shields.io/badge/◆-DUTIES-000000?style=for-the-badge&labelColor=C9CDD6" alt="DUTIES"/></a> <a href="./SOFT_SKILLS.md"><img src="https://img.shields.io/badge/◆-SOFT_SKILLS-000000?style=for-the-badge&labelColor=C9CDD6" alt="SOFT_SKILLS"/></a> <a href="./LEADERSHIP.md"><img src="https://img.shields.io/badge/◆-LEADERSHIP-000000?style=for-the-badge&labelColor=C9CDD6" alt="LEADERSHIP"/></a></td></tr>
+<tr><td align="right"><sub><b>WHY HIRE ME</b></sub></td><td><a href="./ROLES.md"><img src="https://img.shields.io/badge/◆-ROLES-000000?style=for-the-badge&labelColor=C9CDD6" alt="ROLES"/></a> <a href="./EMPLOYABILITY.md"><img src="https://img.shields.io/badge/◆-EMPLOYABILITY-000000?style=for-the-badge&labelColor=C9CDD6" alt="EMPLOYABILITY"/></a> <a href="./IMPACT.md"><img src="https://img.shields.io/badge/◆-IMPACT-000000?style=for-the-badge&labelColor=C9CDD6" alt="IMPACT"/></a> <a href="./LEARNING.md"><img src="https://img.shields.io/badge/◆-LEARNING-000000?style=for-the-badge&labelColor=C9CDD6" alt="LEARNING"/></a> <a href="./MOBILITY.md"><img src="https://img.shields.io/badge/◆-MOBILITY-000000?style=for-the-badge&labelColor=C9CDD6" alt="MOBILITY"/></a> <a href="./INTEGRITY.md"><img src="https://img.shields.io/badge/◆-INTEGRITY-000000?style=for-the-badge&labelColor=C9CDD6" alt="INTEGRITY"/></a></td></tr>
 </tbody></table>
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:22D3EE,50:7C3AED,100:F472B6&height=3&section=header" width="100%" alt=""/>
+
+<img src="https://raw.githubusercontent.com/Eswar5313/Eswar5313/main/assets/divider.svg" width="100%" alt="" />
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/CORE_CREDENTIALS-16-22D3EE?style=for-the-badge&labelColor=0B0F1A" />
-<img src="https://img.shields.io/badge/SUBJECT_AREAS-5-7C3AED?style=for-the-badge&labelColor=22D3EE" />
-<img src="https://img.shields.io/badge/CODEC_TRACKS_COMPLETED-4_·_50_projects-22D3EE?style=for-the-badge&labelColor=0B0F1A" />
-<img src="https://img.shields.io/badge/IN_PROGRESS-5-22D3EE?style=for-the-badge&labelColor=0B0F1A" />
+<img src="https://img.shields.io/badge/CORE_CREDENTIALS-16-C9CDD6?style=for-the-badge&labelColor=000000" />
+<img src="https://img.shields.io/badge/SUBJECT_AREAS-5-FFFFFF?style=for-the-badge&labelColor=C9CDD6" />
+<img src="https://img.shields.io/badge/CODEC_TRACKS_COMPLETED-4_·_50_projects-C9CDD6?style=for-the-badge&labelColor=000000" />
+<img src="https://img.shields.io/badge/IN_PROGRESS-5-C9CDD6?style=for-the-badge&labelColor=000000" />
 
 </div>
 
@@ -106,7 +104,7 @@
 
 </details>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:22D3EE,50:7C3AED,100:F472B6&height=3&section=header" width="100%" alt=""/>
+<img src="https://raw.githubusercontent.com/Eswar5313/Eswar5313/main/assets/divider.svg" width="100%" alt="" />
 
 ## 🏭 View 2 — Sector Relevance Map
 
@@ -122,7 +120,7 @@
 | 🤖 **Robotics / Industrial Automation** | Codec Robotics track · Codec EV track · SAP MM |
 | 🔐 **Cyber Security / SOC** | Codec Cyber track · GraySentinel Blue Team |
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:22D3EE,50:7C3AED,100:F472B6&height=3&section=header" width="100%" alt=""/>
+<img src="https://raw.githubusercontent.com/Eswar5313/Eswar5313/main/assets/divider.svg" width="100%" alt="" />
 
 ## 🎯 View 3 — Role Fitment Map
 
@@ -136,20 +134,24 @@
 | 🔲 **Digital Design / Robotics Engineer (entry)** | Codec VLSI + Robotics tracks · 20 tested, reported projects |
 | 💼 **Business / Sales Analytics Lead** | Salesforce Admin · Google BI · ₹13.5Cr+ sales history |
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:22D3EE,50:7C3AED,100:F472B6&height=3&section=header" width="100%" alt=""/>
+<img src="https://raw.githubusercontent.com/Eswar5313/Eswar5313/main/assets/divider.svg" width="100%" alt="" />
 
 ## 🗄️ The Deep Bench
 
-Beyond the core 16: **58+ Forage job simulations** ([full list →](./SIMULATIONS.md)), **47 Coursera** courses, and **~200 LinkedIn Learning** completions — maintained in a separate Credential Vault to keep this page recruiter-readable. Engineering track evidence lives in the [Codec portfolio](https://github.com/Eswar5313/Codec-Technologies-Internship-Portfolio-2026) and every project is indexed in the [Master Portfolio](https://github.com/Eswar5313/Eswar-Master-Project-Portfolio-2026) (103 projects).
+Beyond the core 16: **66 Forage job simulations** ([full list →](./SIMULATIONS.md)), **47 Coursera** courses, and **~200 LinkedIn Learning** completions — maintained in a separate Credential Vault to keep this page recruiter-readable. Engineering track evidence lives in the [Codec portfolio](https://github.com/Eswar5313/Codec-Technologies-Internship-Portfolio-2026) and every project is indexed in the [Master Portfolio](https://eswar5313.github.io/Eswar-Master-Project-Portfolio-2026/) (110+ projects).
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:22D3EE,50:7C3AED,100:F472B6&height=3&section=header" width="100%" alt=""/>
+<img src="https://raw.githubusercontent.com/Eswar5313/Eswar5313/main/assets/divider.svg" width="100%" alt="" />
 
 <div align="center">
 
-<a href="./README.md"><img src="https://img.shields.io/badge/Eswar_Mahalingam-7C3AED?style=for-the-badge" alt="Eswar Mahalingam"/></a> <img src="https://img.shields.io/badge/MBA_·_CSCMP_SCPro_·_Six_Sigma_Black_Belt-0B0F1A?style=for-the-badge&labelColor=7C3AED" alt="MBA · CSCMP SCPro · Six Sigma Black Belt"/> <img src="https://img.shields.io/badge/Ghaziabad_NCR_·_India_·_EU_·_Gulf-0B0F1A?style=for-the-badge&labelColor=22D3EE" alt="Ghaziabad NCR · India · EU · Gulf"/> <img src="https://img.shields.io/badge/Immediate_joiner-34D399?style=for-the-badge" alt="Immediate joiner"/>
+**Eswar Mahalingam** · MBA · CSCMP SCPro · Six Sigma Black Belt · Ghaziabad NCR, India · Open to India · EU (Blue Card) · Gulf · Immediate joiner
 
-<a href="https://linkedin.com/in/eswar-mahalingam"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a> <a href="mailto:eswarmba05313@gmail.com"><img src="https://img.shields.io/badge/eswarmba05313@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="eswarmba05313@gmail.com"/></a> <a href="tel:+919360548243"><img src="https://img.shields.io/badge/+91_9360548243-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="+91 9360548243"/></a> <a href="https://github.com/Eswar5313"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+[![LinkedIn](https://img.shields.io/badge/✦-LINKEDIN-000000?style=for-the-badge&labelColor=C9CDD6)](https://linkedin.com/in/eswar-mahalingam)
+[![Email](https://img.shields.io/badge/✦-EMAIL-000000?style=for-the-badge&labelColor=FFFFFF)](mailto:eswarmba05313@gmail.com)
+[![Phone](https://img.shields.io/badge/✦-+91_9360548243-000000?style=for-the-badge&labelColor=C9CDD6)](tel:+919360548243)
+[![Portfolio](https://img.shields.io/badge/✦-PORTFOLIO_SITE-000000?style=for-the-badge&labelColor=FFFFFF)](https://eswar-3d-portfolio.netlify.app)
+[![Top](https://img.shields.io/badge/⬆-CAREER_CONTROL_TOWER-000000?style=for-the-badge&labelColor=FFFFFF)](./README.md)
 
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:22D3EE,50:7C3AED,100:0B0F1A&height=100&section=footer&animation=twinkling)
+<img src="https://raw.githubusercontent.com/Eswar5313/Eswar5313/main/assets/kailash-footer.svg" width="100%" alt="" />
 
 </div>

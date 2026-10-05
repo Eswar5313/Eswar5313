@@ -3,7 +3,7 @@
 
 <img src="https://raw.githubusercontent.com/Eswar5313/Eswar5313/main/assets/kailash-header.svg" width="100%" alt="Eswar Mahalingam — Career Control Tower" />
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Cinzel&size=22&duration=3000&pause=800&color=FFFFFF&center=true&vCenter=true&width=760&lines=Data+Scientist+%40+Zidio+Development;Turning+messy+data+into+business+decisions;SQL+%E2%80%A2+Python+%E2%80%A2+Power+BI+%E2%80%A2+AI+Tools;108%2B+projects+%7C+50+engineering+builds+%7C+live+forecast+in+production;MBA+%7C+Six+Sigma+Black+Belt+%7C+CSCMP+SCPro)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Cinzel&size=22&duration=3000&pause=800&color=FFFFFF&center=true&vCenter=true&width=760&lines=Data+Scientist+%40+Zidio+Development;Turning+messy+data+into+business+decisions;SQL+%E2%80%A2+Python+%E2%80%A2+Power+BI+%E2%80%A2+AI+Tools;110%2B+projects+%7C+50+engineering+builds+%7C+live+forecast+in+production;MBA+%7C+Six+Sigma+Black+Belt+%7C+CSCMP+SCPro)](https://git.io/typing-svg)
 
 ### 🔱 Open a Panel in Full
 
@@ -46,7 +46,7 @@
 <img src="https://img.shields.io/badge/CSAT-92%25%2B-C9CDD6?style=for-the-badge&labelColor=000000" />
 
 <img src="https://img.shields.io/badge/DATA_PROJECTS-13-8A8A8A?style=for-the-badge&labelColor=000000" />
-<img src="https://img.shields.io/badge/PM_CASE_STUDIES-9-8A8A8A?style=for-the-badge&labelColor=000000" />
+<img src="https://img.shields.io/badge/PM_CASE_STUDIES-12-8A8A8A?style=for-the-badge&labelColor=000000" />
 <img src="https://img.shields.io/badge/ENGINEERING_PROJECTS-50-8A8A8A?style=for-the-badge&labelColor=000000" />
 <img src="https://img.shields.io/badge/AUTOMATED_TESTS-620%2B-8A8A8A?style=for-the-badge&labelColor=000000" />
 <img src="https://img.shields.io/badge/JOB_SIMULATIONS-66-8A8A8A?style=for-the-badge&labelColor=000000" />
@@ -68,8 +68,9 @@
 |---|---|
 | 💼 **Role** | Data Scientist @ **Zidio Development** (Data Science & Analytics) — **Project FORESIGHT** demand-forecast platform [live](https://foresight-northbay.netlify.app), WAPE 8.8 % vs 11.2 % seasonal-naive |
 | 📍 **Base** | Ghaziabad, NCR, India |
-| ⚡ **Side engagements** | Codec Technologies (VLSI · Robotics · EV · Cyber — 50 projects shipped) · GraySentinel DSOU (Blue Team Operator — 2 labs + 2 SOC tools) · micro1 (AI Trainer) · CadetX (Analytics+AI) · GWEN (UX) — *internship/freelance* |
-| 📚 **Learning** | AI-First PM (9 cases — latest: Zomato funnel & cohort metrics) · RAG & Agents · SAP MM · German A1 🇩🇪 |
+| 🧠 **Also** | Infotact Solutions — Associate L1, Generative AI (LLM apps · RAG) · GraySentinel DSOU — Blue Team Operator · CadetX — warehouse analytics squad · micro1 — AI Trainer |
+| ✅ **Completed 2026** | HEXA Solutions — Data Analyst (13 projects) · Codec Technologies — 4 engineering tracks, 50 projects |
+| 📚 **Learning** | AI-First PM — 12 cases (latest: Airbnb PLG · QuickBite & SkillBridge system design) · now *AI in Product Management* module · SAP MM · German A1 🇩🇪 |
 | 🎯 **Targeting** | Sr Manager / AVP — Analytics · SCM · Ops |
 | 🌍 **Open to** | India · EU (Blue Card) · Gulf · Immediate |
 
@@ -139,11 +140,13 @@
 | Repo | Contents |
 |---|---|
 | 📊 [`hexa-data-analytics-portfolio`](https://github.com/Eswar5313/hexa-data-analytics-portfolio) | **13 projects** — EDA · SQL · ML · API · dashboards |
-| 🧭 [`product-management-case-studies`](https://github.com/Eswar5313/product-management-case-studies) | **9 cases** — Uber · Zepto · Nykaa · B2B SaaS · Blinkit · VitaFit PRD · **Zomato funnel & cohorts** |
+| 🧭 [`product-management-case-studies`](https://github.com/Eswar5313/product-management-case-studies) | **12 cases** — Uber · Zepto · Nykaa · B2B SaaS · Blinkit · VitaFit PRD · Zomato funnel · **Airbnb PLG · QuickBite · SkillBridge Compass** |
 | ⚙️ [`Codec-Technologies-Internship-Portfolio-2026`](https://github.com/Eswar5313/Codec-Technologies-Internship-Portfolio-2026) | **50 projects** — VLSI · Robotics · EV · Cyber · 50 report PDFs · [live dashboard](https://eswar5313.github.io/Codec-Technologies-Internship-Portfolio-2026/) |
-| 📈 **Project FORESIGHT** (Zidio client project) | **Live** — [foresight-northbay.netlify.app](https://foresight-northbay.netlify.app) · weekly SKU forecast + stockout/overstock risk scoring + `/api/score` service · WAPE **8.8 %** vs 11.2 % naive |
+| 📈 [`zidio-data-science-projects`](https://github.com/Eswar5313/zidio-data-science-projects) — **Project FORESIGHT** | **Live** — [foresight-northbay.netlify.app](https://foresight-northbay.netlify.app) · weekly SKU forecast + stockout/overstock risk scoring + `/api/score` service · WAPE **8.8 %** vs 11.2 % naive |
 | 🔵 [`GraySentinel-DSOU-45Day-2026`](https://github.com/Eswar5313/GraySentinel-DSOU-45Day-2026) | **Blue Team programme** — Day 1 Zero-Day lab + Sigma rule · Day 2 macOS miner chain · Auth-Log Investigation Tool · SOC Incident Summary Generator · 25 tests · root dashboard |
-| 🗂️ [`Eswar-Master-Project-Portfolio-2026`](https://github.com/Eswar5313/Eswar-Master-Project-Portfolio-2026) · [`Eswar-Portfolio-Lens-Index-2026`](https://github.com/Eswar5313/Eswar-Portfolio-Lens-Index-2026) | **108 projects** in one navigable registry, plus 10 lenses (skills · tools · sectors · roles · methods…) |
+| 🏗️ [`Cadetx-Junior-DA`](https://github.com/Eswar5313/Cadetx-Junior-DA) | **Heavy Warehouse Intelligence** — 12-sprint warehouse & supplier analytics (6 branches · 30 SKUs · 8 suppliers · 2019–24) |
+| 🎓 [`Internship-Studio-Projects-2026`](https://github.com/Eswar5313/Internship-Studio-Projects-2026) | **18 subject projects** — AI · data science · testing · C++ · energy · RCC · finance · HR · AWS · export finance |
+| 🗂️ [`Eswar-Master-Project-Portfolio-2026`](https://github.com/Eswar5313/Eswar-Master-Project-Portfolio-2026) · [`Eswar-Portfolio-Lens-Index-2026`](https://github.com/Eswar5313/Eswar-Portfolio-Lens-Index-2026) | **110+ projects** in one navigable registry, plus 10 lenses (skills · tools · sectors · roles · methods…) |
 
 **Verified headline figures:**
 🏙️ Dubai model → **99 AED/sqft** · 🛒 Flipkart CSAT → **4.48→3.66** · ⌚ Fitness corr → **r = −0.60** · 🔌 UART on iCE40 → **135 MHz** · 🔋 CMOS ALU power → **−63.8 %** · 🤖 SLAM pose RMSE → **0.34 m** · 📈 FORESIGHT forecast → **WAPE 8.8 % vs 11.2 % naive** · 🍽️ Zomato funnel → **17.6 % → 26.4 % delivered target**
@@ -194,18 +197,23 @@ GraySentinel DSOU Day 1 Zero-Day certificate · Codec Technologies — Cyber Sec
 <!-- ═══════════════ RECENT ADDITIONS ═══════════════ -->
 <div align="center">
 
-### 🆕 Recent Additions — September 2026
+### 🆕 Recent Additions — September → October 2026
 
 | Date | What shipped | Proof |
 |---|---|---|
+| 3 Oct | **PM Case Notes** blog live — VitaFit PRD · Zomato funnel · Airbnb PLG | [Live](https://eswar-pm-case-notes.netlify.app) |
+| 27 Sep | **SkillBridge "Compass"** learning-recommendation system design (hybrid batch + real-time re-rank) and **QuickBite** 5k → 2M-user rollout design brief | [PM cases](https://github.com/Eswar5313/product-management-case-studies) |
+| 25 Sep | Joined **Infotact Solutions** as Associate L1 — Generative AI (LLM apps · RAG · evaluation) | [Experience](./EXPERIENCE.md) |
+| 24 Sep | 3D portfolio site live — talking-head intro, office / WFH / learning-lab stage | [Live](https://eswar-3d-portfolio.netlify.app) |
+| 22 Sep | **Airbnb India PLG** case — 6 loops, 4 MVPs, revenue model · Internship Studio #17 export-finance model (confirmed sight LC, PV USD 579,735) | [PM cases](https://github.com/Eswar5313/product-management-case-studies) · [IS repo](https://github.com/Eswar5313/Internship-Studio-Projects-2026) |
 | 15 Sep | GraySentinel repo root dashboard covering Day 1 lab, Day 2 lab, Project 01, Project 02 | [GraySentinel-DSOU-45Day-2026](https://github.com/Eswar5313/GraySentinel-DSOU-45Day-2026) |
 | 14 Sep | **SOC tools** — Authentication Log Investigation Tool + SOC Incident Summary Generator (stdlib Python, RFC-5737 lab data, 13 + 12 tests, GitHub Pages live checker) | [graysentinel-day1/](https://github.com/Eswar5313/GraySentinel-DSOU-45Day-2026) |
-| 13 Sep | **Zomato funnel & cohort metrics** — 7-stage funnel (17.6 % → 26.4 % target), 6 cohorts, North Star + 13 metric ladders, 163-formula workbook, 10-slide deck, 53-pp master | [PM cases](https://github.com/Eswar5313/Eswar-Master-Project-Portfolio-2026/tree/main/02-Product-Management-Case-Studies) |
+| 13 Sep | **Zomato funnel & cohort metrics** — 7-stage funnel (17.6 % → 26.4 % target), 6 cohorts, North Star + 13 metric ladders, 163-formula workbook, 10-slide deck, 53-pp master | [PM cases](https://eswar5313.github.io/Eswar-Master-Project-Portfolio-2026/#02-Product-Management-Case-Studies) |
 | 12 Sep | PM Craft Series — 3 essays on PM communication & PRD writing | [Publications](./PUBLICATIONS.md) |
 | 10 Sep | GraySentinel Day 2 — macOS miner attack-chain lab (oletools → C2 → LaunchDaemon persistence), in progress | [GraySentinel-DSOU-45Day-2026](https://github.com/Eswar5313/GraySentinel-DSOU-45Day-2026) |
 | 9 Sep | **Project FORESIGHT** (Zidio) — NorthBay Living demand forecasting + inventory-risk platform, live on Netlify with scoring API; WAPE 8.8 % vs 11.2 % seasonal-naive on rolling-origin backtest | [Live](https://foresight-northbay.netlify.app) |
 | 9 Sep | GraySentinel Day 1 — Zero-Day Discovery 6-phase lab certificate + 3-tripwire Sigma detection rule | [GraySentinel-DSOU-45Day-2026](https://github.com/Eswar5313/GraySentinel-DSOU-45Day-2026) |
-| 4 Sep | Excel Module 1 three-part master — 42 sheets, 171,263 live formulas, 57 functions, 31 charts, 3 dashboards | [Excel Module](https://github.com/Eswar5313/Eswar-Master-Project-Portfolio-2026/tree/main/05-Excel-Data-Analytics-Module) |
+| 4 Sep | Excel Module 1 three-part master — 42 sheets, 171,263 live formulas, 57 functions, 31 charts, 3 dashboards | [Excel Module](https://eswar5313.github.io/Eswar-Master-Project-Portfolio-2026/#05-Excel-Data-Analytics-Module) |
 
 </div>
 
@@ -225,7 +233,7 @@ timeline
     2021-22 : Team Lead — OLX Autos 📞
     2025-26 : Closure Manager — Spinny (250+ deals, Top Consultant Q2)
     2026 : Data Analyst — HEXA Solutions 📊 : Codec Technologies — VLSI · Robotics · EV · Cyber ⚙️
-    2026-Now : Data Scientist — Zidio Development 📈 ⭐ : Blue Team Operator — GraySentinel 🔵
+    2026-Now : Data Scientist — Zidio Development 📈 ⭐ : GenAI Associate — Infotact 🧠 : Blue Team Operator — GraySentinel 🔵
 ```
 
 <div align="center">
@@ -234,7 +242,8 @@ timeline
 |---|---|---|
 | **Zidio Development** | Data Scientist 🔥 | **Project FORESIGHT live** · WAPE 8.8 % vs 11.2 % naive · 8 reorder / 8 markdown / 34 healthy SKUs |
 | **GraySentinel Cyber Defence Lab** | Blue Team Operator & Trainee | Zero-Day lab cert · Sigma rule (ATT&CK T1053.003) · 2 SOC tools · 25 tests |
-| **Codec Technologies** | Engineering intern — 4 tracks | **50 projects · 595+ tests · 50 reports** |
+| **Infotact Solutions** | Associate L1 — Generative AI | LLM apps · RAG · prompt engineering (Sep 2026 →) |
+| **Codec Technologies** | Engineering intern — 4 tracks (Aug–Sep 2026) | **50 projects · 595+ tests · 50 reports** |
 | **HEXA Solutions** | Data Analyst (Jun–Sep 2026) | 13-project portfolio |
 | **Spinny** | Closure Manager | 250+ deals · **18% closure lift** · 4.8/5 CSAT |
 | **Square Yards, Dubai** | Portfolio Manager | 100+ HNI · 15+ nationalities · **90% retention** |
@@ -294,7 +303,8 @@ timeline
 [![LinkedIn](https://img.shields.io/badge/✦-LINKEDIN-000000?style=for-the-badge&labelColor=C9CDD6)](https://linkedin.com/in/eswar-mahalingam)
 [![Gmail](https://img.shields.io/badge/✦-EMAIL-000000?style=for-the-badge&labelColor=FFFFFF)](mailto:eswarmba05313@gmail.com)
 [![Phone](https://img.shields.io/badge/✦-+91_9360548243-000000?style=for-the-badge&labelColor=C9CDD6)](tel:+919360548243)
-[![Portfolio](https://img.shields.io/badge/✦-CAREER_CONTROL_TOWER-000000?style=for-the-badge&labelColor=FFFFFF)](https://eswarhero.netlify.app)
+[![Portfolio](https://img.shields.io/badge/✦-PORTFOLIO_SITE-000000?style=for-the-badge&labelColor=FFFFFF)](https://eswar-3d-portfolio.netlify.app)
+[![Master](https://img.shields.io/badge/✦-MASTER_PORTFOLIO-000000?style=for-the-badge&labelColor=C9CDD6)](https://eswar5313.github.io/Eswar-Master-Project-Portfolio-2026/)
 
 <img src="https://raw.githubusercontent.com/Eswar5313/Eswar5313/main/assets/kailash-footer.svg" width="100%" alt="" />
 
