@@ -1,57 +1,57 @@
-<!-- ═══════════════ KAILASH THEME · HEADER ═══════════════ -->
+<!-- ═══════════════ HORIZON 2047 THEME · HEADER ═══════════════ -->
 <div align="center">
 
 <img src="https://raw.githubusercontent.com/Eswar5313/Eswar5313/main/assets/kailash-header.svg" width="100%" alt="Eswar Mahalingam — Career Control Tower" />
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Cinzel&size=22&duration=3000&pause=800&color=FFFFFF&center=true&vCenter=true&width=760&lines=Data+Scientist+%40+Zidio+Development;Turning+messy+data+into+business+decisions;SQL+%E2%80%A2+Python+%E2%80%A2+Power+BI+%E2%80%A2+AI+Tools;110%2B+projects+%7C+50+engineering+builds+%7C+live+forecast+in+production;MBA+%7C+Six+Sigma+Black+Belt+%7C+CSCMP+SCPro)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Orbitron&size=22&duration=3000&pause=800&color=00E5FF&center=true&vCenter=true&width=760&lines=Data+Scientist+%40+Zidio+Development;Turning+messy+data+into+business+decisions;SQL+%E2%80%A2+Python+%E2%80%A2+Power+BI+%E2%80%A2+AI+Tools;110%2B+projects+%7C+50+engineering+builds+%7C+live+forecast+in+production;MBA+%7C+Six+Sigma+Black+Belt+%7C+CSCMP+SCPro)](https://git.io/typing-svg)
 
 ### 🔱 Open a Panel in Full
 
-[![Education](https://img.shields.io/badge/✦-EDUCATION-000000?style=for-the-badge&labelColor=C9CDD6)](./EDUCATION.md)
-[![Experience](https://img.shields.io/badge/✦-EXPERIENCE-000000?style=for-the-badge&labelColor=FFFFFF)](./EXPERIENCE.md)
-[![Certifications](https://img.shields.io/badge/✦-CERTIFICATIONS-000000?style=for-the-badge&labelColor=C9CDD6)](./CERTIFICATIONS.md)
-[![Projects](https://img.shields.io/badge/✦-PROJECTS-000000?style=for-the-badge&labelColor=FFFFFF)](./PROJECTS.md)
-[![Simulations](https://img.shields.io/badge/✦-SIMULATIONS-000000?style=for-the-badge&labelColor=C9CDD6)](./SIMULATIONS.md)
-[![Publications](https://img.shields.io/badge/✦-PUBLICATIONS-000000?style=for-the-badge&labelColor=FFFFFF)](./PUBLICATIONS.md)
+[![Education](https://img.shields.io/badge/✦-EDUCATION-0B1026?style=for-the-badge&labelColor=B388FF)](./EDUCATION.md)
+[![Experience](https://img.shields.io/badge/✦-EXPERIENCE-0B1026?style=for-the-badge&labelColor=00E5FF)](./EXPERIENCE.md)
+[![Certifications](https://img.shields.io/badge/✦-CERTIFICATIONS-0B1026?style=for-the-badge&labelColor=B388FF)](./CERTIFICATIONS.md)
+[![Projects](https://img.shields.io/badge/✦-PROJECTS-0B1026?style=for-the-badge&labelColor=00E5FF)](./PROJECTS.md)
+[![Simulations](https://img.shields.io/badge/✦-SIMULATIONS-0B1026?style=for-the-badge&labelColor=B388FF)](./SIMULATIONS.md)
+[![Publications](https://img.shields.io/badge/✦-PUBLICATIONS-0B1026?style=for-the-badge&labelColor=00E5FF)](./PUBLICATIONS.md)
 
 ### 🪔 Capability Panels
 
-[![Skills](https://img.shields.io/badge/◆-SKILLS-000000?style=for-the-badge&labelColor=FFFFFF)](./SKILLS.md)
-[![Tools](https://img.shields.io/badge/◆-TOOLS-000000?style=for-the-badge&labelColor=FFFFFF)](./TOOLS.md)
-[![Roles](https://img.shields.io/badge/◆-ROLES-000000?style=for-the-badge&labelColor=FFFFFF)](./ROLES.md)
-[![Responsibilities](https://img.shields.io/badge/◆-RESPONSIBILITIES-000000?style=for-the-badge&labelColor=FFFFFF)](./RESPONSIBILITIES.md)
-[![Duties](https://img.shields.io/badge/◆-DUTIES-000000?style=for-the-badge&labelColor=FFFFFF)](./DUTIES.md)
-[![Domains](https://img.shields.io/badge/◆-DOMAINS-000000?style=for-the-badge&labelColor=FFFFFF)](./DOMAINS.md)
-[![Sectors](https://img.shields.io/badge/◆-SECTORS-000000?style=for-the-badge&labelColor=FFFFFF)](./SECTORS.md)
-[![Industries](https://img.shields.io/badge/◆-INDUSTRIES-000000?style=for-the-badge&labelColor=FFFFFF)](./INDUSTRIES.md)
-[![Methods](https://img.shields.io/badge/◆-METHODS-000000?style=for-the-badge&labelColor=FFFFFF)](./METHODS.md)
-[![Impact](https://img.shields.io/badge/◆-IMPACT-000000?style=for-the-badge&labelColor=FFFFFF)](./IMPACT.md)
-[![Soft Skills](https://img.shields.io/badge/◆-SOFT_SKILLS-000000?style=for-the-badge&labelColor=FFFFFF)](./SOFT_SKILLS.md)
-[![Leadership](https://img.shields.io/badge/◆-LEADERSHIP-000000?style=for-the-badge&labelColor=FFFFFF)](./LEADERSHIP.md)
-[![Employability](https://img.shields.io/badge/◆-EMPLOYABILITY-000000?style=for-the-badge&labelColor=FFFFFF)](./EMPLOYABILITY.md)
-[![Learning](https://img.shields.io/badge/◆-LEARNING-000000?style=for-the-badge&labelColor=FFFFFF)](./LEARNING.md)
-[![Mobility](https://img.shields.io/badge/◆-MOBILITY-000000?style=for-the-badge&labelColor=FFFFFF)](./MOBILITY.md)
-[![Integrity](https://img.shields.io/badge/◆-INTEGRITY-000000?style=for-the-badge&labelColor=FFFFFF)](./INTEGRITY.md)
+[![Skills](https://img.shields.io/badge/◆-SKILLS-0B1026?style=for-the-badge&labelColor=00E5FF)](./SKILLS.md)
+[![Tools](https://img.shields.io/badge/◆-TOOLS-0B1026?style=for-the-badge&labelColor=00E5FF)](./TOOLS.md)
+[![Roles](https://img.shields.io/badge/◆-ROLES-0B1026?style=for-the-badge&labelColor=00E5FF)](./ROLES.md)
+[![Responsibilities](https://img.shields.io/badge/◆-RESPONSIBILITIES-0B1026?style=for-the-badge&labelColor=00E5FF)](./RESPONSIBILITIES.md)
+[![Duties](https://img.shields.io/badge/◆-DUTIES-0B1026?style=for-the-badge&labelColor=00E5FF)](./DUTIES.md)
+[![Domains](https://img.shields.io/badge/◆-DOMAINS-0B1026?style=for-the-badge&labelColor=00E5FF)](./DOMAINS.md)
+[![Sectors](https://img.shields.io/badge/◆-SECTORS-0B1026?style=for-the-badge&labelColor=00E5FF)](./SECTORS.md)
+[![Industries](https://img.shields.io/badge/◆-INDUSTRIES-0B1026?style=for-the-badge&labelColor=00E5FF)](./INDUSTRIES.md)
+[![Methods](https://img.shields.io/badge/◆-METHODS-0B1026?style=for-the-badge&labelColor=00E5FF)](./METHODS.md)
+[![Impact](https://img.shields.io/badge/◆-IMPACT-0B1026?style=for-the-badge&labelColor=00E5FF)](./IMPACT.md)
+[![Soft Skills](https://img.shields.io/badge/◆-SOFT_SKILLS-0B1026?style=for-the-badge&labelColor=00E5FF)](./SOFT_SKILLS.md)
+[![Leadership](https://img.shields.io/badge/◆-LEADERSHIP-0B1026?style=for-the-badge&labelColor=00E5FF)](./LEADERSHIP.md)
+[![Employability](https://img.shields.io/badge/◆-EMPLOYABILITY-0B1026?style=for-the-badge&labelColor=00E5FF)](./EMPLOYABILITY.md)
+[![Learning](https://img.shields.io/badge/◆-LEARNING-0B1026?style=for-the-badge&labelColor=00E5FF)](./LEARNING.md)
+[![Mobility](https://img.shields.io/badge/◆-MOBILITY-0B1026?style=for-the-badge&labelColor=00E5FF)](./MOBILITY.md)
+[![Integrity](https://img.shields.io/badge/◆-INTEGRITY-0B1026?style=for-the-badge&labelColor=00E5FF)](./INTEGRITY.md)
 
 <img src="https://raw.githubusercontent.com/Eswar5313/Eswar5313/main/assets/divider.svg" width="100%" alt="" />
 
 ## 📿 Career KPI Board
 
-<img src="https://img.shields.io/badge/EXPERIENCE-8%2B_YEARS-FFFFFF?style=for-the-badge&labelColor=000000" />
-<img src="https://img.shields.io/badge/SALES_FACILITATED-₹13.5Cr%2B-FFFFFF?style=for-the-badge&labelColor=000000" />
-<img src="https://img.shields.io/badge/CONVERSION-28%25-FFFFFF?style=for-the-badge&labelColor=000000" />
+<img src="https://img.shields.io/badge/EXPERIENCE-8%2B_YEARS-00E5FF?style=for-the-badge&labelColor=0B1026" />
+<img src="https://img.shields.io/badge/SALES_FACILITATED-₹13.5Cr%2B-00E5FF?style=for-the-badge&labelColor=0B1026" />
+<img src="https://img.shields.io/badge/CONVERSION-28%25-00E5FF?style=for-the-badge&labelColor=0B1026" />
 
-<img src="https://img.shields.io/badge/STOCKOUT_REDUCTION-30%25-C9CDD6?style=for-the-badge&labelColor=000000" />
-<img src="https://img.shields.io/badge/CYCLE_DELAY_CUT-22%25-C9CDD6?style=for-the-badge&labelColor=000000" />
-<img src="https://img.shields.io/badge/CSAT-92%25%2B-C9CDD6?style=for-the-badge&labelColor=000000" />
+<img src="https://img.shields.io/badge/STOCKOUT_REDUCTION-30%25-B388FF?style=for-the-badge&labelColor=0B1026" />
+<img src="https://img.shields.io/badge/CYCLE_DELAY_CUT-22%25-B388FF?style=for-the-badge&labelColor=0B1026" />
+<img src="https://img.shields.io/badge/CSAT-92%25%2B-B388FF?style=for-the-badge&labelColor=0B1026" />
 
-<img src="https://img.shields.io/badge/DATA_PROJECTS-13-8A8A8A?style=for-the-badge&labelColor=000000" />
-<img src="https://img.shields.io/badge/PM_CASE_STUDIES-12-8A8A8A?style=for-the-badge&labelColor=000000" />
-<img src="https://img.shields.io/badge/ENGINEERING_PROJECTS-50-8A8A8A?style=for-the-badge&labelColor=000000" />
-<img src="https://img.shields.io/badge/AUTOMATED_TESTS-620%2B-8A8A8A?style=for-the-badge&labelColor=000000" />
-<img src="https://img.shields.io/badge/JOB_SIMULATIONS-66-8A8A8A?style=for-the-badge&labelColor=000000" />
-<img src="https://img.shields.io/badge/FORECAST_WAPE-8.8%25_vs_11.2%25_naive-FFFFFF?style=for-the-badge&labelColor=000000" />
-<img src="https://img.shields.io/badge/SOC_LABS_%2B_TOOLS-4-FFFFFF?style=for-the-badge&labelColor=000000" />
+<img src="https://img.shields.io/badge/DATA_PROJECTS-13-3D5AFE?style=for-the-badge&labelColor=0B1026" />
+<img src="https://img.shields.io/badge/PM_CASE_STUDIES-12-3D5AFE?style=for-the-badge&labelColor=0B1026" />
+<img src="https://img.shields.io/badge/ENGINEERING_PROJECTS-50-3D5AFE?style=for-the-badge&labelColor=0B1026" />
+<img src="https://img.shields.io/badge/AUTOMATED_TESTS-620%2B-3D5AFE?style=for-the-badge&labelColor=0B1026" />
+<img src="https://img.shields.io/badge/JOB_SIMULATIONS-66-3D5AFE?style=for-the-badge&labelColor=0B1026" />
+<img src="https://img.shields.io/badge/FORECAST_WAPE-8.8%25_vs_11.2%25_naive-00E5FF?style=for-the-badge&labelColor=0B1026" />
+<img src="https://img.shields.io/badge/SOC_LABS_%2B_TOOLS-4-00E5FF?style=for-the-badge&labelColor=0B1026" />
 
 </div>
 
@@ -81,16 +81,16 @@
 
 | Domain | Level |
 |---|---|
-| 📊 Excel / Dashboards | ⬜⬜⬜⬜⬜ |
-| 🔍 EDA & Statistics | ⬜⬜⬜⬜⬛ |
-| 🗃️ SQL | ⬜⬜⬜⬜⬛ |
-| 🐍 Python (Pandas/Sklearn) | ⬜⬜⬜⬜⬛ |
-| 📈 Power BI / Tableau | ⬜⬜⬜⬜⬛ |
-| 🤖 AI Tools / Prompting | ⬜⬜⬜⬜⬜ |
-| 🚚 Supply Chain Ops | ⬜⬜⬜⬜⬜ |
-| 🔌 Digital Design (Verilog/VHDL/FPGA) | ⬜⬜⬜⬛⬛ |
-| 🤖 Robotics Algorithms (SLAM/PID/IK) | ⬜⬜⬜⬛⬛ |
-| 🔵 Defensive Security (Sigma / SOC) | ⬜⬜⬜⬛⬛ |
+| 📊 Excel / Dashboards | 🟦🟦🟦🟦🟦 |
+| 🔍 EDA & Statistics | 🟦🟦🟦🟦⬛ |
+| 🗃️ SQL | 🟦🟦🟦🟦⬛ |
+| 🐍 Python (Pandas/Sklearn) | 🟦🟦🟦🟦⬛ |
+| 📈 Power BI / Tableau | 🟦🟦🟦🟦⬛ |
+| 🤖 AI Tools / Prompting | 🟦🟦🟦🟦🟦 |
+| 🚚 Supply Chain Ops | 🟦🟦🟦🟦🟦 |
+| 🔌 Digital Design (Verilog/VHDL/FPGA) | 🟦🟦🟦⬛⬛ |
+| 🤖 Robotics Algorithms (SLAM/PID/IK) | 🟦🟦🟦⬛⬛ |
+| 🔵 Defensive Security (Sigma / SOC) | 🟦🟦🟦⬛⬛ |
 
 </td>
 </tr>
@@ -103,28 +103,28 @@
 
 ### 🛠️ Tool Belt
 
-![Python](https://img.shields.io/badge/Python-000000?style=flat-square&logo=python&logoColor=FFFFFF)
-![SQL](https://img.shields.io/badge/SQL-000000?style=flat-square&logo=mysql&logoColor=FFFFFF)
-![Pandas](https://img.shields.io/badge/Pandas-000000?style=flat-square&logo=pandas&logoColor=FFFFFF)
-![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-000000?style=flat-square&logo=scikitlearn&logoColor=FFFFFF)
-![Power BI](https://img.shields.io/badge/Power_BI-000000?style=flat-square&logo=powerbi&logoColor=FFFFFF)
-![Tableau](https://img.shields.io/badge/Tableau-000000?style=flat-square&logo=tableau&logoColor=FFFFFF)
-![Excel](https://img.shields.io/badge/Excel-000000?style=flat-square&logo=microsoftexcel&logoColor=FFFFFF)
-![Streamlit](https://img.shields.io/badge/Streamlit-000000?style=flat-square&logo=streamlit&logoColor=FFFFFF)
-![SQLite](https://img.shields.io/badge/SQLite-000000?style=flat-square&logo=sqlite&logoColor=FFFFFF)
-![Salesforce](https://img.shields.io/badge/Salesforce-000000?style=flat-square&logo=salesforce&logoColor=FFFFFF)
-![SAP](https://img.shields.io/badge/SAP_MM-000000?style=flat-square&logo=sap&logoColor=FFFFFF)
-![AWS](https://img.shields.io/badge/AWS-000000?style=flat-square&logo=amazonwebservices&logoColor=FFFFFF)
-![Figma](https://img.shields.io/badge/Figma-000000?style=flat-square&logo=figma&logoColor=FFFFFF)
-![Claude](https://img.shields.io/badge/Claude-000000?style=flat-square&logo=anthropic&logoColor=FFFFFF)
-![ChatGPT](https://img.shields.io/badge/ChatGPT-000000?style=flat-square&logo=openai&logoColor=FFFFFF)
-![Verilog](https://img.shields.io/badge/Verilog%2FVHDL-000000?style=flat-square&labelColor=000000&color=222222)
-![Yosys](https://img.shields.io/badge/Yosys_%2B_nextpnr-222222?style=flat-square)
-![OpenCV](https://img.shields.io/badge/OpenCV-000000?style=flat-square&logo=opencv&logoColor=FFFFFF)
-![ROS2](https://img.shields.io/badge/ROS_2-000000?style=flat-square&logo=ros&logoColor=FFFFFF)
-![Sigma](https://img.shields.io/badge/Sigma_rules-222222?style=flat-square)
-![Git](https://img.shields.io/badge/Git-000000?style=flat-square&logo=git&logoColor=FFFFFF)
-![Netlify](https://img.shields.io/badge/Netlify-000000?style=flat-square&logo=netlify&logoColor=FFFFFF)
+![Python](https://img.shields.io/badge/Python-0B1026?style=flat-square&logo=python&logoColor=00E5FF)
+![SQL](https://img.shields.io/badge/SQL-0B1026?style=flat-square&logo=mysql&logoColor=00E5FF)
+![Pandas](https://img.shields.io/badge/Pandas-0B1026?style=flat-square&logo=pandas&logoColor=00E5FF)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-0B1026?style=flat-square&logo=scikitlearn&logoColor=00E5FF)
+![Power BI](https://img.shields.io/badge/Power_BI-0B1026?style=flat-square&logo=powerbi&logoColor=00E5FF)
+![Tableau](https://img.shields.io/badge/Tableau-0B1026?style=flat-square&logo=tableau&logoColor=00E5FF)
+![Excel](https://img.shields.io/badge/Excel-0B1026?style=flat-square&logo=microsoftexcel&logoColor=00E5FF)
+![Streamlit](https://img.shields.io/badge/Streamlit-0B1026?style=flat-square&logo=streamlit&logoColor=00E5FF)
+![SQLite](https://img.shields.io/badge/SQLite-0B1026?style=flat-square&logo=sqlite&logoColor=00E5FF)
+![Salesforce](https://img.shields.io/badge/Salesforce-0B1026?style=flat-square&logo=salesforce&logoColor=00E5FF)
+![SAP](https://img.shields.io/badge/SAP_MM-0B1026?style=flat-square&logo=sap&logoColor=00E5FF)
+![AWS](https://img.shields.io/badge/AWS-0B1026?style=flat-square&logo=amazonwebservices&logoColor=00E5FF)
+![Figma](https://img.shields.io/badge/Figma-0B1026?style=flat-square&logo=figma&logoColor=00E5FF)
+![Claude](https://img.shields.io/badge/Claude-0B1026?style=flat-square&logo=anthropic&logoColor=00E5FF)
+![ChatGPT](https://img.shields.io/badge/ChatGPT-0B1026?style=flat-square&logo=openai&logoColor=00E5FF)
+![Verilog](https://img.shields.io/badge/Verilog%2FVHDL-0B1026?style=flat-square&labelColor=0B1026&color=1B1F4B)
+![Yosys](https://img.shields.io/badge/Yosys_%2B_nextpnr-1B1F4B?style=flat-square)
+![OpenCV](https://img.shields.io/badge/OpenCV-0B1026?style=flat-square&logo=opencv&logoColor=00E5FF)
+![ROS2](https://img.shields.io/badge/ROS_2-0B1026?style=flat-square&logo=ros&logoColor=00E5FF)
+![Sigma](https://img.shields.io/badge/Sigma_rules-1B1F4B?style=flat-square)
+![Git](https://img.shields.io/badge/Git-0B1026?style=flat-square&logo=git&logoColor=00E5FF)
+![Netlify](https://img.shields.io/badge/Netlify-0B1026?style=flat-square&logo=netlify&logoColor=00E5FF)
 
 </div>
 
@@ -223,7 +223,7 @@ GraySentinel DSOU Day 1 Zero-Day certificate · Codec Technologies — Cyber Sec
 ## 🕉️ Journey Monitor
 
 ```mermaid
-%%{init: {'theme':'base','themeVariables':{'primaryColor':'#222222','primaryTextColor':'#FFFFFF','primaryBorderColor':'#FFFFFF','lineColor':'#FFFFFF','secondaryColor':'#000000','tertiaryColor':'#1A1A1A','fontFamily':'Georgia, serif'}}}%%
+%%{init: {'theme':'base','themeVariables':{'primaryColor':'#0B1026','primaryTextColor':'#E8F6FF','primaryBorderColor':'#00E5FF','lineColor':'#B388FF','secondaryColor':'#12062B','tertiaryColor':'#1B1F4B','fontFamily':'Orbitron, Segoe UI, sans-serif'}}}%%
 timeline
     title 8+ Years Across 7 Industries
     2016-17 : Digital Marketing — Tidalwave / Digiperform
@@ -275,7 +275,7 @@ timeline
 
 ### 📈 GitHub Telemetry
 
-<img src="https://github-readme-stats.vercel.app/api?username=Eswar5313&show_icons=true&bg_color=0D0D0D&title_color=FFFFFF&icon_color=C9CDD6&text_color=FFFFFF&border_color=FFFFFF" width="100%" />
+<img src="https://github-readme-stats.vercel.app/api?username=Eswar5313&show_icons=true&bg_color=0B1026&title_color=00E5FF&icon_color=B388FF&text_color=E8F6FF&border_color=00E5FF" width="100%" />
 
 </td>
 </tr>
@@ -283,10 +283,10 @@ timeline
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Eswar5313&background=0D0D0D&ring=FFFFFF&fire=C9CDD6&currStreakLabel=FFFFFF&sideLabels=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=9A9A9A&border=FFFFFF" height="160" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eswar5313&layout=compact&bg_color=0D0D0D&title_color=FFFFFF&text_color=FFFFFF&border_color=FFFFFF" height="160" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Eswar5313&background=0B1026&ring=00E5FF&fire=FF4DD8&currStreakLabel=00E5FF&sideLabels=E8F6FF&currStreakNum=00E5FF&sideNums=E8F6FF&dates=B388FF&border=FFFFFF" height="160" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eswar5313&layout=compact&bg_color=0B1026&title_color=00E5FF&text_color=E8F6FF&border_color=00E5FF" height="160" />
 
-<img src="https://github-profile-trophy.vercel.app/?username=Eswar5313&theme=darkhub&no-frame=true&column=7&margin-w=8&title_color=FFFFFF" width="100%" />
+<img src="https://github-profile-trophy.vercel.app/?username=Eswar5313&theme=radical&no-frame=true&column=7&margin-w=8&title_color=00E5FF" width="100%" />
 
 </div>
 
@@ -300,11 +300,11 @@ timeline
 **Open to Senior Manager / AVP roles — Data Analytics · Supply Chain · Operations**
 🇮🇳 PAN-India · 🇪🇺 Germany (Blue Card track) · 🌴 Gulf | Immediate joiner
 
-[![LinkedIn](https://img.shields.io/badge/✦-LINKEDIN-000000?style=for-the-badge&labelColor=C9CDD6)](https://linkedin.com/in/eswar-mahalingam)
-[![Gmail](https://img.shields.io/badge/✦-EMAIL-000000?style=for-the-badge&labelColor=FFFFFF)](mailto:eswarmba05313@gmail.com)
-[![Phone](https://img.shields.io/badge/✦-+91_9360548243-000000?style=for-the-badge&labelColor=C9CDD6)](tel:+919360548243)
-[![Portfolio](https://img.shields.io/badge/✦-PORTFOLIO_SITE-000000?style=for-the-badge&labelColor=FFFFFF)](https://eswar-3d-portfolio.netlify.app)
-[![Master](https://img.shields.io/badge/✦-MASTER_PORTFOLIO-000000?style=for-the-badge&labelColor=C9CDD6)](https://eswar5313.github.io/Eswar-Master-Project-Portfolio-2026/)
+[![LinkedIn](https://img.shields.io/badge/✦-LINKEDIN-0B1026?style=for-the-badge&labelColor=B388FF)](https://linkedin.com/in/eswar-mahalingam)
+[![Gmail](https://img.shields.io/badge/✦-EMAIL-0B1026?style=for-the-badge&labelColor=00E5FF)](mailto:eswarmba05313@gmail.com)
+[![Phone](https://img.shields.io/badge/✦-+91_9360548243-0B1026?style=for-the-badge&labelColor=B388FF)](tel:+919360548243)
+[![Portfolio](https://img.shields.io/badge/✦-PORTFOLIO_SITE-0B1026?style=for-the-badge&labelColor=00E5FF)](https://eswar-3d-portfolio.netlify.app)
+[![Master](https://img.shields.io/badge/✦-MASTER_PORTFOLIO-0B1026?style=for-the-badge&labelColor=B388FF)](https://eswar5313.github.io/Eswar-Master-Project-Portfolio-2026/)
 
 <img src="https://raw.githubusercontent.com/Eswar5313/Eswar5313/main/assets/kailash-footer.svg" width="100%" alt="" />
 
