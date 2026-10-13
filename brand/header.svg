@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 110" width="1280" height="110" font-family="'Segoe UI','Helvetica Neue',Helvetica,Arial,sans-serif">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#07140F"/><stop offset="1" stop-color="#114232"/></linearGradient>
+    <linearGradient id="gold" x1="0" x2="1"><stop offset="0" stop-color="#E9C46A"/><stop offset="1" stop-color="#F4E3B5"/></linearGradient>
+    <clipPath id="c"><rect width="1280" height="110" rx="16"/></clipPath>
+  </defs>
+  <g clip-path="url(#c)">
+    <rect width="1280" height="110" fill="url(#bg)"/>
+    <g transform="translate(70,55)">
+      <circle r="34" fill="#0B2A20" stroke="#E9C46A" stroke-opacity="0.6" stroke-width="1.5"/>
+      <text x="0" y="10" text-anchor="middle" font-size="28" font-weight="700" fill="url(#gold)" font-family="Georgia,'Times New Roman',serif">MJ</text>
+    </g>
+    <text x="126" y="50" font-size="30" font-weight="700" fill="#F5F1E8" font-family="Georgia,'Times New Roman',serif">Eswar Mahalingam</text>
+    <text x="127" y="80" font-size="17" font-weight="600" fill="#E9C46A">Founder · M.JayaEswar Ventures</text>
+    <text x="1210" y="66" text-anchor="end" font-size="13" letter-spacing="4" fill="#34D399">ENJOYVO · ENJOYVO BOUTIQUE · LOOKVIO · LOVPRINT</text>
+  </g>
+  <rect x="1" y="1" width="1278" height="108" rx="16" fill="none" stroke="#E9C46A" stroke-opacity="0.3"/>
+</svg>
