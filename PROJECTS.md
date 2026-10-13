@@ -1,235 +1,70 @@
-<!-- ═══════════════ HORIZON 2047 · PROJECTS ═══════════════ -->
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Eswar5313/Eswar5313/main/assets/headers/PROJECTS.svg" width="100%" alt="Projects — Eswar Mahalingam, Career Control Tower" />
+<img src="brand/header.svg" width="100%" alt="Eswar Mahalingam — Founder, M.JayaEswar Ventures" />
 
-<a href="./README.md"><img src="https://img.shields.io/badge/⬅-CAREER_CONTROL_TOWER-0B1026?style=for-the-badge&labelColor=00E5FF" alt="Back to Career Control Tower"/></a> <a href="https://eswar5313.github.io/Eswar-Master-Project-Portfolio-2026/"><img src="https://img.shields.io/badge/✦-MASTER_PORTFOLIO_·_110%2B-0B1026?style=for-the-badge&labelColor=00E5FF" alt="Master Portfolio"/></a> <a href="https://eswar5313.github.io/Codec-Technologies-Internship-Portfolio-2026/"><img src="https://img.shields.io/badge/✦-CODEC_·_50_ENGINEERING-0B1026?style=for-the-badge&labelColor=B388FF" alt="Codec portfolio"/></a> <a href="https://eswar5313.github.io/Eswar-Portfolio-Lens-Index-2026/"><img src="https://img.shields.io/badge/✦-LENS_INDEX-0B1026?style=for-the-badge&labelColor=B388FF" alt="Lens Index"/></a>
-
-<table><tbody>
-<tr><td align="right"><sub><b>WHO I AM</b></sub></td><td><a href="./EDUCATION.md"><img src="https://img.shields.io/badge/✦-EDUCATION-0B1026?style=for-the-badge&labelColor=B388FF" alt="EDUCATION"/></a> <a href="./EXPERIENCE.md"><img src="https://img.shields.io/badge/✦-EXPERIENCE-0B1026?style=for-the-badge&labelColor=B388FF" alt="EXPERIENCE"/></a> <a href="./CERTIFICATIONS.md"><img src="https://img.shields.io/badge/✦-CERTIFICATIONS-0B1026?style=for-the-badge&labelColor=B388FF" alt="CERTIFICATIONS"/></a></td></tr>
-<tr><td align="right"><sub><b>WHAT I BUILT</b></sub></td><td><img src="https://img.shields.io/badge/✦-PROJECTS-00E5FF?style=for-the-badge&labelColor=0B1026" alt="PROJECTS (this page)"/> <a href="./SIMULATIONS.md"><img src="https://img.shields.io/badge/✦-SIMULATIONS-0B1026?style=for-the-badge&labelColor=B388FF" alt="SIMULATIONS"/></a> <a href="./PUBLICATIONS.md"><img src="https://img.shields.io/badge/✦-PUBLICATIONS-0B1026?style=for-the-badge&labelColor=B388FF" alt="PUBLICATIONS"/></a></td></tr>
-<tr><td align="right"><sub><b>WHAT I CAN DO</b></sub></td><td><a href="./SKILLS.md"><img src="https://img.shields.io/badge/◆-SKILLS-0B1026?style=for-the-badge&labelColor=B388FF" alt="SKILLS"/></a> <a href="./TOOLS.md"><img src="https://img.shields.io/badge/◆-TOOLS-0B1026?style=for-the-badge&labelColor=B388FF" alt="TOOLS"/></a> <a href="./METHODS.md"><img src="https://img.shields.io/badge/◆-METHODS-0B1026?style=for-the-badge&labelColor=B388FF" alt="METHODS"/></a></td></tr>
-<tr><td align="right"><sub><b>WHERE I HAVE WORKED</b></sub></td><td><a href="./DOMAINS.md"><img src="https://img.shields.io/badge/◆-DOMAINS-0B1026?style=for-the-badge&labelColor=B388FF" alt="DOMAINS"/></a> <a href="./SECTORS.md"><img src="https://img.shields.io/badge/◆-SECTORS-0B1026?style=for-the-badge&labelColor=B388FF" alt="SECTORS"/></a> <a href="./INDUSTRIES.md"><img src="https://img.shields.io/badge/◆-INDUSTRIES-0B1026?style=for-the-badge&labelColor=B388FF" alt="INDUSTRIES"/></a></td></tr>
-<tr><td align="right"><sub><b>HOW I WORK</b></sub></td><td><a href="./RESPONSIBILITIES.md"><img src="https://img.shields.io/badge/◆-RESPONSIBILITIES-0B1026?style=for-the-badge&labelColor=B388FF" alt="RESPONSIBILITIES"/></a> <a href="./DUTIES.md"><img src="https://img.shields.io/badge/◆-DUTIES-0B1026?style=for-the-badge&labelColor=B388FF" alt="DUTIES"/></a> <a href="./SOFT_SKILLS.md"><img src="https://img.shields.io/badge/◆-SOFT_SKILLS-0B1026?style=for-the-badge&labelColor=B388FF" alt="SOFT_SKILLS"/></a> <a href="./LEADERSHIP.md"><img src="https://img.shields.io/badge/◆-LEADERSHIP-0B1026?style=for-the-badge&labelColor=B388FF" alt="LEADERSHIP"/></a></td></tr>
-<tr><td align="right"><sub><b>WHY HIRE ME</b></sub></td><td><a href="./ROLES.md"><img src="https://img.shields.io/badge/◆-ROLES-0B1026?style=for-the-badge&labelColor=B388FF" alt="ROLES"/></a> <a href="./EMPLOYABILITY.md"><img src="https://img.shields.io/badge/◆-EMPLOYABILITY-0B1026?style=for-the-badge&labelColor=B388FF" alt="EMPLOYABILITY"/></a> <a href="./IMPACT.md"><img src="https://img.shields.io/badge/◆-IMPACT-0B1026?style=for-the-badge&labelColor=B388FF" alt="IMPACT"/></a> <a href="./LEARNING.md"><img src="https://img.shields.io/badge/◆-LEARNING-0B1026?style=for-the-badge&labelColor=B388FF" alt="LEARNING"/></a> <a href="./MOBILITY.md"><img src="https://img.shields.io/badge/◆-MOBILITY-0B1026?style=for-the-badge&labelColor=B388FF" alt="MOBILITY"/></a> <a href="./INTEGRITY.md"><img src="https://img.shields.io/badge/◆-INTEGRITY-0B1026?style=for-the-badge&labelColor=B388FF" alt="INTEGRITY"/></a></td></tr>
-</tbody></table>
-
-<sub>🟢 <b>NOW · OCT 2026</b> — Data Scientist @ Zidio Development · Associate L1, Generative AI @ Infotact · Blue Team Operator @ GraySentinel · AI Trainer @ micro1 · 110+ projects · 13 PM cases · 1,000+ automated tests · open to Sr Manager / AVP roles</sub>
+**[Home](./README.md)** · **[Experience](./EXPERIENCE.md)** · **Projects** · **[Skills](./SKILLS.md)** · **[Education & Certifications](./CERTIFICATIONS.md)**
 
 </div>
 
+# Projects
 
-<img src="https://raw.githubusercontent.com/Eswar5313/Eswar5313/main/assets/divider.svg" width="100%" alt="" />
+<img src="brand/divider.svg" width="100%" alt="" />
+
+## 🛍️ Business
+
+| Project | What it is | Link |
+|---|---|---|
+| **M.JayaEswar Ventures** | Four Europe-facing online brands under one parent brand — Enjoyvo (flagship), Enjoyvo Boutique, Lookvio, Lovprint | [Group site](https://mjayaeswar-ventures.polsia.app) · [enjoyvo.com](https://enjoyvo.com) |
+
+<img src="brand/divider.svg" width="100%" alt="" />
+
+## 📊 Data, forecasting & supply chain
+
+| Project | Result | Link |
+|---|---|---|
+| **Project FORESIGHT** — demand forecasting & inventory risk for a D2C home & lifestyle brand | Rolling-origin backtest **WAPE 8.8 % vs 11.2 %** seasonal-naive · Dec-2025 holdout 9.3 % vs 12.4 % · 8 reorder-now / 8 markdown / 34 healthy SKUs | [Live](https://foresight-northbay.netlify.app) · [Repo](https://github.com/Eswar5313/zidio-data-science-projects) |
+| **Heavy Warehouse Intelligence** — 12-sprint warehouse & supplier analytics | 6 branches · 30 SKUs · 8 suppliers · 500 customers · 2019 – 24 data | [Repo](https://github.com/Eswar5313/Cadetx-Junior-DA) |
+| **Data analytics portfolio** — 13 projects | Flipkart CSAT 4.48 → 3.66 root cause · Dubai price driver 99 AED/sqft · fitness correlation r = −0.60 · SportRadar API → SQL → Streamlit | [Repo](https://github.com/Eswar5313/hexa-data-analytics-portfolio) |
+| **Excel analytics module** | 171,263 live formulas · 31 charts · 3 dashboards | [Master portfolio](https://eswar5313.github.io/Eswar-Master-Project-Portfolio-2026/#05-Excel-Data-Analytics-Module) |
+| **The 2,000 SKU Problem** — dark-store assortment study | ABC × XYZ inventory policy | [Master portfolio](https://eswar5313.github.io/Eswar-Master-Project-Portfolio-2026/) |
+
+<img src="brand/divider.svg" width="100%" alt="" />
+
+## 🧭 Product management — 13 case studies
+
+| Case | Core deliverable |
+|---|---|
+| **WorkRadar** — AI manager dashboard | 2-page PRD → UX → [working MVP](https://eswar5313.github.io/product-management-case-studies/13-workradar/) |
+| Zomato funnel & cohorts | 7-stage funnel 17.6 % → 26.4 % target · North Star + 13 metric ladders |
+| Airbnb India — growth loops | 6 loops · 4 MVPs · revenue model |
+| QuickBite — system design | 5k → 2M users rollout brief |
+| SkillBridge "Compass" | Learning-recommendation system design |
+| VitaFit — PRD | Engagement & retention features · core flows |
+| B2B SaaS AI customer ops | CFO ROI model 8.4× |
+| Uber · Zepto · Nykaa · Blinkit · grocery segmentation | Research, RICE and strategy cases |
+
+➡️ [All 13 cases](https://github.com/Eswar5313/product-management-case-studies) · [PM Case Notes blog](https://eswar-pm-case-notes.netlify.app)
+
+<img src="brand/divider.svg" width="100%" alt="" />
+
+## ⚙️ Engineering & security
+
+| Portfolio | Result | Link |
+|---|---|---|
+| **50 engineering projects** — EV · cyber security · VLSI · robotics | 50 reports · 595+ tests · UART 135 MHz · ALU power −63.8 % · SLAM error 0.34 m · IDS F1 0.998 | [Dashboard](https://eswar5313.github.io/Codec-Technologies-Internship-Portfolio-2026/) |
+| **Defensive security operations** | 2 certified labs · 7 SOC / intel / red-team-analysis war rooms · 11 SOC tools · 174 tests · 0 exploit code | [Repo](https://github.com/Eswar5313/GraySentinel-DSOU-45Day-2026) |
+| **18 multi-domain projects** | AI · data science · testing · C++ · energy audit · RCC · finance · HR · AWS · export finance | [Repo](https://github.com/Eswar5313/Internship-Studio-Projects-2026) |
+
+<img src="brand/divider.svg" width="100%" alt="" />
+
+## ✍️ Writing
+
+Case-study blogs and essays on product, supply chain and AI — [PM Case Notes](https://eswar-pm-case-notes.netlify.app) and more listed in the [master portfolio](https://eswar5313.github.io/Eswar-Master-Project-Portfolio-2026/).
+
+➡️ **Everything in one place:** [Master portfolio — 110+ projects](https://eswar5313.github.io/Eswar-Master-Project-Portfolio-2026/) · [Lens index](https://eswar5313.github.io/Eswar-Portfolio-Lens-Index-2026/)
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/DATA_PROJECTS-13-B388FF?style=for-the-badge&labelColor=0B1026" />
-<img src="https://img.shields.io/badge/PM_CASE_STUDIES-13-00E5FF?style=for-the-badge&labelColor=B388FF" />
-<img src="https://img.shields.io/badge/LIVE_TOOLS-3%2B-B388FF?style=for-the-badge&labelColor=0B1026" />
-<img src="https://img.shields.io/badge/ENGINEERING_PROJECTS-50-00E5FF?style=for-the-badge&labelColor=B388FF" />
-
-**Full repos:** [📈 FORESIGHT (Zidio)](https://github.com/Eswar5313/zidio-data-science-projects) · [🏗️ Heavy Warehouse Intelligence (CadetX)](https://github.com/Eswar5313/Cadetx-Junior-DA) · [📊 hexa-data-analytics-portfolio](https://github.com/Eswar5313/hexa-data-analytics-portfolio) · [🧭 product-management-case-studies](https://github.com/Eswar5313/product-management-case-studies) · [⚙️ Codec-Technologies-Internship-Portfolio-2026](https://github.com/Eswar5313/Codec-Technologies-Internship-Portfolio-2026) ([live dashboard](https://eswar5313.github.io/Codec-Technologies-Internship-Portfolio-2026/)) · [🔵 GraySentinel-DSOU-45Day-2026](https://github.com/Eswar5313/GraySentinel-DSOU-45Day-2026) · [🎓 Internship-Studio-Projects-2026](https://github.com/Eswar5313/Internship-Studio-Projects-2026)
-
-</div>
-
-## 🔥 Flagship — Applied Data Science & Supply-Chain Analytics
-
-| Project | Context | Verified result | Evidence |
-|---|---|---|---|
-| 📈 **Project FORESIGHT** — demand forecasting & inventory-risk platform for NorthBay Living (D2C home & lifestyle) | Zidio Development · Data Scientist | Rolling-origin backtest **WAPE 8.8 % (LightGBM) vs 11.2 % seasonal-naive** · Dec-2025 holdout 9.3 % vs 12.4 % · 8 reorder-now / 8 markdown / 34 healthy SKUs · live `/api/score` | [Live](https://foresight-northbay.netlify.app) · [repo](https://github.com/Eswar5313/zidio-data-science-projects) |
-| 🏗️ **Heavy Warehouse Intelligence (HWI)** — 12-sprint analytics framework, 6 branches · 30 heavy-machinery SKUs · 8 suppliers · 500 customers · 2019–2024 | CadetX Virtual Work Experience · team of 3 | Data dictionary, KPI framework, data-quality report, profiling + cleaning notebooks, `hwi` Python package, Excel control book | [repo](https://github.com/Eswar5313/Cadetx-Junior-DA) |
-| 🔵 **SOC tooling & detection labs** — Auth-Log Investigation Tool · SOC Incident Summary Generator · 7 war rooms (SOC · threat intel · red-team analysis) · Sigma / Wazuh / KQL rules | GraySentinel DSOU · Blue Team | 2 certified labs · **11 SOC tools** · **174 tests** · ATT&CK-mapped detections · 0 exploit code | [repo](https://github.com/Eswar5313/GraySentinel-DSOU-45Day-2026) · [dashboard](https://eswar5313.github.io/GraySentinel-DSOU-45Day-2026/) |
-| 🌍 **Export order payment & finance model** — 5 payment terms, PV @ 12 %, UCP 600 discrepancy check | Internship Studio · International Business | Recommend **confirmed sight LC** — PV USD 579,735, all-in 3.38 % · 249 formulas, 0 errors | [repo](https://github.com/Eswar5313/Internship-Studio-Projects-2026) |
-
-<img src="https://raw.githubusercontent.com/Eswar5313/Eswar5313/main/assets/divider.svg" width="100%" alt="" />
-
-## 🔬 View 1 — Subject-Wise
-
-<details open>
-<summary>📊 <b>Data Analytics & EDA</b> (Python · Pandas · Matplotlib)</summary>
-<br>
-
-| Project | Verified Finding |
-|---|---|
-| 📦 FedEx Logistics EDA | Shipment & delivery pattern analysis |
-| 🚕 Uber Supply-Demand Gap | Airport vs city gap diagnosis |
-| 🛒 Flipkart Customer Support CSAT | CSAT decline **4.48 → 3.66** root-cause |
-| 🎬 Amazon Prime Titles EDA | Content catalog intelligence |
-| 🎮 Video Game Sales EDA | Regional & genre sales patterns |
-| 🍽️ Zomato Restaurant Analysis | Ratings, cuisine & pricing insights |
-| 🧠 Mental Health in Tech | Workplace survey analysis |
-| ⌚ Strava × Fitbit Fitness | Cross-device correlation **r = −0.60** |
-
-</details>
-
-<details open>
-<summary>🗃️ <b>SQL & Databases</b></summary>
-<br>
-
-| Project | Stack |
-|---|---|
-| 📈 NSE Stock Market Analysis | SQL window functions · trend queries |
-| 🎾 Tennis Rankings Explorer | **SportRadar API → SQL → Streamlit** end-to-end pipeline |
-
-</details>
-
-<details open>
-<summary>🤖 <b>Machine Learning</b></summary>
-<br>
-
-| Project | Result |
-|---|---|
-| 🏙️ Dubai House Price Model | Price driver isolated: **99 AED/sqft** |
-| 🎓 Student Performance — Ridge Regression | **R² 0.8805 · MAE 4.21** |
-
-</details>
-
-<details open>
-<summary>📊 <b>BI & Dashboards</b> (Power BI · Tableau · Excel)</summary>
-<br>
-
-| Project | Tool |
-|---|---|
-| 🔌 India EV Market Dashboard | Power BI |
-| 🏠 Airbnb Listings Dashboard | Tableau |
-| 💰 Master Financial Ledger *(live tool)* | HTML/JS on Netlify — household budget system |
-
-</details>
-
-<details open>
-<summary>🧭 <b>Product Management Cases</b> (frameworks: Five Forces · JTBD · RICE · STP)</summary>
-<br>
-
-| Case | Core Deliverable |
-|---|---|
-| 🚕 Uber Pickup Coordination | 10-interview toolkit · 72-formula workbook |
-| 🤖 B2B SaaS AI Customer Ops | **8.4× CFO ROI model** · 211 formulas |
-| 💄 Nykaa UX Audit | Severity×Frequency matrix · SUS scoring |
-| 🛒 Zepto AOV Growth | JTBD + Five Whys + RICE |
-| 📦 The 2,000 SKU Problem | ABC × XYZ inventory matrix |
-| ⚡ Blinkit Strategy | 5/10-year roadmap |
-| 🛍️ Grocery Segmentation Sprint | "Schedule Selector" target segment |
-| 🏋️ VitaFit — PRD for engagement & retention | Two-feature PRD · core-flow visualisation |
-| 🍽️ Zomato — funnel, cohorts & North Star | 7-stage funnel **17.6 % → 26.4 %** target · 6 cohorts · 13 metric ladders · 163 formulas |
-| 🏡 Airbnb India — PLG loops, MVPs & revenue model | 6 enablers · 6 loops · 4 MVPs · five-layer revenue model · 177 formulas |
-| 🛵 QuickBite — national-rollout system design brief | 5k → 2M users · data model · architecture · incident drill · 280 formulas |
-| 🎓 SkillBridge "Compass" — learning recommendation system | Hybrid batch top-50 + real-time re-rank · NFRs in 7 categories · 159 formulas |
-| 📡 WorkRadar — AI-powered manager dashboard | 2-page PRD → UX → [working MVP](https://eswar5313.github.io/product-management-case-studies/13-workradar/) · transparent priority score · plain HTML/JS, no build step |
-
-*All 13 cases → [product-management-case-studies](https://github.com/Eswar5313/product-management-case-studies)*
-
-</details>
-
-<details open>
-<summary>⚙️ <b>Engineering & Security — Codec Technologies internship, 4 tracks, 50 projects</b> (every number measured by the code in the repo · 50 report PDFs · <a href="https://eswar5313.github.io/Codec-Technologies-Internship-Portfolio-2026/">live dashboard</a>)</summary>
-<br>
-
-**🔌 Digital Electronics & VLSI — 10** · Verilog/VHDL · Icarus/GHDL · Yosys + nextpnr-ice40 + icetime · [track](https://github.com/Eswar5313/Codec-Technologies-Internship-Portfolio-2026/tree/main/Digital-Electronics-VLSI)
-
-| Project | Measured result |
-|---|---|
-| FPGA Traffic Light Controller with Emergency Priority | 39/39 checks · 0 safety assertions fired · **Fmax 109.4 MHz** |
-| Low-Power 8-bit ALU (CMOS, clock gating + operand isolation) | **Power 390.8 → 141.3 µW (−63.8 %)** · area +0.2 % |
-| Smart Digital Lock (VHDL, keypad + 7-seg, 3-strike lockout) | 38/38 checks · Fmax 97.2 MHz |
-| FIR Filter for DSP — direct / transposed / pipelined-symmetric | Bit-exact ×3 · **SNR 88.9 dB** · Fmax 38.7 / 99.1 / 90.7 MHz |
-| UART TX/RX (VHDL, parity + framing + FIFO) | 68 checks at 9600 / 115200 / 921600 baud · **Fmax 135 MHz** |
-| Smart Energy Meter with GSM (Verilog DSP + C firmware + billing) | 37/37 registers bit-exact · firmware 20/20 |
-| 4-bit Processor (custom ISA, assembler, golden model) | 3/3 programs match golden model · Fmax 115.9 MHz |
-| ASIC Flow RTL → GDSII (own placement/routing/GDSII writer) | **HPWL −47 %** · 122/122 nets routed · 0 DRC-lite violations |
-| IoT Home Automation (UART register map, clock-gated sleep) | 40/40 checks · dynamic power −23.6 % |
-| Digital Voting Machine (I²C EEPROM, CRC-8, tamper seal) | 32/32 checks · Fmax 88.3 MHz |
-
-**🤖 Robotics & Automation — 10** · pure-Python simulators + ROS 2 package skeletons · 143 tests · [track](https://github.com/Eswar5313/Codec-Technologies-Internship-Portfolio-2026/tree/main/Robotics-Automation)
-
-| Project | Measured result |
-|---|---|
-| Autonomous Warehouse Robot (A*/Dijkstra, LiDAR, OpenCV picking) | 6/6 picks · **0 collisions** · recogniser 98 % |
-| Robotic Arm Quality Inspection (OpenCV + SVM/RF, DH + IK) | Classical 96.0 % · SVM 97.3 % · 0 false alarms |
-| Voice-Controlled Home Bot (MFCC + DTW recogniser, intent parser) | 98.3 % words @ 20 dB · 6/6 commands executed |
-| Self-Balancing Two-Wheel Robot (cascaded PID, Kalman) | Recovers 10° in 0.65 s · tilt RMSE **0.33°** |
-| Autonomous Surveillance Drone (GPS waypoints, MOG2 + HOG) | 12/12 waypoints · 7/7 intruders · 0 false alerts |
-| Smart Farming Robot (vegetation indices, irrigation control) | **Water −77 %** vs timer · health classifier 96 % |
-| Gesture-Controlled Arm (skin segmentation, LM inverse kinematics) | Recogniser 95.6 % · IK 200/200 · jerk −97 % |
-| Search & Rescue Robot (log-odds SLAM + scan matching, TDOA) | 4/4 victims · **pose RMSE 0.34 m vs 1.41 m odometry** |
-| Automated Multi-Level Parking (DES, slot allocation, manoeuvres) | 0 collisions over 16 runs · 53 s avg wait |
-| Industrial Conveyor Sorting (colour/shape vision, 2 SCARA arms) | **Vision 99.7 %** on 600 items · OEE 0.993 |
-
-**⚡ Electric Vehicle — 10** · 226 tests · [track](https://github.com/Eswar5313/Codec-Technologies-Internship-Portfolio-2026/tree/main/Electric-Vehicle) — BMS **EKF SOC RMSE 0.63 %** · solar station LCOE ₹12.24/kWh on real NASA POWER data · drivetrain 253 km WLTP-like range · wireless charging η 95.8–96.9 % · IEA-data market forecast to 2035 · EV-priority traffic light (EV delay −52 %) · driving-efficiency GBM R² 0.975
-
-**🛡️ Cyber Security — 20 (defensive only)** · 226 tests · [track](https://github.com/Eswar5313/Codec-Technologies-Internship-Portfolio-2026/tree/main/Cyber-Security) — IDS on real NSL-KDD (RF **F1 0.998** held-out) · phishing URL detector F1 0.9997 on URLhaus/Umbrella · email gateway on UCI SMS (F1 0.939) · ransomware-behaviour detector · k-anonymity credential-leak monitor · forensics toolkit · honeypot · insider-threat detection (ROC-AUC 1.000) · CTF platform
-
-</details>
-
-<details open>
-<summary>🔵 <b>Defensive Security Operations — GraySentinel DSOU, 15 deliverables</b> (174 tests · 11 SOC tools · Sigma / Wazuh / KQL · 0 exploit code · <a href="https://eswar5313.github.io/GraySentinel-DSOU-45Day-2026/">live dashboard</a>)</summary>
-<br>
-
-| # | War room / build | Unit · date | Result |
-|---|---|---|---|
-| 09 | [The Silent RDP Login](https://github.com/Eswar5313/GraySentinel-DSOU-45Day-2026/tree/main/rdp-silent-login) — RDP spray → valid-account logon → hidden PowerShell → AD discovery | SOC · 5 Oct 2026 | 18/18 tests · Sigma + Wazuh |
-| 10 | [Ghost Admin](https://github.com/Eswar5313/GraySentinel-DSOU-45Day-2026/tree/main/ghost-admin) — privileged-identity compromise on a domain controller, DCSync, lateral movement | SOC · 6 Oct 2026 | 18/18 tests · Sigma + Wazuh |
-| 11 | [Cloud Token Blackout](https://github.com/Eswar5313/GraySentinel-DSOU-45Day-2026/tree/main/cloud-token-blackout) — CI/CD cloud-credential abuse intel brief | Intel · 6 Oct 2026 | 16/16 tests · Sigma |
-| 12 | [Broken Pipeline](https://github.com/Eswar5313/GraySentinel-DSOU-45Day-2026/tree/main/broken-pipeline) — CI/CD → registry → Kubernetes supply-chain analysis (lab only) | Red-team analysis · 6 Oct 2026 | 16/16 tests · detections |
-| 13 | [Silent Credential Theft](https://github.com/Eswar5313/GraySentinel-DSOU-45Day-2026/tree/main/silent-credential-theft) — LSASS access → explicit credentials → payroll share | SOC · 8 Oct 2026 | 20/20 tests · Sigma + Wazuh |
-| 14 | [Consent Trap](https://github.com/Eswar5313/GraySentinel-DSOU-45Day-2026/tree/main/consent-trap) — OAuth consent abuse → mailbox + treasury files | Intel · 8 Oct 2026 | 20/20 tests · Sigma + KQL |
-| 15 | [Ghost Session](https://github.com/Eswar5313/GraySentinel-DSOU-45Day-2026/tree/main/ghost-session) — valid-session abuse across cloud + internal (lab only) | Red-team analysis · 8 Oct 2026 | 20/20 tests · detections |
-
-*Plus 2 certified guided labs (Zero-Day Discovery, macOS miner chain) and the Auth-Log Investigation Tool + SOC Incident Summary Generator → [full repo](https://github.com/Eswar5313/GraySentinel-DSOU-45Day-2026)*
-
-</details>
-
-<details open>
-<summary>☁️ <b>Cloud & Deployment</b></summary>
-<br>
-
-| Project | Stack |
-|---|---|
-| ☁️ AWS Deployment Exercise | EC2 + S3 hosting |
-| 🎛️ Career Control Tower | Portfolio site on Netlify |
-| 🌐 Publication Sites | Multi-page essay sites on Netlify — see [Publications](./PUBLICATIONS.md) |
-
-</details>
-
-<img src="https://raw.githubusercontent.com/Eswar5313/Eswar5313/main/assets/divider.svg" width="100%" alt="" />
-
-## 🏭 View 2 — Sector-Wise
-
-| Sector | Projects That Speak Its Language |
-|---|---|
-| 🚚 **Logistics & Mobility** | FedEx EDA · Uber gap analysis · India EV dashboard |
-| 🛒 **E-commerce & Retail** | FORESIGHT (D2C home) · Flipkart CSAT · Zepto AOV · Blinkit strategy · 2,000 SKU · grocery segmentation |
-| 🏦 **Finance & Real Estate** | NSE SQL · Dubai price model · Financial Ledger |
-| 🍽️ **Food & Travel** | Zomato EDA + funnel case · Airbnb dashboard + PLG case · QuickBite system design |
-| 💻 **SaaS & AI** | WorkRadar AI manager-dashboard MVP · B2B SaaS ROI case · Tennis API app · AI publications |
-| ⚙️ **Engineering — Semiconductors, Robotics, EV, Security** | 10 VLSI/FPGA designs · 10 robotics simulations · 10 EV systems · 20 defensive security tools · 7 GraySentinel war rooms |
-| 🏥 **Health & People** | Mental Health in Tech · Strava-Fitbit |
-
-<img src="https://raw.githubusercontent.com/Eswar5313/Eswar5313/main/assets/divider.svg" width="100%" alt="" />
-
-## 🎯 View 3 — Role Fitment
-
-| Target Role | Proof From Projects |
-|---|---|
-| 📊 **Data Scientist / Analytics Manager** | FORESIGHT live forecast (WAPE 8.8 %) · 13 end-to-end HEXA projects · CRISP-DM discipline · verified-figures standard |
-| 🚚 **Supply Chain Manager** | FORESIGHT reorder / markdown engine · CadetX warehouse intelligence · 2,000 SKU ABC×XYZ · FedEx EDA |
-| 🧭 **Product Manager** | 13 framework-driven cases with workbooks, decks and PRD / system-design briefs · [WorkRadar working MVP](https://eswar5313.github.io/product-management-case-studies/13-workradar/) |
-| 💼 **Business Analyst** | Flipkart root-cause · Zepto growth math · ROI workbooks |
-| ⚙️ **Ops Manager** | Uber ops diagnosis · CSAT recovery plans · process metrics · warehouse AMR, parking and conveyor-line simulations with throughput/OEE metrics |
-| 🔌 **Technical / Engineering Analyst** | 50 Codec projects with measured timing, power, accuracy and test evidence; declared substitutions instead of unverifiable claims |
-| 🔵 **SOC / Security Analyst** | 7 GraySentinel war rooms (SOC · intel · red-team analysis) · 11 SOC tools · 174 tests · 20 Codec defensive projects · Sigma / Wazuh / KQL detections |
-
-<img src="https://raw.githubusercontent.com/Eswar5313/Eswar5313/main/assets/divider.svg" width="100%" alt="" />
-
-<div align="center">
-
-**Eswar Mahalingam** · MBA · CSCMP SCPro · Six Sigma Black Belt · Ghaziabad NCR, India · Open to India · EU (Blue Card) · Gulf · Immediate joiner
-
-[![LinkedIn](https://img.shields.io/badge/✦-LINKEDIN-0B1026?style=for-the-badge&labelColor=B388FF)](https://linkedin.com/in/eswar-mahalingam)
-[![Email](https://img.shields.io/badge/✦-EMAIL-0B1026?style=for-the-badge&labelColor=00E5FF)](mailto:eswarmba05313@gmail.com)
-[![Phone](https://img.shields.io/badge/✦-+91_9360548243-0B1026?style=for-the-badge&labelColor=B388FF)](tel:+919360548243)
-[![Portfolio](https://img.shields.io/badge/✦-PORTFOLIO_SITE-0B1026?style=for-the-badge&labelColor=00E5FF)](https://eswar-3d-portfolio.netlify.app)
-[![Top](https://img.shields.io/badge/⬆-CAREER_CONTROL_TOWER-0B1026?style=for-the-badge&labelColor=00E5FF)](./README.md)
-
-<img src="https://raw.githubusercontent.com/Eswar5313/Eswar5313/main/assets/kailash-footer.svg" width="100%" alt="" />
+[⬆ Back to home](./README.md)
 
 </div>
