@@ -14,6 +14,8 @@
 <tr><td align="right"><sub><b>WHY HIRE ME</b></sub></td><td><a href="./ROLES.md"><img src="https://img.shields.io/badge/◆-ROLES-0B1026?style=for-the-badge&labelColor=B388FF" alt="ROLES"/></a> <a href="./EMPLOYABILITY.md"><img src="https://img.shields.io/badge/◆-EMPLOYABILITY-0B1026?style=for-the-badge&labelColor=B388FF" alt="EMPLOYABILITY"/></a> <a href="./IMPACT.md"><img src="https://img.shields.io/badge/◆-IMPACT-0B1026?style=for-the-badge&labelColor=B388FF" alt="IMPACT"/></a> <a href="./LEARNING.md"><img src="https://img.shields.io/badge/◆-LEARNING-0B1026?style=for-the-badge&labelColor=B388FF" alt="LEARNING"/></a> <a href="./MOBILITY.md"><img src="https://img.shields.io/badge/◆-MOBILITY-0B1026?style=for-the-badge&labelColor=B388FF" alt="MOBILITY"/></a> <a href="./INTEGRITY.md"><img src="https://img.shields.io/badge/◆-INTEGRITY-0B1026?style=for-the-badge&labelColor=B388FF" alt="INTEGRITY"/></a></td></tr>
 </tbody></table>
 
+<sub>🟢 <b>NOW · OCT 2026</b> — Data Scientist @ Zidio Development · Associate L1, Generative AI @ Infotact · Blue Team Operator @ GraySentinel · AI Trainer @ micro1 · 110+ projects · 13 PM cases · 1,000+ automated tests · open to Sr Manager / AVP roles</sub>
+
 </div>
 
 
@@ -98,7 +100,7 @@
 | 🛡️ **Cyber Security — internship track** | Codec Technologies India | Aug 2026 · [20 defensive projects, 226 tests, 20 reports](https://github.com/Eswar5313/Codec-Technologies-Internship-Portfolio-2026/tree/main/Cyber-Security) |
 | 🔲 **Digital Electronics & VLSI — internship track** | Codec Technologies India | Sep 2026 · [10 projects — Verilog/VHDL, 12 iCE40 P&R runs, RTL-to-GDSII](https://github.com/Eswar5313/Codec-Technologies-Internship-Portfolio-2026/tree/main/Digital-Electronics-VLSI) |
 | 🤖 **Robotics & Automation — internship track** | Codec Technologies India | Sep 2026 · [10 simulation projects, 143 unit tests](https://github.com/Eswar5313/Codec-Technologies-Internship-Portfolio-2026/tree/main/Robotics-Automation) |
-| 🔵 **Blue Team / SOC training** | GraySentinel Cyber Defence Lab | Jul 2026 – · defensive operations |
+| 🔵 **Blue Team / SOC training** | GraySentinel Cyber Defence Lab | Jul 2026 – Present · Day 1 Zero-Day lab certificate · [2 certified labs · 7 war rooms · 11 SOC tools · 174 tests](https://github.com/Eswar5313/GraySentinel-DSOU-45Day-2026) |
 
 > Submission evidence for all four tracks: [Codec-Technologies-Internship-Portfolio-2026](https://github.com/Eswar5313/Codec-Technologies-Internship-Portfolio-2026) — 50 report PDFs, every project with `run_all.sh` PASS.
 
@@ -114,7 +116,7 @@
 | 🍫 **FMCG** | PepsiCo (Sales + SC) · CSCMP · Six Sigma |
 | 🚚 **Logistics / 3PL** | PGDLSCM · CSCMP · IIM-A Digitization · SAP MM |
 | 🏭 **Manufacturing** | Six Sigma Black Belt · SAP MM · Google PM |
-| 💻 **Tech / SaaS / AI** | 4× Anthropic · Airtribe PM · Outskill · Google BI |
+| 💻 **Tech / SaaS / AI** | 4× Anthropic · Airtribe PM · Outskill · Google BI · Infotact GenAI (on the job) |
 | 🏦 **BFSI** | Salesforce · Google DA · Paisabazaar experience |
 | 🔲 **Semiconductors / Electronics** | Codec VLSI track · Six Sigma BB · Google PM |
 | 🤖 **Robotics / Industrial Automation** | Codec Robotics track · Codec EV track · SAP MM |
@@ -129,8 +131,8 @@
 | 📊 **Sr Manager — Data Analytics** | Google DA + BI · Entri PG · Anthropic AI Fluency · 13-project proof |
 | 🚚 **Sr Manager — Supply Chain** | IIM-A · CSCMP SCPro · PGDLSCM · SAP MM · Six Sigma BB |
 | ⚙️ **AVP — Operations** | Six Sigma BB · Google PM · CSCMP · ops track record |
-| 🧭 **Product Manager (AI)** | Airtribe AI-First PM · Anthropic ×4 · 8 PM case studies · technical fluency from 50 engineering builds |
-| 🛡️ **Security Analyst (Blue Team)** | Codec Cyber track (20 projects) · GraySentinel SOC training |
+| 🧭 **Product Manager (AI)** | Airtribe AI-First PM · Anthropic ×4 · 13 PM case studies incl. the WorkRadar MVP · technical fluency from 50 engineering builds |
+| 🛡️ **Security Analyst (Blue Team)** | Codec Cyber track (20 projects) · GraySentinel Blue Team — 7 war rooms, Sigma / Wazuh / KQL detections |
 | 🔲 **Digital Design / Robotics Engineer (entry)** | Codec VLSI + Robotics tracks · 20 tested, reported projects |
 | 💼 **Business / Sales Analytics Lead** | Salesforce Admin · Google BI · ₹13.5Cr+ sales history |
 

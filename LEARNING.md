@@ -14,6 +14,8 @@
 <tr><td align="right"><sub><b>WHY HIRE ME</b></sub></td><td><a href="./ROLES.md"><img src="https://img.shields.io/badge/◆-ROLES-0B1026?style=for-the-badge&labelColor=B388FF" alt="ROLES"/></a> <a href="./EMPLOYABILITY.md"><img src="https://img.shields.io/badge/◆-EMPLOYABILITY-0B1026?style=for-the-badge&labelColor=B388FF" alt="EMPLOYABILITY"/></a> <a href="./IMPACT.md"><img src="https://img.shields.io/badge/◆-IMPACT-0B1026?style=for-the-badge&labelColor=B388FF" alt="IMPACT"/></a> <img src="https://img.shields.io/badge/◆-LEARNING-00E5FF?style=for-the-badge&labelColor=0B1026" alt="LEARNING (this page)"/> <a href="./MOBILITY.md"><img src="https://img.shields.io/badge/◆-MOBILITY-0B1026?style=for-the-badge&labelColor=B388FF" alt="MOBILITY"/></a> <a href="./INTEGRITY.md"><img src="https://img.shields.io/badge/◆-INTEGRITY-0B1026?style=for-the-badge&labelColor=B388FF" alt="INTEGRITY"/></a></td></tr>
 </tbody></table>
 
+<sub>🟢 <b>NOW · OCT 2026</b> — Data Scientist @ Zidio Development · Associate L1, Generative AI @ Infotact · Blue Team Operator @ GraySentinel · AI Trainer @ micro1 · 110+ projects · 13 PM cases · 1,000+ automated tests · open to Sr Manager / AVP roles</sub>
+
 </div>
 
 
@@ -23,13 +25,14 @@
 
 | Programme | Provider | Window | Adds |
 |---|---|---|---|
-| AI-First Product Management | Airtribe | Jun 2026 – Jan 2027 | PM craft with AI; 8 case studies delivered so far |
+| AI-First Product Management | Airtribe | Jun 2026 – Jan 2027 | PM craft with AI; [13 case studies](https://github.com/Eswar5313/product-management-case-studies) delivered so far — now in the *AI in Product Management* module (latest: [WorkRadar MVP](https://eswar5313.github.io/product-management-case-studies/13-workradar/)) |
 | PG in Data Analytics | Entri Elevate | Aug 2026 – Feb 2027 | Power BI/DAX depth, SQL, Python |
 | SAP MM — Logistics / SCM | Entri Elevate | Jul 2026 – | ERP procurement & inventory |
 | AI Generalist | Outskill | Jun 2026 – Feb 2027 | LLMs, prompt engineering, RAG, agents |
+| Generative AI — on the job | Infotact Solutions (Associate L1) | Sep – Dec 2026 | LLM apps, prompt engineering, embeddings & RAG, model evaluation |
 | Gen AI Academy APAC | Google Cloud × Hack2Skill | Aug 2026 | ADK + RAG agent on Cloud Run, Gemini + BigQuery MCP |
-| Blue Team / SOC training | GraySentinel Cyber Defence Lab | Jul 2026 – | Defensive security operations |
-| Internship tracks: Electric Vehicle · Cyber Security · Digital Electronics & VLSI · Robotics & Automation | Codec Technologies India | Aug 2026 – | [50 published projects, 50 reports](https://github.com/Eswar5313/Codec-Technologies-Internship-Portfolio-2026) — Verilog/VHDL & FPGA flow, robotics algorithms, EV systems, defensive security |
+| Blue Team / SOC training | GraySentinel Cyber Defence Lab | Jul 2026 – Present | Defensive security operations — [7 war rooms across SOC, threat intel and red-team analysis](https://github.com/Eswar5313/GraySentinel-DSOU-45Day-2026) |
+| Internship tracks: Electric Vehicle · Cyber Security · Digital Electronics & VLSI · Robotics & Automation | Codec Technologies India | Aug – Sep 2026 (completed) | [50 published projects, 50 reports](https://github.com/Eswar5313/Codec-Technologies-Internship-Portfolio-2026) — Verilog/VHDL & FPGA flow, robotics algorithms, EV systems, defensive security |
 | German A1 | Self-study | 2026 – | EU Blue Card readiness |
 
 ## 🏅 Credentials kept on the profile (curated 16 of 333)
@@ -43,7 +46,7 @@ Learn → build a project → document the method → publish. Every programme a
 | What the best roles ask for | What I bring | Proof |
 |---|---|---|
 | Keeps skills current | Seven concurrent programmes across data, product, AI, ERP and language | This page |
-| Learning converts to output | Cohort assignments became 8 PM cases; Gen AI tracks became agent builds; Codec briefs became 50 tested, reported projects | [Projects](./PROJECTS.md) |
+| Learning converts to output | Cohort assignments became 13 PM cases (incl. a working MVP); Gen AI tracks became agent builds; Codec briefs became 50 tested, reported projects | [Projects](./PROJECTS.md) |
 
 <img src="https://raw.githubusercontent.com/Eswar5313/Eswar5313/main/assets/divider.svg" width="100%" alt="" />
 

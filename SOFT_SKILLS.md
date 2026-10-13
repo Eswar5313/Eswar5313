@@ -14,6 +14,8 @@
 <tr><td align="right"><sub><b>WHY HIRE ME</b></sub></td><td><a href="./ROLES.md"><img src="https://img.shields.io/badge/◆-ROLES-0B1026?style=for-the-badge&labelColor=B388FF" alt="ROLES"/></a> <a href="./EMPLOYABILITY.md"><img src="https://img.shields.io/badge/◆-EMPLOYABILITY-0B1026?style=for-the-badge&labelColor=B388FF" alt="EMPLOYABILITY"/></a> <a href="./IMPACT.md"><img src="https://img.shields.io/badge/◆-IMPACT-0B1026?style=for-the-badge&labelColor=B388FF" alt="IMPACT"/></a> <a href="./LEARNING.md"><img src="https://img.shields.io/badge/◆-LEARNING-0B1026?style=for-the-badge&labelColor=B388FF" alt="LEARNING"/></a> <a href="./MOBILITY.md"><img src="https://img.shields.io/badge/◆-MOBILITY-0B1026?style=for-the-badge&labelColor=B388FF" alt="MOBILITY"/></a> <a href="./INTEGRITY.md"><img src="https://img.shields.io/badge/◆-INTEGRITY-0B1026?style=for-the-badge&labelColor=B388FF" alt="INTEGRITY"/></a></td></tr>
 </tbody></table>
 
+<sub>🟢 <b>NOW · OCT 2026</b> — Data Scientist @ Zidio Development · Associate L1, Generative AI @ Infotact · Blue Team Operator @ GraySentinel · AI Trainer @ micro1 · 110+ projects · 13 PM cases · 1,000+ automated tests · open to Sr Manager / AVP roles</sub>
+
 </div>
 
 
@@ -27,7 +29,7 @@
 | **Multicultural client management** | 100+ HNI investors, 15+ nationalities | Retained 90 %+ of a Dubai portfolio during a 3-month engagement | Square Yards |
 | **Negotiation** | Buyers, sellers, finance partners | 250+ used-car closures; cut closure time 14 % while raising CSAT to 4.8/5 | Spinny |
 | **Coaching & escalation** | Service advisors, angry customers | Led a service desk to 87 % first-contact resolution | OLX Autos |
-| **Working under deadline stacks** | 12 Internship Studio domains + 4 Codec tracks + cohort + HEXA in parallel | Delivered 110+ documented projects in 2026 with dated submissions; 50 Codec projects closed in one sprint | [Codec portfolio](https://github.com/Eswar5313/Codec-Technologies-Internship-Portfolio-2026) |
+| **Working under deadline stacks** | Internship Studio (18 packs) + 4 Codec tracks + PM cohort + HEXA, now Zidio + Infotact + daily GraySentinel war rooms in parallel | Delivered 110+ documented projects in 2026 with dated submissions; 50 Codec projects closed in one sprint | [Codec portfolio](https://github.com/Eswar5313/Codec-Technologies-Internship-Portfolio-2026) |
 | **Honesty under pressure** | Cohort mentors, assignment rules | Left interview templates blank rather than fabricate; declared synthetic data on cover pages | [Integrity](./INTEGRITY.md) |
 | **Written clarity** | Recruiters, hiring panels | 250-word first-person interview answers; formula registers a junior can follow | HEXA interview books |
 | **Learning agility** | Self | German A1, SAP MM, PG Data Analytics, AI-First PM — all running in 2026 | [Learning](./LEARNING.md) |

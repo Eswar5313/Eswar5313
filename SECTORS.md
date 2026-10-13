@@ -14,6 +14,8 @@
 <tr><td align="right"><sub><b>WHY HIRE ME</b></sub></td><td><a href="./ROLES.md"><img src="https://img.shields.io/badge/◆-ROLES-0B1026?style=for-the-badge&labelColor=B388FF" alt="ROLES"/></a> <a href="./EMPLOYABILITY.md"><img src="https://img.shields.io/badge/◆-EMPLOYABILITY-0B1026?style=for-the-badge&labelColor=B388FF" alt="EMPLOYABILITY"/></a> <a href="./IMPACT.md"><img src="https://img.shields.io/badge/◆-IMPACT-0B1026?style=for-the-badge&labelColor=B388FF" alt="IMPACT"/></a> <a href="./LEARNING.md"><img src="https://img.shields.io/badge/◆-LEARNING-0B1026?style=for-the-badge&labelColor=B388FF" alt="LEARNING"/></a> <a href="./MOBILITY.md"><img src="https://img.shields.io/badge/◆-MOBILITY-0B1026?style=for-the-badge&labelColor=B388FF" alt="MOBILITY"/></a> <a href="./INTEGRITY.md"><img src="https://img.shields.io/badge/◆-INTEGRITY-0B1026?style=for-the-badge&labelColor=B388FF" alt="INTEGRITY"/></a></td></tr>
 </tbody></table>
 
+<sub>🟢 <b>NOW · OCT 2026</b> — Data Scientist @ Zidio Development · Associate L1, Generative AI @ Infotact · Blue Team Operator @ GraySentinel · AI Trainer @ micro1 · 110+ projects · 13 PM cases · 1,000+ automated tests · open to Sr Manager / AVP roles</sub>
+
 </div>
 
 
@@ -30,8 +32,8 @@
 | **Fintech & Financial Services** | Paisabazaar · InvestMyFunds assignment | NSE SQL · Aurora Foods ratios · financial ledger | 28 % conversion · ₹1.5 Cr+/month |
 | **Real Estate (India & Dubai)** | Square Yards Dubai | Dubai house-price model · Airbnb dashboard | 99 AED/sqft · 90 %+ retention |
 | **Mobility & Ride-hailing** | — | Uber supply–demand gap · Uber pickup coordination · Pickup Notebook blog | 14-page master + 11-slide deck |
-| **IT, SaaS & AI products** | micro1 · CadetX · Outskill | AI Customer Operations Platform · Panopticon · application engine | ROI 8.4× model |
-| **Cyber Security** | GraySentinel · Codec | 20 defensive projects | 226 tests |
+| **IT, SaaS & AI products** | Infotact · micro1 · CadetX · Outskill | WorkRadar MVP · AI Customer Operations Platform · Panopticon · application engine | ROI 8.4× model |
+| **Cyber Security** | GraySentinel · Codec | 20 defensive Codec projects · 7 GraySentinel war rooms | 226 + 174 tests |
 | **Semiconductors & Embedded (VLSI / FPGA)** | Codec | Traffic-light priority controller · low-power CMOS ALU · VHDL digital lock · FIR filter · UART · GSM energy meter · 4-bit CPU · RTL-to-GDSII · IoT home logic · voting machine | UART Fmax 135 MHz · ALU power −63.8 % |
 | **Robotics & Industrial Automation** | Codec | Warehouse AMR · inspection arm · voice home bot · self-balancing robot · surveillance drone · farming robot · gesture arm · SLAM search & rescue · automated parking · conveyor sorting | 0 collisions · vision 99.7 % |
 | **Health, Fitness & Wellbeing** | — | Strava/Fitbit · VitaFit PRD · Mental Health in Tech · TechX Thrive | r −0.60 · 1,503-formula workbook |
@@ -41,7 +43,7 @@
 | **Construction & Infrastructure** | — | RCC IS 456 · AutoCAD civil · EV-priority traffic signal | 1,230-entity DXF |
 | **Education & EdTech** | — | Student performance ML · exam proctoring · library system | R² 0.8805 |
 | **HR & Corporate Services** | — | HR policy manual · TechX wellbeing | ₹5,714/employee engagement budget |
-| **Retail & Consumer Brands** | — | Multi-Region Sales Dashboard · EcoStyle campaign | ₹14.26 Cr modelled · ROAS 4.53× |
+| **Retail & Consumer Brands** | Zidio (FORESIGHT, D2C home & lifestyle) | Project FORESIGHT · Multi-Region Sales Dashboard · EcoStyle campaign | WAPE 8.8 % · ₹14.26 Cr modelled · ROAS 4.53× |
 | **Digital Marketing** | Tidalwave / Digiperform · Imagine.bo | EcoStyle · LinkedIn playbook | — |
 | **Travel** | Fora Travel · Dreamport (advisor, 2026) | Earning-potential analysis | — |
 

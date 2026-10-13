@@ -14,6 +14,8 @@
 <tr><td align="right"><sub><b>WHY HIRE ME</b></sub></td><td><img src="https://img.shields.io/badge/◆-ROLES-00E5FF?style=for-the-badge&labelColor=0B1026" alt="ROLES (this page)"/> <a href="./EMPLOYABILITY.md"><img src="https://img.shields.io/badge/◆-EMPLOYABILITY-0B1026?style=for-the-badge&labelColor=B388FF" alt="EMPLOYABILITY"/></a> <a href="./IMPACT.md"><img src="https://img.shields.io/badge/◆-IMPACT-0B1026?style=for-the-badge&labelColor=B388FF" alt="IMPACT"/></a> <a href="./LEARNING.md"><img src="https://img.shields.io/badge/◆-LEARNING-0B1026?style=for-the-badge&labelColor=B388FF" alt="LEARNING"/></a> <a href="./MOBILITY.md"><img src="https://img.shields.io/badge/◆-MOBILITY-0B1026?style=for-the-badge&labelColor=B388FF" alt="MOBILITY"/></a> <a href="./INTEGRITY.md"><img src="https://img.shields.io/badge/◆-INTEGRITY-0B1026?style=for-the-badge&labelColor=B388FF" alt="INTEGRITY"/></a></td></tr>
 </tbody></table>
 
+<sub>🟢 <b>NOW · OCT 2026</b> — Data Scientist @ Zidio Development · Associate L1, Generative AI @ Infotact · Blue Team Operator @ GraySentinel · AI Trainer @ micro1 · 110+ projects · 13 PM cases · 1,000+ automated tests · open to Sr Manager / AVP roles</sub>
+
 </div>
 
 
@@ -28,22 +30,25 @@ Fit is scored against typical JD requirements for each role (0–5 per requireme
 | **Data Analyst / Senior Data Analyst** | Senior / Lead | ★★★★★ | 13 HEXA projects · Excel Module (5,149 formulas) · verified figures 99 AED/sqft, CSAT 4.48→3.66, r −0.60 | Power BI DAX depth (Entri PG Data Analytics, in progress) |
 | **Business Analyst / Analytics Manager** | Manager / Sr Manager | ★★★★★ | 8+ yrs operations + sales context · stakeholder decks · All-in-One Project Register (47) → 110+ project Master Portfolio | — |
 | **Supply Chain / Operations Manager** | Sr Manager / AVP | ★★★★★ | Globus 30 % stockout ↓, 22 % cycle-delay ↓ · CSCMP SCPro · Six Sigma BB · IIM-A SC Digitization · 2,000-SKU dark-store study | SAP MM (Entri Elevate, in progress) |
-| **Product Manager / APM (AI-first)** | APM / PM | ★★★★☆ | 8 PM case studies with PRD, research, RICE, workbooks · Airtribe AI-First PM cohort | Shipping record in a product org |
+| **Product Manager / APM (AI-first)** | APM / PM | ★★★★☆ | 13 PM case studies with PRD, research, RICE, workbooks · [WorkRadar working MVP](https://eswar5313.github.io/product-management-case-studies/13-workradar/) · Airtribe AI-First PM cohort | Shipping record in a product org |
 | **Customer Success / Key Account Manager** | Manager | ★★★★★ | Square Yards 100+ HNI, 90 %+ retention · OLX 87 % FCR · Spinny 4.8/5 CSAT | — |
 | **Sales Manager / Territory Manager** | Manager | ★★★★★ | Paisabazaar 28 % conversion, ₹1.5 Cr+/month · Spinny 250+ deals, Top Closure Consultant Q2 · ₹13.5 Cr+ facilitated | — |
 | **FP&A / Financial Analyst** | Analyst / Sr Analyst | ★★★★☆ | Ratio analysis, 3-yr revenue models, sensitivity grids, ROI 8.4× workbook | CFA-type credential |
-| **Security Analyst (SOC / Blue Team)** | Analyst L1–L2 | ★★★☆☆ | [20 defensive Codec projects](https://github.com/Eswar5313/Codec-Technologies-Internship-Portfolio-2026/tree/main/Cyber-Security) — IDS F1 0.998, 226 tests, 20 report PDFs · GraySentinel Blue Team training | Hands-on SIEM shifts |
+| **Security Analyst (SOC / Blue Team)** | Analyst L1–L2 | ★★★☆☆ | [20 defensive Codec projects](https://github.com/Eswar5313/Codec-Technologies-Internship-Portfolio-2026/tree/main/Cyber-Security) — IDS F1 0.998, 226 tests, 20 report PDFs · [GraySentinel](https://github.com/Eswar5313/GraySentinel-DSOU-45Day-2026) — 7 war rooms, 11 SOC tools, 174 tests, Sigma / Wazuh / KQL | Hands-on SIEM shifts |
 | **Digital Design / FPGA Engineer (RTL)** | Junior / Associate | ★★★☆☆ | [10 VLSI projects](https://github.com/Eswar5313/Codec-Technologies-Internship-Portfolio-2026/tree/main/Digital-Electronics-VLSI) — Verilog + VHDL-2008, 12 iCE40 place-and-route runs, UART Fmax 135 MHz, ALU power −63.8 %, own RTL-to-GDSII flow | Foundry PDK tape-out experience |
 | **Robotics / Automation Engineer (simulation)** | Junior / Associate | ★★★☆☆ | [10 robotics projects](https://github.com/Eswar5313/Codec-Technologies-Internship-Portfolio-2026/tree/main/Robotics-Automation) — A*/Dijkstra AMR, SLAM RMSE 0.34 m, PID + Kalman balancing, OpenCV inspection 99.7 %, 143 unit tests, 0 collisions | Hardware bring-up on a physical robot |
 | **EV Systems / Energy Analyst** | Associate | ★★★★☆ | [10 EV projects](https://github.com/Eswar5313/Codec-Technologies-Internship-Portfolio-2026/tree/main/Electric-Vehicle) — EKF SOC RMSE 0.63 %, drivetrain model, IEA GEO 2026 market forecast, 226 tests | OEM domain tenure |
-| **Data Scientist (applied)** | Associate | ★★★★☆ | Data Scientist @ Zidio Development (current) · Ridge R² 0.88, RF early-warning, GBM R² 0.975, EKF, IDS F1 0.998 | Deep-learning projects |
+| **Data Scientist (applied)** | Associate | ★★★★☆ | Data Scientist @ Zidio Development (current) — FORESIGHT WAPE 8.8 % vs 11.2 % naive · Ridge R² 0.88, RF early-warning, GBM R² 0.975, EKF, IDS F1 0.998 | Deep-learning projects |
+| **Generative AI / LLM Applications** | Associate | ★★★☆☆ | Associate L1 — Generative AI @ Infotact (LLM apps, RAG, evaluation) · micro1 AI Trainer · Gen AI Academy APAC agent tracks · Anthropic ×4 | Production RAG at scale |
 | **Technical / Growth Project Manager** | Manager | ★★★★☆ | Google PM certification · 47-project register · multi-team internship coordination | PMP |
 
 ## 🧭 Role → responsibilities I have already carried
 
 | Role held | Employer | Period | Core responsibilities |
 |---|---|---|---|
-| Data Scientist (Data Science & Analytics track, remote) | Zidio Development | Jul 2026 – Present | Forecasting capstone, analytics deliverables, documented notebooks |
+| Data Scientist (Data Science & Analytics track, remote) | Zidio Development | Jul 2026 – Present | Project FORESIGHT — demand forecast + inventory-risk scoring, live dashboard and scoring API |
+| Associate L1 — Generative AI (remote) | Infotact Solutions | Sep 2026 – Present | LLM applications, prompt engineering, RAG, model evaluation |
+| Blue Team Operator & Trainee | GraySentinel Cyber Defence Lab | Jul 2026 – Present | SOC war rooms, detections, intel briefs — [174 tests](https://github.com/Eswar5313/GraySentinel-DSOU-45Day-2026) |
 | Data Analyst (Intern → Certificate) | HEXA Solutions | Jun–Sep 2026 | 13 end-to-end projects, weekly learning decks, interview knowledge books |
 | Closure Manager | Spinny | Jun 2025 – Mar 2026 | Deal closure ownership (250+), CSAT 4.8/5, closure-time −14 %, Top Closure Consultant Q2 |
 | Sr Customer Service Advisor & Team Lead | OLX Autos | Dec 2021 – Feb 2022 | Team lead for service desk, FCR 87 %, escalation handling |
@@ -52,14 +57,14 @@ Fit is scored against typical JD requirements for each role (0–5 per requireme
 | Sales Consultant | Paisabazaar | Oct 2019 – Jun 2020 | Loan facilitation ₹1.5 Cr+/month, 28 % conversion |
 | Management Trainee (Ops) | Globus Logisys | May–Dec 2017 | Inventory & cycle-time improvement: −30 % stockouts, −22 % cycle delay |
 | Digital Marketing Executive | Tidalwave / Digiperform | 2016–17 | Campaign execution and reporting |
-| Concurrent 2026 engagements | micro1 · CadetX · GWEN · Imagine.bo · Internship Studio · GraySentinel | 2026 | AI evaluation, analytics assignments, UX design, growth partnership, 16 domain packs, Blue Team training |
+| Concurrent 2026 engagements | micro1 · CadetX · GWEN · Imagine.bo · Internship Studio | 2026 | AI evaluation, analytics assignments, UX design, growth partnership, 18 project packs |
 | Engineering intern — 4 tracks | Codec Technologies India | Aug – Sep 2026 | [50 projects, 50 report PDFs, 595+ tests](https://github.com/Eswar5313/Codec-Technologies-Internship-Portfolio-2026): EV (10) · Cyber Security (20) · Digital Electronics & VLSI (10) · Robotics & Automation (10) |
 
 ## ✅ Fitment Snapshot — Roles
 
 | What the best roles ask for | What I bring | Proof |
 |---|---|---|
-| A senior individual contributor who can also manage | Team Lead at OLX; 250+ deal ownership at Spinny; managed 16-domain + 4-track concurrent project load in 2026 (110+ documented projects) | [Leadership](./LEADERSHIP.md) |
+| A senior individual contributor who can also manage | Team Lead at OLX; 250+ deal ownership at Spinny; managed an 18-pack + 4-track concurrent project load in 2026 (110+ documented projects) | [Leadership](./LEADERSHIP.md) |
 | Technical depth beyond dashboards | Ships RTL, FPGA timing reports, robot simulators and defensive-security code with tests — not slides about them | [Codec portfolio](https://github.com/Eswar5313/Codec-Technologies-Internship-Portfolio-2026) |
 | Analytics + operations in one hire | Rare combination: floor-level SCM/sales experience plus coded analytics portfolio | [HEXA](https://eswar5313.github.io/Eswar-Master-Project-Portfolio-2026/#01-HEXA-Data-Analytics) · [Impact](./IMPACT.md) |
 | Ready now | Immediate joiner; PAN-India, EU (Blue Card track), Gulf | [Mobility](./MOBILITY.md) |

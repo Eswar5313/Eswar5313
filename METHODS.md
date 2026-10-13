@@ -14,6 +14,8 @@
 <tr><td align="right"><sub><b>WHY HIRE ME</b></sub></td><td><a href="./ROLES.md"><img src="https://img.shields.io/badge/◆-ROLES-0B1026?style=for-the-badge&labelColor=B388FF" alt="ROLES"/></a> <a href="./EMPLOYABILITY.md"><img src="https://img.shields.io/badge/◆-EMPLOYABILITY-0B1026?style=for-the-badge&labelColor=B388FF" alt="EMPLOYABILITY"/></a> <a href="./IMPACT.md"><img src="https://img.shields.io/badge/◆-IMPACT-0B1026?style=for-the-badge&labelColor=B388FF" alt="IMPACT"/></a> <a href="./LEARNING.md"><img src="https://img.shields.io/badge/◆-LEARNING-0B1026?style=for-the-badge&labelColor=B388FF" alt="LEARNING"/></a> <a href="./MOBILITY.md"><img src="https://img.shields.io/badge/◆-MOBILITY-0B1026?style=for-the-badge&labelColor=B388FF" alt="MOBILITY"/></a> <a href="./INTEGRITY.md"><img src="https://img.shields.io/badge/◆-INTEGRITY-0B1026?style=for-the-badge&labelColor=B388FF" alt="INTEGRITY"/></a></td></tr>
 </tbody></table>
 
+<sub>🟢 <b>NOW · OCT 2026</b> — Data Scientist @ Zidio Development · Associate L1, Generative AI @ Infotact · Blue Team Operator @ GraySentinel · AI Trainer @ micro1 · 110+ projects · 13 PM cases · 1,000+ automated tests · open to Sr Manager / AVP roles</sub>
+
 </div>
 
 
@@ -27,16 +29,16 @@
 | **Statistics** | Descriptive stats · correlation · regression · seasonality index · moving average · FORECAST | Strava (r −0.60) · Excel A3 trend | Honest weak-fit caveat (R² 0.269) printed |
 | **Machine learning** | Ridge regression · RandomForest (balanced) · GradientBoosting · PR-curve thresholding · chronological split · feature importance | Student Performance · Panopticon · Overheat · Driving Optimizer | R² 0.8805 · precision 1.00 @ 0.90 · R² 0.975 |
 | **Control / estimation** | Extended Kalman Filter · SOH tracking | BMS simulation | SOC RMSE 0.63 % |
-| **Forecasting** | Logistic · Bass diffusion · CAGR · scenario bands | EV market to 2035 | Dash app, 40 tests |
+| **Forecasting** | Gradient-boosted demand models (LightGBM) vs seasonal-naive baseline · rolling-origin backtesting · WAPE · Logistic · Bass diffusion · CAGR · scenario bands | Project FORESIGHT (Zidio) · EV market to 2035 | Dash app, 40 tests · FORESIGHT WAPE 8.8 % vs 11.2 % naive |
 | **Product discovery** | JTBD · Five Whys · first principles · Double Diamond · STP · Severity × Frequency | Zepto · Nykaa · grocery sprint | Segment scorecards |
 | **Product strategy** | TAM/SAM/SOM · Porter's Five Forces · moat taxonomy · land-and-expand · kill/hold/double-down | AI Customer Ops · Uber pickup | SAM/SOM as declared inputs, not fabricated |
-| **Prioritisation** | RICE · Impact/Effort · Weighted scoring · Kano · MoSCoW | VitaFit (6 options) · Zepto | RICE-ranked roadmaps |
+| **Prioritisation** | RICE · Impact/Effort · Weighted scoring · Kano · MoSCoW | VitaFit (6 options) · Zepto · WorkRadar transparent priority score | RICE-ranked roadmaps |
 | **Experiment design** | 50/50 holdout · pilot-vs-comparison DiD · ITS · hypotheses shipped "AWAITING REAL DATA" | VitaFit · TechX Thrive · B2B SaaS workbook | Non-fabrication standard |
 | **Process excellence** | Six Sigma DMAIC · 5-Why · fishbone · lean/gemba | Globus · energy audit · HR discipline ladder | −22 % cycle delay |
 | **Software QA** | APFD · greedy prioritisation · set-cover · time-budgeted suites | OrderFlow | APFD 75.83 → 89.17 % |
 | **Finance** | Ratio analysis · articulated statements · dilution · CFO ROI · sensitivity grid · unit economics | Aurora Foods · B2B SaaS | ROI 8.4×, 36-cell grid |
 | **Engineering standards** | IS 456 limit-state · TOD/PF/MD tariff analysis · LCA (ICCT/CEA factors) | RCC · textile energy · EV LCA | Interaction ratio 0.389 · ₹81.9 L savings |
-| **Security** | Signature + anomaly IDS · threat-feed matching · k-anonymity · behaviour-based detection | Codec cyber | Defensive only |
+| **Security** | Signature + anomaly IDS · threat-feed matching · k-anonymity · behaviour-based detection · hypothesis-driven investigation (H1–H3) · MITRE ATT&CK mapping · Diamond model · Sigma / Wazuh / KQL detection engineering | Codec cyber · [GraySentinel war rooms](https://github.com/Eswar5313/GraySentinel-DSOU-45Day-2026) | Defensive only · 174 GraySentinel tests |
 | **Digital design** | FSM design with safe hand-over states · clock gating & operand isolation · fixed-point Q1.15 · pipelining & transposed/symmetric FIR · 16× oversampling UART · golden-model CPU verification · RTL-to-GDSII (simulated-annealing placement, maze routing, DRC-lite) | Codec VLSI (10 projects) | ALU power −63.8 % · FIR SNR 88.9 dB · 122/122 nets routed |
 | **Robotics & control** | A*/Dijkstra · pure pursuit · cascaded PID · complementary vs Kalman fusion · log-odds occupancy SLAM + correlative scan matching + ICP · frontier exploration · DH forward/inverse kinematics (Levenberg–Marquardt) · TDOA bearing · discrete-event simulation · SAT collision checking | Codec Robotics (10 projects) | 0 collisions · SLAM RMSE 0.34 m · tilt RMSE 0.33° |
 | **Documentation** | Formula registers · step-by-step method blocks · verified-figures register · integrity statements | Excel Module · HEXA | 187 steps documented |

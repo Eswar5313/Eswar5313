@@ -14,6 +14,8 @@
 <tr><td align="right"><sub><b>WHY HIRE ME</b></sub></td><td><a href="./ROLES.md"><img src="https://img.shields.io/badge/◆-ROLES-0B1026?style=for-the-badge&labelColor=B388FF" alt="ROLES"/></a> <a href="./EMPLOYABILITY.md"><img src="https://img.shields.io/badge/◆-EMPLOYABILITY-0B1026?style=for-the-badge&labelColor=B388FF" alt="EMPLOYABILITY"/></a> <a href="./IMPACT.md"><img src="https://img.shields.io/badge/◆-IMPACT-0B1026?style=for-the-badge&labelColor=B388FF" alt="IMPACT"/></a> <a href="./LEARNING.md"><img src="https://img.shields.io/badge/◆-LEARNING-0B1026?style=for-the-badge&labelColor=B388FF" alt="LEARNING"/></a> <a href="./MOBILITY.md"><img src="https://img.shields.io/badge/◆-MOBILITY-0B1026?style=for-the-badge&labelColor=B388FF" alt="MOBILITY"/></a> <a href="./INTEGRITY.md"><img src="https://img.shields.io/badge/◆-INTEGRITY-0B1026?style=for-the-badge&labelColor=B388FF" alt="INTEGRITY"/></a></td></tr>
 </tbody></table>
 
+<sub>🟢 <b>NOW · OCT 2026</b> — Data Scientist @ Zidio Development · Associate L1, Generative AI @ Infotact · Blue Team Operator @ GraySentinel · AI Trainer @ micro1 · 110+ projects · 13 PM cases · 1,000+ automated tests · open to Sr Manager / AVP roles</sub>
+
 </div>
 
 
@@ -23,7 +25,8 @@
 
 | Industry | Employer | Role | Period | Numbers |
 |---|---|---|---|---|
-| **IT Services / Data Analytics** | HEXA Solutions, Ghaziabad | Data Analyst (Intern → certificate) | Jun – Aug 2026 | 13 projects, org code FYIXYK |
+| **IT Services / Data Science** | Zidio Development *(remote)* | Data Scientist | Jul 2026 – Present | [Project FORESIGHT](https://github.com/Eswar5313/zidio-data-science-projects) — WAPE 8.8 % vs 11.2 % naive |
+| **IT Services / Data Analytics** | HEXA Solutions, Ghaziabad | Data Analyst (Intern → certificate) | Jun – Sep 2026 | 13 projects, org code FYIXYK |
 | **Automotive — used-car marketplace** | Spinny | Closure Manager | Jun 2025 – Mar 2026 | 250+ deals, +18 % closure rate, −14 % closure time, 4.8/5 CSAT, Top Closure Consultant Q2 |
 | **Automotive — classifieds & retail** | OLX Autos | Sr Customer Service Advisor & Team Lead | Dec 2021 – Feb 2022 | 87 % FCR |
 | **Luxury Real Estate — UAE** | Square Yards, Dubai | Associate Portfolio Manager | Sep – Nov 2021 | 100+ HNI accounts, 15+ nationalities, 90 %+ retention |
@@ -32,21 +35,21 @@
 | **Logistics & 3PL** | Globus Logisys | Management Trainee | May – Dec 2017 | −30 % stockouts, −22 % cycle delay |
 | **Digital Marketing / EdTech** | Tidalwave Solutions / Digiperform | Digital Marketing | 2016 – 17 | Campaign execution |
 
-**Cumulative:** ₹13.5 Cr+ sales facilitated · 8+ years · 5 industries · India + UAE
+**Cumulative:** ₹13.5 Cr+ sales facilitated · 8+ years · 6 industries · India + UAE
 
 ## 🧪 Industries added through 2026 programmes
 
 | Industry | Programme | What was built |
 |---|---|---|
-| AI / LLM services | micro1 (AI Trainer) · Outskill · Gen AI Academy APAC | Model-output evaluation, RAG/agent tracks |
-| Cyber security | GraySentinel · Codec Technologies | [20 defensive projects](https://github.com/Eswar5313/Codec-Technologies-Internship-Portfolio-2026/tree/main/Cyber-Security), 226 tests |
+| AI / LLM services | Infotact Solutions (Associate L1 — GenAI) · micro1 (AI Trainer) · Outskill · Gen AI Academy APAC | LLM apps and RAG on the job, model-output evaluation, RAG/agent tracks |
+| Cyber security | GraySentinel · Codec Technologies | [20 defensive projects](https://github.com/Eswar5313/Codec-Technologies-Internship-Portfolio-2026/tree/main/Cyber-Security), 226 tests · [GraySentinel — 7 war rooms, 174 tests](https://github.com/Eswar5313/GraySentinel-DSOU-45Day-2026) |
 | Electric vehicles | Codec Technologies | [10 EV projects + firmware](https://github.com/Eswar5313/Codec-Technologies-Internship-Portfolio-2026/tree/main/Electric-Vehicle), 226 tests |
 | Semiconductors / digital electronics & VLSI | Codec Technologies | [10 RTL/FPGA/ASIC projects](https://github.com/Eswar5313/Codec-Technologies-Internship-Portfolio-2026/tree/main/Digital-Electronics-VLSI) — Verilog/VHDL, real place-and-route, RTL-to-GDSII |
 | Robotics & industrial automation | Codec Technologies | [10 simulation projects](https://github.com/Eswar5313/Codec-Technologies-Internship-Portfolio-2026/tree/main/Robotics-Automation) — AMR, SLAM, drones, robotic arms, parking, conveyor sorting |
-| Product / SaaS | Airtribe AI-First PM | 8 case studies |
+| Product / SaaS | Airtribe AI-First PM | 13 case studies incl. [WorkRadar MVP](https://eswar5313.github.io/product-management-case-studies/13-workradar/) |
 | UX / design services | GWEN · Zidio Development | Figma flows, design systems |
 | Growth / BD services | Imagine.bo Growth Partner | Lead-gen pipeline |
-| Multi-domain engineering & business | Internship Studio (12 domains) | 16 project packs |
+| Multi-domain engineering & business | Internship Studio (multi-domain) | 18 project packs |
 | Travel | Fora Travel · Dreamport | Advisor certification, earnings analysis |
 
 ## 🔁 What transfers between industries

@@ -14,6 +14,8 @@
 <tr><td align="right"><sub><b>WHY HIRE ME</b></sub></td><td><a href="./ROLES.md"><img src="https://img.shields.io/badge/◆-ROLES-0B1026?style=for-the-badge&labelColor=B388FF" alt="ROLES"/></a> <img src="https://img.shields.io/badge/◆-EMPLOYABILITY-00E5FF?style=for-the-badge&labelColor=0B1026" alt="EMPLOYABILITY (this page)"/> <a href="./IMPACT.md"><img src="https://img.shields.io/badge/◆-IMPACT-0B1026?style=for-the-badge&labelColor=B388FF" alt="IMPACT"/></a> <a href="./LEARNING.md"><img src="https://img.shields.io/badge/◆-LEARNING-0B1026?style=for-the-badge&labelColor=B388FF" alt="LEARNING"/></a> <a href="./MOBILITY.md"><img src="https://img.shields.io/badge/◆-MOBILITY-0B1026?style=for-the-badge&labelColor=B388FF" alt="MOBILITY"/></a> <a href="./INTEGRITY.md"><img src="https://img.shields.io/badge/◆-INTEGRITY-0B1026?style=for-the-badge&labelColor=B388FF" alt="INTEGRITY"/></a></td></tr>
 </tbody></table>
 
+<sub>🟢 <b>NOW · OCT 2026</b> — Data Scientist @ Zidio Development · Associate L1, Generative AI @ Infotact · Blue Team Operator @ GraySentinel · AI Trainer @ micro1 · 110+ projects · 13 PM cases · 1,000+ automated tests · open to Sr Manager / AVP roles</sub>
+
 </div>
 
 
@@ -29,13 +31,14 @@ Each row is a requirement that appears in most JDs for the role. ✔ = met with 
 | Advanced Excel (pivots, lookups, dashboards) | ✔ | [Excel Module — 5,149 formulas, 0 errors](https://eswar5313.github.io/Eswar-Master-Project-Portfolio-2026/#05-Excel-Data-Analytics-Module) |
 | SQL for analysis | ✔ | [NSE SQL](https://eswar5313.github.io/Eswar-Master-Project-Portfolio-2026/#01-HEXA-Data-Analytics/07-SQL-NSE-Stock-Market) |
 | Python for data (pandas / sklearn) | ✔ | [13 HEXA projects](https://eswar5313.github.io/Eswar-Master-Project-Portfolio-2026/#01-HEXA-Data-Analytics) |
+| Forecasting & ML in a live role | ✔ | Data Scientist @ Zidio — [Project FORESIGHT](https://github.com/Eswar5313/zidio-data-science-projects), WAPE 8.8 % vs 11.2 % seasonal-naive, [live dashboard](https://foresight-northbay.netlify.app) |
 | BI tool (Power BI / Tableau) | ✔ | India EV, Airbnb dashboards |
 | Statistics & experimentation | ✔ | r −0.60 study; holdout/DiD designs |
 | Business storytelling | ✔ | 80+ reports, 25+ decks |
 | Domain knowledge | ✔ | 8+ yrs ops / sales / CX |
 | Stakeholder management | ✔ | President-level presentations |
 | Team leadership (for Manager) | ✔ | OLX Team Lead; 2026 programme management |
-| **Score** | **9 / 9** | |
+| **Score** | **10 / 10** | |
 
 ### Supply Chain / Operations Manager (Sr Manager – AVP)
 | Requirement | Status | Evidence |
@@ -53,12 +56,12 @@ Each row is a requirement that appears in most JDs for the role. ✔ = met with 
 | Requirement | Status | Evidence |
 |---|:-:|---|
 | User research | ✔ | Nykaa, Uber toolkits (real-data rule respected) |
-| PRD writing | ✔ | [VitaFit PRD](https://eswar5313.github.io/Eswar-Master-Project-Portfolio-2026/#02-Product-Management-Case-Studies/05-VitaFit-PRD-and-Core-Flows) |
+| PRD writing | ✔ | [VitaFit PRD](https://eswar5313.github.io/Eswar-Master-Project-Portfolio-2026/#02-Product-Management-Case-Studies/05-VitaFit-PRD-and-Core-Flows) · [WorkRadar PRD → MVP](https://eswar5313.github.io/product-management-case-studies/13-workradar/) |
 | Prioritisation frameworks | ✔ | RICE, Kano, MoSCoW applied |
 | Market & competitive analysis | ✔ | [AI Customer Ops](https://eswar5313.github.io/Eswar-Master-Project-Portfolio-2026/#02-Product-Management-Case-Studies/02-AI-Customer-Operations-Platform-B2B-SaaS) |
 | Metrics & experimentation | ✔ | North Star, holdout designs, workbooks |
 | Technical fluency | ✔ | Ships code, tests, schemas — plus RTL, FPGA timing reports and robot simulations (50 Codec projects) |
-| Shipped-product record | ◐ | Cohort cases + own web tools; no employer PM title yet |
+| Shipped-product record | ◐ | 13 cohort cases incl. a working [WorkRadar MVP](https://eswar5313.github.io/product-management-case-studies/13-workradar/) + own web tools; no employer PM title yet |
 | **Score** | **6.5 / 7** | |
 
 ### Customer Success / Key Account / Sales Manager

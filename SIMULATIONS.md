@@ -14,6 +14,8 @@
 <tr><td align="right"><sub><b>WHY HIRE ME</b></sub></td><td><a href="./ROLES.md"><img src="https://img.shields.io/badge/◆-ROLES-0B1026?style=for-the-badge&labelColor=B388FF" alt="ROLES"/></a> <a href="./EMPLOYABILITY.md"><img src="https://img.shields.io/badge/◆-EMPLOYABILITY-0B1026?style=for-the-badge&labelColor=B388FF" alt="EMPLOYABILITY"/></a> <a href="./IMPACT.md"><img src="https://img.shields.io/badge/◆-IMPACT-0B1026?style=for-the-badge&labelColor=B388FF" alt="IMPACT"/></a> <a href="./LEARNING.md"><img src="https://img.shields.io/badge/◆-LEARNING-0B1026?style=for-the-badge&labelColor=B388FF" alt="LEARNING"/></a> <a href="./MOBILITY.md"><img src="https://img.shields.io/badge/◆-MOBILITY-0B1026?style=for-the-badge&labelColor=B388FF" alt="MOBILITY"/></a> <a href="./INTEGRITY.md"><img src="https://img.shields.io/badge/◆-INTEGRITY-0B1026?style=for-the-badge&labelColor=B388FF" alt="INTEGRITY"/></a></td></tr>
 </tbody></table>
 
+<sub>🟢 <b>NOW · OCT 2026</b> — Data Scientist @ Zidio Development · Associate L1, Generative AI @ Infotact · Blue Team Operator @ GraySentinel · AI Trainer @ micro1 · 110+ projects · 13 PM cases · 1,000+ automated tests · open to Sr Manager / AVP roles</sub>
+
 </div>
 
 
@@ -45,7 +47,7 @@
 | | **Total** | **66** | | |
 
 ```mermaid
-%%{init: {'theme':'base','themeVariables':{'pie1':'#FFFFFF','pie2':'#C9CDD6','pie3':'#9A9A9A','pie4':'#6A6A6A','pie5':'#4A4A4A','pie6':'#2A2A2A','pie7':'#1A1A1A','pieStrokeColor':'#000000','pieTitleTextColor':'#FFFFFF','pieLegendTextColor':'#FFFFFF','pieSectionTextColor':'#000000'}}}%%
+%%{init: {'theme':'base','themeVariables':{'pie1':'#00E5FF','pie2':'#B388FF','pie3':'#7DF9FF','pie4':'#FF4DD8','pie5':'#8C9EFF','pie6':'#64FFDA','pie7':'#E1BEE7','pieStrokeColor':'#0B1026','pieTitleTextColor':'#E8F6FF','pieLegendTextColor':'#E8F6FF','pieSectionTextColor':'#0B1026'}}}%%
 pie showData title 66 Forage simulations by sector group
     "Banking, Markets & Asset Management" : 12
     "Legal & Governance" : 16

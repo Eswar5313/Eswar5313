@@ -14,6 +14,8 @@
 <tr><td align="right"><sub><b>WHY HIRE ME</b></sub></td><td><a href="./ROLES.md"><img src="https://img.shields.io/badge/◆-ROLES-0B1026?style=for-the-badge&labelColor=B388FF" alt="ROLES"/></a> <a href="./EMPLOYABILITY.md"><img src="https://img.shields.io/badge/◆-EMPLOYABILITY-0B1026?style=for-the-badge&labelColor=B388FF" alt="EMPLOYABILITY"/></a> <img src="https://img.shields.io/badge/◆-IMPACT-00E5FF?style=for-the-badge&labelColor=0B1026" alt="IMPACT (this page)"/> <a href="./LEARNING.md"><img src="https://img.shields.io/badge/◆-LEARNING-0B1026?style=for-the-badge&labelColor=B388FF" alt="LEARNING"/></a> <a href="./MOBILITY.md"><img src="https://img.shields.io/badge/◆-MOBILITY-0B1026?style=for-the-badge&labelColor=B388FF" alt="MOBILITY"/></a> <a href="./INTEGRITY.md"><img src="https://img.shields.io/badge/◆-INTEGRITY-0B1026?style=for-the-badge&labelColor=B388FF" alt="INTEGRITY"/></a></td></tr>
 </tbody></table>
 
+<sub>🟢 <b>NOW · OCT 2026</b> — Data Scientist @ Zidio Development · Associate L1, Generative AI @ Infotact · Blue Team Operator @ GraySentinel · AI Trainer @ micro1 · 110+ projects · 13 PM cases · 1,000+ automated tests · open to Sr Manager / AVP roles</sub>
+
 </div>
 
 
@@ -39,6 +41,9 @@ Two classes of numbers. **Class A** — employment results I am accountable for 
 | Figure | Project | File |
 |---|---|---|
 | **99 AED / sqft** | Dubai house-price model | [folder](https://eswar5313.github.io/Eswar-Master-Project-Portfolio-2026/#01-HEXA-Data-Analytics/13-Dubai-House-Price-Model) |
+| **WAPE 8.8 % vs 11.2 % seasonal-naive · Dec-2025 holdout 9.3 % vs 12.4 %** | Project FORESIGHT demand forecast (Zidio, current role) | [repo](https://github.com/Eswar5313/zidio-data-science-projects) · [live](https://foresight-northbay.netlify.app) |
+| **8 reorder-now · 8 markdown · 34 healthy SKUs** | FORESIGHT inventory-risk scoring | [live](https://foresight-northbay.netlify.app) |
+| **Funnel 17.6 % → 26.4 % delivered (target)** | Zomato funnel & cohort metrics | [PM cases](https://github.com/Eswar5313/product-management-case-studies) |
 | **CSAT 4.48 → 3.66** | Flipkart CSAT gradient | [folder](https://eswar5313.github.io/Eswar-Master-Project-Portfolio-2026/#01-HEXA-Data-Analytics/03-Flipkart-CSAT-Analysis) |
 | **r = −0.60** | Sedentary time × sleep | [folder](https://eswar5313.github.io/Eswar-Master-Project-Portfolio-2026/#01-HEXA-Data-Analytics/10-Strava-Fitbit-Fitness-Analytics) |
 | **R² 0.8805 · MAE 4.21** | Student performance Ridge | [folder](https://eswar5313.github.io/Eswar-Master-Project-Portfolio-2026/#03-Internship-Studio-Projects/12-Student-Performance-ML-Regression) |
@@ -54,6 +59,7 @@ Two classes of numbers. **Class A** — employment results I am accountable for 
 | **5,149 formulas · 0 errors · 187 steps** | Excel Module 1 | [folder](https://eswar5313.github.io/Eswar-Master-Project-Portfolio-2026/#05-Excel-Data-Analytics-Module) |
 | **595+ tests passing · 50 / 50 `run_all.sh` PASS** | Codec EV + Cyber + VLSI + Robotics | [repo](https://github.com/Eswar5313/Codec-Technologies-Internship-Portfolio-2026) |
 | **IDS held-out F1 0.998** | NSL-KDD intrusion detection | [report](https://github.com/Eswar5313/Codec-Technologies-Internship-Portfolio-2026/tree/main/Cyber-Security/reports/03_IDS_ML.pdf) |
+| **174 tests · 11 SOC tools · 7 war rooms · 0 exploit code** | GraySentinel Blue Team programme | [repo](https://github.com/Eswar5313/GraySentinel-DSOU-45Day-2026) |
 | **ALU power 390.8 → 141.3 µW (−63.8 %), area +0.2 %** | Low-power 8-bit ALU, CMOS gate-level | [report](https://github.com/Eswar5313/Codec-Technologies-Internship-Portfolio-2026/tree/main/Digital-Electronics-VLSI/reports/02_LowPower_8bit_ALU_CMOS.pdf) |
 | **UART Fmax 135.0 MHz · 378 LCs · 68 / 68 checks** | UART (VHDL) on iCE40 | [report](https://github.com/Eswar5313/Codec-Technologies-Internship-Portfolio-2026/tree/main/Digital-Electronics-VLSI/reports/05_UART_Protocol_VHDL.pdf) |
 | **FIR SNR 88.9 dB · 3 architectures bit-exact** | FIR filter for DSP | [report](https://github.com/Eswar5313/Codec-Technologies-Internship-Portfolio-2026/tree/main/Digital-Electronics-VLSI/reports/04_FIR_Filter_DSP_VLSI.pdf) |
@@ -67,9 +73,11 @@ Two classes of numbers. **Class A** — employment results I am accountable for 
 | Measure | Count |
 |---|:-:|
 | Documented projects | 110+ |
+| Product-management case studies | 13 |
+| SOC tools (defensive) | 11 |
 | PDF reports | 130+ (incl. 50 Codec engineering reports) |
 | Live Excel formulas | 20,000+ |
-| Automated tests | 840+ (595+ in Codec tracks) |
+| Automated tests | 1,000+ (595+ Codec · 174 GraySentinel · rest across data and web projects) |
 | FPGA place-and-route + timing runs (iCE40) | 12 |
 | Certifications kept on LinkedIn (curated from 333) | 16 |
 | Job simulations (Forage) | 66 |

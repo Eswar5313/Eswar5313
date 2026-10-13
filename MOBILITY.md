@@ -14,6 +14,8 @@
 <tr><td align="right"><sub><b>WHY HIRE ME</b></sub></td><td><a href="./ROLES.md"><img src="https://img.shields.io/badge/◆-ROLES-0B1026?style=for-the-badge&labelColor=B388FF" alt="ROLES"/></a> <a href="./EMPLOYABILITY.md"><img src="https://img.shields.io/badge/◆-EMPLOYABILITY-0B1026?style=for-the-badge&labelColor=B388FF" alt="EMPLOYABILITY"/></a> <a href="./IMPACT.md"><img src="https://img.shields.io/badge/◆-IMPACT-0B1026?style=for-the-badge&labelColor=B388FF" alt="IMPACT"/></a> <a href="./LEARNING.md"><img src="https://img.shields.io/badge/◆-LEARNING-0B1026?style=for-the-badge&labelColor=B388FF" alt="LEARNING"/></a> <img src="https://img.shields.io/badge/◆-MOBILITY-00E5FF?style=for-the-badge&labelColor=0B1026" alt="MOBILITY (this page)"/> <a href="./INTEGRITY.md"><img src="https://img.shields.io/badge/◆-INTEGRITY-0B1026?style=for-the-badge&labelColor=B388FF" alt="INTEGRITY"/></a></td></tr>
 </tbody></table>
 
+<sub>🟢 <b>NOW · OCT 2026</b> — Data Scientist @ Zidio Development · Associate L1, Generative AI @ Infotact · Blue Team Operator @ GraySentinel · AI Trainer @ micro1 · 110+ projects · 13 PM cases · 1,000+ automated tests · open to Sr Manager / AVP roles</sub>
+
 </div>
 
 
@@ -27,7 +29,7 @@
 | **Relocation** | PAN-India · Germany (EU Blue Card track) · Gulf (UAE experience: Dubai) |
 | **Notice period** | Immediate joiner |
 | **Work modes** | On-site · hybrid · remote (proven: 15+ remote engagements in 2026; [50 Codec engineering projects](https://github.com/Eswar5313/Codec-Technologies-Internship-Portfolio-2026) delivered fully remote with reproducible `run_all.sh` scripts) |
-| **Current role** | Data Scientist @ Zidio Development (remote, Jul 2026 – Present) — available to start alongside or hand over |
+| **Current role** | Data Scientist @ Zidio Development (remote, Jul 2026 – Present) · also Associate L1, Generative AI @ Infotact Solutions (remote) and Blue Team Operator @ GraySentinel — available to start alongside or hand over |
 | **Languages** | English · Hindi · Tamil · Telugu (fluent) · German A1 (in progress) |
 | **International experience** | Square Yards Dubai — 100+ HNI clients, 15+ nationalities |
 | **Contact** | eswarmba05313@gmail.com · +91-9360548243 · linkedin.com/in/eswar-mahalingam |

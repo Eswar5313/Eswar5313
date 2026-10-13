@@ -14,6 +14,8 @@
 <tr><td align="right"><sub><b>WHY HIRE ME</b></sub></td><td><a href="./ROLES.md"><img src="https://img.shields.io/badge/◆-ROLES-0B1026?style=for-the-badge&labelColor=B388FF" alt="ROLES"/></a> <a href="./EMPLOYABILITY.md"><img src="https://img.shields.io/badge/◆-EMPLOYABILITY-0B1026?style=for-the-badge&labelColor=B388FF" alt="EMPLOYABILITY"/></a> <a href="./IMPACT.md"><img src="https://img.shields.io/badge/◆-IMPACT-0B1026?style=for-the-badge&labelColor=B388FF" alt="IMPACT"/></a> <a href="./LEARNING.md"><img src="https://img.shields.io/badge/◆-LEARNING-0B1026?style=for-the-badge&labelColor=B388FF" alt="LEARNING"/></a> <a href="./MOBILITY.md"><img src="https://img.shields.io/badge/◆-MOBILITY-0B1026?style=for-the-badge&labelColor=B388FF" alt="MOBILITY"/></a> <a href="./INTEGRITY.md"><img src="https://img.shields.io/badge/◆-INTEGRITY-0B1026?style=for-the-badge&labelColor=B388FF" alt="INTEGRITY"/></a></td></tr>
 </tbody></table>
 
+<sub>🟢 <b>NOW · OCT 2026</b> — Data Scientist @ Zidio Development · Associate L1, Generative AI @ Infotact · Blue Team Operator @ GraySentinel · AI Trainer @ micro1 · 110+ projects · 13 PM cases · 1,000+ automated tests · open to Sr Manager / AVP roles</sub>
+
 </div>
 
 
@@ -27,10 +29,10 @@
 | **Supply Chain & Logistics** | Expert | 8+ | 4 | CSCMP SCPro (6 domains) · IIM-A SC Digitization · PGDLSCM · Six Sigma BB · PepsiCo SC Stars · Flipkart SCOA | Globus results · 2,000-SKU study · FedEx EDA |
 | **Operations & Process Excellence** | Expert | 8+ | 6 | Six Sigma Black Belt · Google PM | Cycle-delay −22 % · APFD/energy/HR process projects |
 | **Sales, CRM & Customer Success** | Expert | 6 | 3 | Salesforce Administrator · PepsiCo Sales Star | ₹13.5 Cr+ facilitated · 90 %+ retention · 87 % FCR |
-| **Product Management (AI-first)** | Advanced | 1 | 8 | Airtribe AI-First PM · Google PM | [PM cases](https://eswar5313.github.io/Eswar-Master-Project-Portfolio-2026/#02-Product-Management-Case-Studies) |
+| **Product Management (AI-first)** | Advanced | 1 | 13 | Airtribe AI-First PM · Google PM | [PM cases](https://eswar5313.github.io/Eswar-Master-Project-Portfolio-2026/#02-Product-Management-Case-Studies) |
 | **Finance & FP&A modelling** | Advanced | 3 | 5 | MBA (Finance electives) · B.Com Bank Management | Aurora Foods · revenue/sensitivity models |
-| **AI / Generative AI** | Advanced | 2 | 10+ | Anthropic AI Fluency ×2 · Outskill AI Generalist · Gen AI Academy APAC | Panopticon, Driving Optimizer, application engine |
-| **Cyber Security (defensive)** | Working | 0.5 | 20 | GraySentinel Blue Team · Codec Cyber | [Codec Cyber track](https://github.com/Eswar5313/Codec-Technologies-Internship-Portfolio-2026/tree/main/Cyber-Security) — 20 projects, 226 tests, 20 report PDFs |
+| **AI / Generative AI** | Advanced | 2 | 10+ | Anthropic AI Fluency ×2 · Outskill AI Generalist · Gen AI Academy APAC | Infotact Associate L1 — GenAI (LLM apps · RAG) · micro1 AI Trainer · Panopticon · Driving Optimizer · [WorkRadar MVP](https://eswar5313.github.io/product-management-case-studies/13-workradar/) |
+| **Cyber Security (defensive)** | Working | 0.5 | 35 | GraySentinel Blue Team · Codec Cyber | [Codec Cyber track](https://github.com/Eswar5313/Codec-Technologies-Internship-Portfolio-2026/tree/main/Cyber-Security) — 20 projects, 226 tests, 20 report PDFs · [GraySentinel](https://github.com/Eswar5313/GraySentinel-DSOU-45Day-2026) — 15 deliverables, 7 war rooms, 174 tests |
 | **Electric Vehicles & Embedded** | Working | 0.5 | 11 | Codec EV | [Codec EV track](https://github.com/Eswar5313/Codec-Technologies-Internship-Portfolio-2026/tree/main/Electric-Vehicle) — EKF SOC RMSE 0.63 % · India EV dashboard |
 | **Digital Electronics & VLSI** | Working | 0.5 | 10 | Codec Digital Electronics & VLSI | [Codec VLSI track](https://github.com/Eswar5313/Codec-Technologies-Internship-Portfolio-2026/tree/main/Digital-Electronics-VLSI) — Verilog/VHDL RTL, Yosys + nextpnr-ice40 P&R, ALU power −63.8 %, UART Fmax 135 MHz, own RTL-to-GDSII flow |
 | **Robotics & Automation** | Working | 0.5 | 10 | Codec Robotics & Automation | [Codec Robotics track](https://github.com/Eswar5313/Codec-Technologies-Internship-Portfolio-2026/tree/main/Robotics-Automation) — A*/Dijkstra, PID + Kalman, SLAM (pose RMSE 0.34 m vs 1.41 m odometry), DH kinematics + IK, OpenCV 99.7 % |

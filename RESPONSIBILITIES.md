@@ -14,6 +14,8 @@
 <tr><td align="right"><sub><b>WHY HIRE ME</b></sub></td><td><a href="./ROLES.md"><img src="https://img.shields.io/badge/◆-ROLES-0B1026?style=for-the-badge&labelColor=B388FF" alt="ROLES"/></a> <a href="./EMPLOYABILITY.md"><img src="https://img.shields.io/badge/◆-EMPLOYABILITY-0B1026?style=for-the-badge&labelColor=B388FF" alt="EMPLOYABILITY"/></a> <a href="./IMPACT.md"><img src="https://img.shields.io/badge/◆-IMPACT-0B1026?style=for-the-badge&labelColor=B388FF" alt="IMPACT"/></a> <a href="./LEARNING.md"><img src="https://img.shields.io/badge/◆-LEARNING-0B1026?style=for-the-badge&labelColor=B388FF" alt="LEARNING"/></a> <a href="./MOBILITY.md"><img src="https://img.shields.io/badge/◆-MOBILITY-0B1026?style=for-the-badge&labelColor=B388FF" alt="MOBILITY"/></a> <a href="./INTEGRITY.md"><img src="https://img.shields.io/badge/◆-INTEGRITY-0B1026?style=for-the-badge&labelColor=B388FF" alt="INTEGRITY"/></a></td></tr>
 </tbody></table>
 
+<sub>🟢 <b>NOW · OCT 2026</b> — Data Scientist @ Zidio Development · Associate L1, Generative AI @ Infotact · Blue Team Operator @ GraySentinel · AI Trainer @ micro1 · 110+ projects · 13 PM cases · 1,000+ automated tests · open to Sr Manager / AVP roles</sub>
+
 </div>
 
 
@@ -23,6 +25,9 @@
 
 | Role | Ownership area | Responsibilities | Measured outcome |
 |---|---|---|---|
+| **Data Scientist — Zidio Development** *(current)* | Forecasting & inventory risk | Weekly SKU demand forecast · rolling-origin backtesting · stockout / overstock risk scoring · scoring API · live dashboard | [Project FORESIGHT](https://github.com/Eswar5313/zidio-data-science-projects) — WAPE 8.8 % vs 11.2 % naive |
+| **Associate L1, Generative AI — Infotact Solutions** *(current)* | LLM applications | Prompt engineering · embeddings & RAG · GenAI back-end / API integration · model evaluation and responsible-AI checks | Sep 2026 → |
+| **Blue Team Operator & Trainee — GraySentinel** *(current)* | SOC investigations | Alert triage · hypothesis testing · log hunting · Sigma / Wazuh / KQL detections · intel briefs · CISO summaries | [7 war rooms · 11 SOC tools · 174 tests](https://github.com/Eswar5313/GraySentinel-DSOU-45Day-2026) |
 | **Data Analyst — HEXA Solutions** | Analytics delivery | Scope business questions · acquire/clean data · EDA · SQL modelling · ML where justified · dashboards · executive reporting · weekly learning decks · portfolio submission to leadership | 13 projects, 110-page Master Book, Completion + Experience Certificate |
 | **Closure Manager — Spinny** | Revenue closure | Own the closure stage of used-car deals · negotiation · documentation · finance/RC coordination · CSAT ownership · daily closure reporting | 250+ deals · 18 % closure-rate lift · 14 % closure-time cut · 4.8/5 CSAT · Top Closure Consultant Q2 |
 | **Team Lead — OLX Autos** | Service desk | Queue and SLA management · coaching advisors · escalations · first-contact resolution tracking | 87 % FCR |
@@ -36,9 +41,10 @@
 
 | Programme | What I was responsible for | Scale |
 |---|---|:-:|
-| Internship Studio (12 domains) | End-to-end delivery of one project pack per domain — brief analysis, build, report, submission | 16 packs |
+| Internship Studio (multi-domain) | End-to-end delivery of one project pack per domain — brief analysis, build, report, submission | 18 packs |
 | Codec Technologies (EV · Cyber · Digital Electronics & VLSI · Robotics) | Choose, build, test and publish every project on all four track briefs; one engineering-report PDF per project; single compact portfolio repo with navigation dashboard; email submission with offer letters | [50 projects · 595+ tests · 50 reports](https://github.com/Eswar5313/Codec-Technologies-Internship-Portfolio-2026) |
-| Airtribe AI-First PM cohort | Assignment ownership: research, interviews, PRD, deck, workbook, Loom | 8 cases |
+| Airtribe AI-First PM cohort | Assignment ownership: research, interviews, PRD, deck, workbook, Loom — now AI-built prototypes (WorkRadar) | 13 cases |
+| GraySentinel DSOU programme | Daily war-room operations across SOC, intel and red-team-analysis units; one combined mentor submission per day | 15 deliverables |
 | Data Analytics Module 1 | Three assignments with step-by-step formula registers | 5,149 formulas |
 | Personal brand | Portfolio sites, GitHub profile, blogs, application tooling | 11 builds |
 
@@ -55,7 +61,7 @@
 
 | What the best roles ask for | What I bring | Proof |
 |---|---|---|
-| Accountability for KPIs | Named metrics owned in 6 roles | [Impact](./IMPACT.md) |
+| Accountability for KPIs | Named metrics owned in 7 roles (incl. FORESIGHT WAPE at Zidio) | [Impact](./IMPACT.md) |
 | Cross-functional coordination | Finance/RC (Spinny), vendors (Globus), HNI clients (Dubai), engineering (CartShare, Codec — 4 tracks) | [Soft Skills](./SOFT_SKILLS.md) |
 | Self-managed delivery | 110+ documented projects in 2026 without a manager assigning tasks | [Master repo](https://eswar5313.github.io/Eswar-Master-Project-Portfolio-2026/) |
 

@@ -14,6 +14,8 @@
 <tr><td align="right"><sub><b>WHY HIRE ME</b></sub></td><td><a href="./ROLES.md"><img src="https://img.shields.io/badge/◆-ROLES-0B1026?style=for-the-badge&labelColor=B388FF" alt="ROLES"/></a> <a href="./EMPLOYABILITY.md"><img src="https://img.shields.io/badge/◆-EMPLOYABILITY-0B1026?style=for-the-badge&labelColor=B388FF" alt="EMPLOYABILITY"/></a> <a href="./IMPACT.md"><img src="https://img.shields.io/badge/◆-IMPACT-0B1026?style=for-the-badge&labelColor=B388FF" alt="IMPACT"/></a> <a href="./LEARNING.md"><img src="https://img.shields.io/badge/◆-LEARNING-0B1026?style=for-the-badge&labelColor=B388FF" alt="LEARNING"/></a> <a href="./MOBILITY.md"><img src="https://img.shields.io/badge/◆-MOBILITY-0B1026?style=for-the-badge&labelColor=B388FF" alt="MOBILITY"/></a> <a href="./INTEGRITY.md"><img src="https://img.shields.io/badge/◆-INTEGRITY-0B1026?style=for-the-badge&labelColor=B388FF" alt="INTEGRITY"/></a></td></tr>
 </tbody></table>
 
+<sub>🟢 <b>NOW · OCT 2026</b> — Data Scientist @ Zidio Development · Associate L1, Generative AI @ Infotact · Blue Team Operator @ GraySentinel · AI Trainer @ micro1 · 110+ projects · 13 PM cases · 1,000+ automated tests · open to Sr Manager / AVP roles</sub>
+
 </div>
 
 
@@ -43,15 +45,7 @@
 
 </details>
 
-<details open>
-<summary>🛒 <b>Entrepreneurship — E-commerce</b> — own venture</summary>
-<br>
-
-| Role | Company | Period | What I Run |
-|---|---|---|---|
-| 🛒 **Founder & Operator** | M.JayaEswar Ventures *(remote · Europe-facing)* | 2026 – Present | Parent brand of 4 storefronts — [Enjoyvo](https://enjoyvo.com) flagship (**156 live products**, 10 categories, EUR, own domain) · Enjoyvo Boutique · Lookvio · Lovprint (print-on-demand) · supplier apps + Printful · trust layer, catalogue QA and customer-eye audit of all 5 sites · Stage 1 setup complete Oct 2026, go-live in progress → [Ventures](./VENTURES.md) |
-
-</details>
+> 🛒 Also: **Founder, M.JayaEswar Ventures** — own e-commerce venture (2026 – Present).
 
 <details open>
 <summary>⚙️ <b>Engineering & Security — 2026 internship tracks</b></summary>
@@ -136,7 +130,6 @@
 | 👥 **The Team Lead** | OLX team leadership · 87% FCR · mentoring & escalation handling |
 | 🌍 **The International Operator** | Dubai HNI portfolio · 15+ nationalities · 4 languages · EU Blue Card track |
 | 🚚 **The Ops Improver** | 30% stockout ↓ · 22% cycle-delay ↓ · Six Sigma Black Belt DMAIC mindset |
-| 🛒 **The Founder-Operator** | M.JayaEswar Ventures — 4 storefronts across Europe built end to end: brands, domain, suppliers, 156-product catalogue, trust layer, staged go-live |
 | 🤖 **The AI-Fluent Professional** | Infotact GenAI associate (LLM apps, RAG) · micro1 AI training · 4 Anthropic certifications · AI-First PM cohort · RAG/agents study |
 
 <img src="https://raw.githubusercontent.com/Eswar5313/Eswar5313/main/assets/divider.svg" width="100%" alt="" />
@@ -144,7 +137,7 @@
 ## 🕐 Timeline
 
 ```mermaid
-%%{init: {'theme':'base','themeVariables':{'primaryColor':'#222222','primaryTextColor':'#FFFFFF','primaryBorderColor':'#FFFFFF','lineColor':'#FFFFFF','secondaryColor':'#000000','tertiaryColor':'#1A1A1A','cScale0':'#222222','cScale1':'#3A3A3A','cScale2':'#1A1A1A','cScale3':'#2A2A2A','pie1':'#FFFFFF','pie2':'#C9CDD6','pie3':'#9A9A9A','pie4':'#6A6A6A','pie5':'#3A3A3A','pie6':'#1A1A1A','fontFamily':'Georgia, serif'}}}%%
+%%{init: {'theme':'base','themeVariables':{'primaryColor':'#0B1026','primaryTextColor':'#E8F6FF','primaryBorderColor':'#00E5FF','lineColor':'#B388FF','secondaryColor':'#12062B','tertiaryColor':'#1B1F4B','cScale0':'#0B1026','cScale1':'#12062B','cScale2':'#1B1F4B','cScale3':'#0B1026','fontFamily':'Orbitron, Segoe UI, sans-serif'}}}%%
 timeline
     title Career Path — 2016 to Present
     2016-17 : Digital Marketing — Tidalwave / Digiperform
@@ -154,7 +147,7 @@ timeline
     2021-22 : OLX Autos — Team Lead 📞
     2025-26 : Spinny — Closure Manager 🏆
     2026 : HEXA Solutions — Data Analyst 📊 : Codec Technologies — 4 engineering tracks ⚙️
-    2026-Now : Zidio Development — Data Scientist 📈 ⭐ : Founder — M.JayaEswar Ventures 🛒 : Infotact — Generative AI Associate 🧠
+    2026-Now : Zidio Development — Data Scientist 📈 ⭐ : Infotact — Generative AI Associate 🧠
 ```
 
 > **Why the breadth matters:** most analysts have seen one industry's data. I've operated inside seven — so when I analyze a supply chain, a sales funnel, or a customer-service queue, I've *worked* the process behind the numbers.

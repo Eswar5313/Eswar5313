@@ -14,6 +14,8 @@
 <tr><td align="right"><sub><b>WHY HIRE ME</b></sub></td><td><a href="./ROLES.md"><img src="https://img.shields.io/badge/◆-ROLES-0B1026?style=for-the-badge&labelColor=B388FF" alt="ROLES"/></a> <a href="./EMPLOYABILITY.md"><img src="https://img.shields.io/badge/◆-EMPLOYABILITY-0B1026?style=for-the-badge&labelColor=B388FF" alt="EMPLOYABILITY"/></a> <a href="./IMPACT.md"><img src="https://img.shields.io/badge/◆-IMPACT-0B1026?style=for-the-badge&labelColor=B388FF" alt="IMPACT"/></a> <a href="./LEARNING.md"><img src="https://img.shields.io/badge/◆-LEARNING-0B1026?style=for-the-badge&labelColor=B388FF" alt="LEARNING"/></a> <a href="./MOBILITY.md"><img src="https://img.shields.io/badge/◆-MOBILITY-0B1026?style=for-the-badge&labelColor=B388FF" alt="MOBILITY"/></a> <img src="https://img.shields.io/badge/◆-INTEGRITY-00E5FF?style=for-the-badge&labelColor=0B1026" alt="INTEGRITY (this page)"/></td></tr>
 </tbody></table>
 
+<sub>🟢 <b>NOW · OCT 2026</b> — Data Scientist @ Zidio Development · Associate L1, Generative AI @ Infotact · Blue Team Operator @ GraySentinel · AI Trainer @ micro1 · 110+ projects · 13 PM cases · 1,000+ automated tests · open to Sr Manager / AVP roles</sub>
+
 </div>
 
 
@@ -30,7 +32,7 @@
 | **P4 — AI partnership disclosed** | Claude used for structuring, drafting, code review; decisions and submissions are mine | Integrity note in every project README |
 | **Chronology lock** | One employment chronology, consistent with UAN/EPFO records | ATS CV, this profile |
 | **Reconciled numbers** | Conflicting figures removed (₹12 Cr subtotal), conservative value adopted (28 % over 32 %) | CV audit Aug 2026 |
-| **Defensive security only** | No malware, no credential-harvesting pages, lab targets only | [20 Codec cyber projects](https://github.com/Eswar5313/Codec-Technologies-Internship-Portfolio-2026/tree/main/Cyber-Security) |
+| **Defensive security only** | No malware, no credential-harvesting pages, lab targets only | [20 Codec cyber projects](https://github.com/Eswar5313/Codec-Technologies-Internship-Portfolio-2026/tree/main/Cyber-Security) · [GraySentinel war rooms](https://github.com/Eswar5313/GraySentinel-DSOU-45Day-2026) — red-team units done as detection-and-analysis only, 0 exploit code |
 | **Reproducible engineering** | Each project ships source, tests, Makefile/`run_all.sh`, simulation outputs and a report PDF; open-source tools only (Icarus, GHDL, Yosys, nextpnr) | [VLSI](https://github.com/Eswar5313/Codec-Technologies-Internship-Portfolio-2026/tree/main/Digital-Electronics-VLSI) · [Robotics](https://github.com/Eswar5313/Codec-Technologies-Internship-Portfolio-2026/tree/main/Robotics-Automation) |
 | **Live-demonstration offer** | Any project can be re-run live on request | Standing offer in every dossier |
 

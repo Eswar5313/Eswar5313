@@ -14,6 +14,8 @@
 <tr><td align="right"><sub><b>WHY HIRE ME</b></sub></td><td><a href="./ROLES.md"><img src="https://img.shields.io/badge/◆-ROLES-0B1026?style=for-the-badge&labelColor=B388FF" alt="ROLES"/></a> <a href="./EMPLOYABILITY.md"><img src="https://img.shields.io/badge/◆-EMPLOYABILITY-0B1026?style=for-the-badge&labelColor=B388FF" alt="EMPLOYABILITY"/></a> <a href="./IMPACT.md"><img src="https://img.shields.io/badge/◆-IMPACT-0B1026?style=for-the-badge&labelColor=B388FF" alt="IMPACT"/></a> <a href="./LEARNING.md"><img src="https://img.shields.io/badge/◆-LEARNING-0B1026?style=for-the-badge&labelColor=B388FF" alt="LEARNING"/></a> <a href="./MOBILITY.md"><img src="https://img.shields.io/badge/◆-MOBILITY-0B1026?style=for-the-badge&labelColor=B388FF" alt="MOBILITY"/></a> <a href="./INTEGRITY.md"><img src="https://img.shields.io/badge/◆-INTEGRITY-0B1026?style=for-the-badge&labelColor=B388FF" alt="INTEGRITY"/></a></td></tr>
 </tbody></table>
 
+<sub>🟢 <b>NOW · OCT 2026</b> — Data Scientist @ Zidio Development · Associate L1, Generative AI @ Infotact · Blue Team Operator @ GraySentinel · AI Trainer @ micro1 · 110+ projects · 13 PM cases · 1,000+ automated tests · open to Sr Manager / AVP roles</sub>
+
 </div>
 
 
@@ -22,7 +24,7 @@
 <div align="center">
 
 <img src="https://img.shields.io/badge/ESSAYS_&_PAPERS-20%2B-B388FF?style=for-the-badge&labelColor=0B1026" />
-<img src="https://img.shields.io/badge/COLLECTIONS-6-00E5FF?style=for-the-badge&labelColor=B388FF" />
+<img src="https://img.shields.io/badge/COLLECTIONS-8-00E5FF?style=for-the-badge&labelColor=B388FF" />
 <img src="https://img.shields.io/badge/BYLINE-MBA_·_SCPro_·_SSBB-B388FF?style=for-the-badge&labelColor=0B1026" />
 
 *Everything below is original written work — case studies, essays, and frameworks published on my own sites.*

@@ -14,6 +14,8 @@
 <tr><td align="right"><sub><b>WHY HIRE ME</b></sub></td><td><a href="./ROLES.md"><img src="https://img.shields.io/badge/◆-ROLES-0B1026?style=for-the-badge&labelColor=B388FF" alt="ROLES"/></a> <a href="./EMPLOYABILITY.md"><img src="https://img.shields.io/badge/◆-EMPLOYABILITY-0B1026?style=for-the-badge&labelColor=B388FF" alt="EMPLOYABILITY"/></a> <a href="./IMPACT.md"><img src="https://img.shields.io/badge/◆-IMPACT-0B1026?style=for-the-badge&labelColor=B388FF" alt="IMPACT"/></a> <a href="./LEARNING.md"><img src="https://img.shields.io/badge/◆-LEARNING-0B1026?style=for-the-badge&labelColor=B388FF" alt="LEARNING"/></a> <a href="./MOBILITY.md"><img src="https://img.shields.io/badge/◆-MOBILITY-0B1026?style=for-the-badge&labelColor=B388FF" alt="MOBILITY"/></a> <a href="./INTEGRITY.md"><img src="https://img.shields.io/badge/◆-INTEGRITY-0B1026?style=for-the-badge&labelColor=B388FF" alt="INTEGRITY"/></a></td></tr>
 </tbody></table>
 
+<sub>🟢 <b>NOW · OCT 2026</b> — Data Scientist @ Zidio Development · Associate L1, Generative AI @ Infotact · Blue Team Operator @ GraySentinel · AI Trainer @ micro1 · 110+ projects · 13 PM cases · 1,000+ automated tests · open to Sr Manager / AVP roles</sub>
+
 </div>
 
 
@@ -37,7 +39,6 @@
 | 📈 **Project FORESIGHT** — demand forecasting & inventory-risk platform for NorthBay Living (D2C home & lifestyle) | Zidio Development · Data Scientist | Rolling-origin backtest **WAPE 8.8 % (LightGBM) vs 11.2 % seasonal-naive** · Dec-2025 holdout 9.3 % vs 12.4 % · 8 reorder-now / 8 markdown / 34 healthy SKUs · live `/api/score` | [Live](https://foresight-northbay.netlify.app) · [repo](https://github.com/Eswar5313/zidio-data-science-projects) |
 | 🏗️ **Heavy Warehouse Intelligence (HWI)** — 12-sprint analytics framework, 6 branches · 30 heavy-machinery SKUs · 8 suppliers · 500 customers · 2019–2024 | CadetX Virtual Work Experience · team of 3 | Data dictionary, KPI framework, data-quality report, profiling + cleaning notebooks, `hwi` Python package, Excel control book | [repo](https://github.com/Eswar5313/Cadetx-Junior-DA) |
 | 🔵 **SOC tooling & detection labs** — Auth-Log Investigation Tool · SOC Incident Summary Generator · 7 war rooms (SOC · threat intel · red-team analysis) · Sigma / Wazuh / KQL rules | GraySentinel DSOU · Blue Team | 2 certified labs · **11 SOC tools** · **174 tests** · ATT&CK-mapped detections · 0 exploit code | [repo](https://github.com/Eswar5313/GraySentinel-DSOU-45Day-2026) · [dashboard](https://eswar5313.github.io/GraySentinel-DSOU-45Day-2026/) |
-| 🛒 **M.JayaEswar Ventures — 4-store e-commerce setup** — Enjoyvo (flagship) · Enjoyvo Boutique · Lookvio · Lovprint | Own venture · Founder & Operator | **156 live products** · 10 categories · EUR · own domain · customer-eye audit of all 5 sites · Stage 1 complete Oct 2026 | [Ventures](./VENTURES.md) · [enjoyvo.com](https://enjoyvo.com) |
 | 🌍 **Export order payment & finance model** — 5 payment terms, PV @ 12 %, UCP 600 discrepancy check | Internship Studio · International Business | Recommend **confirmed sight LC** — PV USD 579,735, all-in 3.38 % · 249 formulas, 0 errors | [repo](https://github.com/Eswar5313/Internship-Studio-Projects-2026) |
 
 <img src="https://raw.githubusercontent.com/Eswar5313/Eswar5313/main/assets/divider.svg" width="100%" alt="" />
@@ -160,6 +161,24 @@
 </details>
 
 <details open>
+<summary>🔵 <b>Defensive Security Operations — GraySentinel DSOU, 15 deliverables</b> (174 tests · 11 SOC tools · Sigma / Wazuh / KQL · 0 exploit code · <a href="https://eswar5313.github.io/GraySentinel-DSOU-45Day-2026/">live dashboard</a>)</summary>
+<br>
+
+| # | War room / build | Unit · date | Result |
+|---|---|---|---|
+| 09 | [The Silent RDP Login](https://github.com/Eswar5313/GraySentinel-DSOU-45Day-2026/tree/main/rdp-silent-login) — RDP spray → valid-account logon → hidden PowerShell → AD discovery | SOC · 5 Oct 2026 | 18/18 tests · Sigma + Wazuh |
+| 10 | [Ghost Admin](https://github.com/Eswar5313/GraySentinel-DSOU-45Day-2026/tree/main/ghost-admin) — privileged-identity compromise on a domain controller, DCSync, lateral movement | SOC · 6 Oct 2026 | 18/18 tests · Sigma + Wazuh |
+| 11 | [Cloud Token Blackout](https://github.com/Eswar5313/GraySentinel-DSOU-45Day-2026/tree/main/cloud-token-blackout) — CI/CD cloud-credential abuse intel brief | Intel · 6 Oct 2026 | 16/16 tests · Sigma |
+| 12 | [Broken Pipeline](https://github.com/Eswar5313/GraySentinel-DSOU-45Day-2026/tree/main/broken-pipeline) — CI/CD → registry → Kubernetes supply-chain analysis (lab only) | Red-team analysis · 6 Oct 2026 | 16/16 tests · detections |
+| 13 | [Silent Credential Theft](https://github.com/Eswar5313/GraySentinel-DSOU-45Day-2026/tree/main/silent-credential-theft) — LSASS access → explicit credentials → payroll share | SOC · 8 Oct 2026 | 20/20 tests · Sigma + Wazuh |
+| 14 | [Consent Trap](https://github.com/Eswar5313/GraySentinel-DSOU-45Day-2026/tree/main/consent-trap) — OAuth consent abuse → mailbox + treasury files | Intel · 8 Oct 2026 | 20/20 tests · Sigma + KQL |
+| 15 | [Ghost Session](https://github.com/Eswar5313/GraySentinel-DSOU-45Day-2026/tree/main/ghost-session) — valid-session abuse across cloud + internal (lab only) | Red-team analysis · 8 Oct 2026 | 20/20 tests · detections |
+
+*Plus 2 certified guided labs (Zero-Day Discovery, macOS miner chain) and the Auth-Log Investigation Tool + SOC Incident Summary Generator → [full repo](https://github.com/Eswar5313/GraySentinel-DSOU-45Day-2026)*
+
+</details>
+
+<details open>
 <summary>☁️ <b>Cloud & Deployment</b></summary>
 <br>
 
@@ -181,8 +200,8 @@
 | 🛒 **E-commerce & Retail** | FORESIGHT (D2C home) · Flipkart CSAT · Zepto AOV · Blinkit strategy · 2,000 SKU · grocery segmentation |
 | 🏦 **Finance & Real Estate** | NSE SQL · Dubai price model · Financial Ledger |
 | 🍽️ **Food & Travel** | Zomato EDA + funnel case · Airbnb dashboard + PLG case · QuickBite system design |
-| 💻 **SaaS & AI** | B2B SaaS ROI case · Tennis API app · AI publications |
-| ⚙️ **Engineering — Semiconductors, Robotics, EV, Security** | 10 VLSI/FPGA designs · 10 robotics simulations · 10 EV systems · 20 defensive security tools |
+| 💻 **SaaS & AI** | WorkRadar AI manager-dashboard MVP · B2B SaaS ROI case · Tennis API app · AI publications |
+| ⚙️ **Engineering — Semiconductors, Robotics, EV, Security** | 10 VLSI/FPGA designs · 10 robotics simulations · 10 EV systems · 20 defensive security tools · 7 GraySentinel war rooms |
 | 🏥 **Health & People** | Mental Health in Tech · Strava-Fitbit |
 
 <img src="https://raw.githubusercontent.com/Eswar5313/Eswar5313/main/assets/divider.svg" width="100%" alt="" />
@@ -193,10 +212,11 @@
 |---|---|
 | 📊 **Data Scientist / Analytics Manager** | FORESIGHT live forecast (WAPE 8.8 %) · 13 end-to-end HEXA projects · CRISP-DM discipline · verified-figures standard |
 | 🚚 **Supply Chain Manager** | FORESIGHT reorder / markdown engine · CadetX warehouse intelligence · 2,000 SKU ABC×XYZ · FedEx EDA |
-| 🧭 **Product Manager** | 12 framework-driven cases with workbooks, decks and PRD / system-design briefs |
+| 🧭 **Product Manager** | 13 framework-driven cases with workbooks, decks and PRD / system-design briefs · [WorkRadar working MVP](https://eswar5313.github.io/product-management-case-studies/13-workradar/) |
 | 💼 **Business Analyst** | Flipkart root-cause · Zepto growth math · ROI workbooks |
 | ⚙️ **Ops Manager** | Uber ops diagnosis · CSAT recovery plans · process metrics · warehouse AMR, parking and conveyor-line simulations with throughput/OEE metrics |
 | 🔌 **Technical / Engineering Analyst** | 50 Codec projects with measured timing, power, accuracy and test evidence; declared substitutions instead of unverifiable claims |
+| 🔵 **SOC / Security Analyst** | 7 GraySentinel war rooms (SOC · intel · red-team analysis) · 11 SOC tools · 174 tests · 20 Codec defensive projects · Sigma / Wazuh / KQL detections |
 
 <img src="https://raw.githubusercontent.com/Eswar5313/Eswar5313/main/assets/divider.svg" width="100%" alt="" />
 

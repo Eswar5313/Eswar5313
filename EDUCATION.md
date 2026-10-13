@@ -14,6 +14,8 @@
 <tr><td align="right"><sub><b>WHY HIRE ME</b></sub></td><td><a href="./ROLES.md"><img src="https://img.shields.io/badge/◆-ROLES-0B1026?style=for-the-badge&labelColor=B388FF" alt="ROLES"/></a> <a href="./EMPLOYABILITY.md"><img src="https://img.shields.io/badge/◆-EMPLOYABILITY-0B1026?style=for-the-badge&labelColor=B388FF" alt="EMPLOYABILITY"/></a> <a href="./IMPACT.md"><img src="https://img.shields.io/badge/◆-IMPACT-0B1026?style=for-the-badge&labelColor=B388FF" alt="IMPACT"/></a> <a href="./LEARNING.md"><img src="https://img.shields.io/badge/◆-LEARNING-0B1026?style=for-the-badge&labelColor=B388FF" alt="LEARNING"/></a> <a href="./MOBILITY.md"><img src="https://img.shields.io/badge/◆-MOBILITY-0B1026?style=for-the-badge&labelColor=B388FF" alt="MOBILITY"/></a> <a href="./INTEGRITY.md"><img src="https://img.shields.io/badge/◆-INTEGRITY-0B1026?style=for-the-badge&labelColor=B388FF" alt="INTEGRITY"/></a></td></tr>
 </tbody></table>
 
+<sub>🟢 <b>NOW · OCT 2026</b> — Data Scientist @ Zidio Development · Associate L1, Generative AI @ Infotact · Blue Team Operator @ GraySentinel · AI Trainer @ micro1 · 110+ projects · 13 PM cases · 1,000+ automated tests · open to Sr Manager / AVP roles</sub>
+
 </div>
 
 
@@ -35,12 +37,12 @@
 
 | Program | Provider | Duration | Focus |
 |---|---|---|---|
-| 🧠 **AI-First Product Management** | Airtribe | Jun 2026 – Jan 2027 | Product sense · strategy · user research · frameworks (RICE, Five Forces, STP, JTBD) |
+| 🧠 **AI-First Product Management** | Airtribe | Jun 2026 – Jan 2027 | Product sense · strategy · user research · frameworks (RICE, Five Forces, STP, JTBD) · now the *AI in Product Management* module — [13 cases incl. WorkRadar MVP](https://github.com/Eswar5313/product-management-case-studies) |
 | 📊 **PG in Data Analytics** | Entri Elevate | Aug 2026 – Feb 2027 | Advanced analytics · SQL · Python · BI |
 | ⚙️ **SAP MM — Logistics/SCM** | Entri Elevate | Jul 2026 – | Materials management · procurement · inventory |
 | 🤖 **AI Generalist Program** | Outskill | Jun 2026 – Feb 2027 | LLMs · prompt engineering · RAG · AI agents |
 | ⚡ **Engineering internship tracks ×4** | Codec Technologies India | Aug – Sep 2026 | EV · Cyber Security · Digital Electronics & VLSI · Robotics & Automation — [50 projects, 50 reports](https://github.com/Eswar5313/Codec-Technologies-Internship-Portfolio-2026) |
-| 🔵 **Blue Team / SOC training** | GraySentinel Cyber Defence Lab | Jul 2026 – | Defensive security operations |
+| 🔵 **Blue Team / SOC training** | GraySentinel Cyber Defence Lab | Jul 2026 – Present | Defensive security operations — [2 certified labs · 7 war rooms · 174 tests](https://github.com/Eswar5313/GraySentinel-DSOU-45Day-2026) |
 
 <img src="https://raw.githubusercontent.com/Eswar5313/Eswar5313/main/assets/divider.svg" width="100%" alt="" />
 
@@ -59,21 +61,21 @@
 ## 🧩 How the Education Stack Fits Together
 
 ```mermaid
-%%{init: {'theme':'base','themeVariables':{'primaryColor':'#222222','primaryTextColor':'#FFFFFF','primaryBorderColor':'#FFFFFF','lineColor':'#FFFFFF','secondaryColor':'#000000','tertiaryColor':'#1A1A1A','cScale0':'#222222','cScale1':'#3A3A3A','cScale2':'#1A1A1A','cScale3':'#2A2A2A','pie1':'#FFFFFF','pie2':'#C9CDD6','pie3':'#9A9A9A','pie4':'#6A6A6A','pie5':'#3A3A3A','pie6':'#1A1A1A','fontFamily':'Georgia, serif'}}}%%
+%%{init: {'theme':'base','themeVariables':{'primaryColor':'#0B1026','primaryTextColor':'#E8F6FF','primaryBorderColor':'#00E5FF','lineColor':'#B388FF','secondaryColor':'#12062B','tertiaryColor':'#1B1F4B','cScale0':'#0B1026','cScale1':'#12062B','cScale2':'#1B1F4B','cScale3':'#0B1026','fontFamily':'Orbitron, Segoe UI, sans-serif'}}}%%
 flowchart TD
     A[🎓 B.Com — Commerce Foundation] --> B[🎓 MBA — Operations + Marketing]
     B --> C[📜 PGDLSCM — Supply Chain Depth]
     C --> D[📊 Data Analytics — Google + Entri PG]
-    D --> E[🤖 AI Layer — Anthropic + Outskill + Airtribe]
-    E --> G[⚡ Engineering Layer — Codec EV · Cyber · VLSI · Robotics]
+    D --> E[🤖 AI Layer — Anthropic + Outskill + Airtribe + Infotact GenAI]
+    E --> G[⚡ Engineering + Security — Codec 4 tracks · GraySentinel Blue Team]
     G --> F[🎯 Target: Sr Manager / AVP\nAnalytics · SCM · Ops · Technical PM]
-    style A fill:#1A1A1A,color:#E5E7EB
-    style B fill:#FFFFFF,color:#E5E7EB
-    style C fill:#1A1A1A,color:#E5E7EB
-    style D fill:#C9CDD6,color:#000000
-    style E fill:#C9CDD6,color:#000000
-    style G fill:#C9CDD6,color:#000000
-    style F fill:#1A1A1A,color:#C9CDD6
+    style A fill:#0B1026,color:#E8F6FF,stroke:#00E5FF
+    style B fill:#0B1026,color:#E8F6FF,stroke:#00E5FF
+    style C fill:#0B1026,color:#E8F6FF,stroke:#00E5FF
+    style D fill:#12062B,color:#E8F6FF,stroke:#B388FF
+    style E fill:#12062B,color:#E8F6FF,stroke:#B388FF
+    style G fill:#12062B,color:#E8F6FF,stroke:#B388FF
+    style F fill:#00E5FF,color:#0B1026,stroke:#00E5FF
 ```
 
 > **The through-line:** commerce fundamentals → business management → supply chain specialization → data analytics capability → AI fluency → hands-on engineering (RTL, robotics, EV, defensive security). Each layer is applied in real projects — see [🚀 Projects](./PROJECTS.md).

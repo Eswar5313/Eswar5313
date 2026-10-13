@@ -14,6 +14,8 @@
 <tr><td align="right"><sub><b>WHY HIRE ME</b></sub></td><td><a href="./ROLES.md"><img src="https://img.shields.io/badge/◆-ROLES-0B1026?style=for-the-badge&labelColor=B388FF" alt="ROLES"/></a> <a href="./EMPLOYABILITY.md"><img src="https://img.shields.io/badge/◆-EMPLOYABILITY-0B1026?style=for-the-badge&labelColor=B388FF" alt="EMPLOYABILITY"/></a> <a href="./IMPACT.md"><img src="https://img.shields.io/badge/◆-IMPACT-0B1026?style=for-the-badge&labelColor=B388FF" alt="IMPACT"/></a> <a href="./LEARNING.md"><img src="https://img.shields.io/badge/◆-LEARNING-0B1026?style=for-the-badge&labelColor=B388FF" alt="LEARNING"/></a> <a href="./MOBILITY.md"><img src="https://img.shields.io/badge/◆-MOBILITY-0B1026?style=for-the-badge&labelColor=B388FF" alt="MOBILITY"/></a> <a href="./INTEGRITY.md"><img src="https://img.shields.io/badge/◆-INTEGRITY-0B1026?style=for-the-badge&labelColor=B388FF" alt="INTEGRITY"/></a></td></tr>
 </tbody></table>
 
+<sub>🟢 <b>NOW · OCT 2026</b> — Data Scientist @ Zidio Development · Associate L1, Generative AI @ Infotact · Blue Team Operator @ GraySentinel · AI Trainer @ micro1 · 110+ projects · 13 PM cases · 1,000+ automated tests · open to Sr Manager / AVP roles</sub>
+
 </div>
 
 
@@ -28,7 +30,9 @@
 | **Portfolio ownership** | Associate Portfolio Manager, Dubai — 100+ HNI accounts | 90 %+ retention |
 | **Process leadership** | Management Trainee, Globus — drove inventory and cycle-time improvements | −30 % stockouts · −22 % delay |
 | **Programme self-management** | Ran 15+ concurrent 2026 engagements with dated deliverables; closed all four Codec Technologies tracks (50 projects) in one 3-day sprint | 110+ projects |
-| **Standards setting** | Wrote the Operator–Analyst framework (8 rules) and the integrity protocol P1–P4 used in every document | Research paper |
+| **Operational tempo** | GraySentinel — three war-room operations (SOC · threat intel · red-team analysis) shipped in a single day, twice (6 and 8 Oct 2026), as one combined submission | [174 tests · 15 deliverables](https://github.com/Eswar5313/GraySentinel-DSOU-45Day-2026) |
+| **Delivery in role** | Data Scientist @ Zidio — took FORESIGHT from data to a live dashboard and scoring API | [Project FORESIGHT](https://github.com/Eswar5313/zidio-data-science-projects) |
+| **Standards setting** | Wrote the Operator–Analyst framework (8 rules) and the integrity protocol P1–P5 used in every document | Research paper |
 | **Planning** | 90-day plan with three live gates; department playbook; KPI scoreboard for HEXA | Fitment Dossier |
 | **Mentoring-ready artefacts** | Formula registers, method books, runbooks written so a junior can reproduce | 187 documented steps |
 
