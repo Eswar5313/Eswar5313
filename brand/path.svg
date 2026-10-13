@@ -1,0 +1,102 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 380" width="1280" height="380" font-family="'Segoe UI','Helvetica Neue',Helvetica,Arial,sans-serif">
+<defs>
+  <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#07140F"/><stop offset="1" stop-color="#0E3A2C"/></linearGradient>
+  <linearGradient id="trail" x1="0" x2="1"><stop offset="0" stop-color="#34D399" stop-opacity="0.35"/><stop offset="0.75" stop-color="#34D399"/><stop offset="1" stop-color="#E9C46A"/></linearGradient>
+  <radialGradient id="halo" cx="50%" cy="50%" r="50%"><stop offset="0" stop-color="#E9C46A" stop-opacity="0.55"/><stop offset="1" stop-color="#E9C46A" stop-opacity="0"/></radialGradient>
+  <clipPath id="c"><rect width="1280" height="380" rx="20"/></clipPath>
+  <style>
+    .draw{stroke-dasharray:2200;stroke-dashoffset:2200;animation:draw 4.5s ease-out forwards}
+    @keyframes draw{to{stroke-dashoffset:0}}
+    .node{opacity:0;animation:pop .6s ease-out forwards}
+    @keyframes pop{from{opacity:0;transform:translateY(8px)}to{opacity:1;transform:translateY(0)}}
+    .pulse{transform-box:fill-box;transform-origin:center;animation:pulse 2.4s ease-in-out infinite}
+    @keyframes pulse{0%,100%{transform:scale(1);opacity:.9}50%{transform:scale(1.35);opacity:.35}}
+    .flow{stroke-dasharray:6 14;animation:flow 1.6s linear infinite}
+    @keyframes flow{to{stroke-dashoffset:-40}}
+  </style>
+</defs>
+<g clip-path="url(#c)">
+<rect width="1280" height="380" fill="url(#bg)"/>
+<g stroke="#34D399" stroke-opacity="0.05"><path d="M0 95H1280M0 190H1280M0 285H1280"/></g>
+<text x="40" y="42" font-size="14" font-weight="600" letter-spacing="5" fill="#34D399">THE PATH</text>
+<text x="150" y="42" font-size="14" fill="#CFE9DD">from operator to founder · 2016 → now</text>
+<path d="M80.0,142.0 C103.1,158.0 172.5,238.0 218.8,238.0 C265.0,238.0 311.2,142.0 357.5,142.0 C403.8,142.0 450.0,238.0 496.2,238.0 C542.5,238.0 588.8,142.0 635.0,142.0 C681.2,142.0 727.5,238.0 773.8,238.0 C820.0,238.0 866.2,142.0 912.5,142.0 C958.8,142.0 1005.0,238.0 1051.2,238.0 C1097.5,238.0 1166.9,158.0 1190.0,142.0" fill="none" stroke="#34D399" stroke-opacity="0.12" stroke-width="10" stroke-linecap="round"/>
+<path d="M80.0,142.0 C103.1,158.0 172.5,238.0 218.8,238.0 C265.0,238.0 311.2,142.0 357.5,142.0 C403.8,142.0 450.0,238.0 496.2,238.0 C542.5,238.0 588.8,142.0 635.0,142.0 C681.2,142.0 727.5,238.0 773.8,238.0 C820.0,238.0 866.2,142.0 912.5,142.0 C958.8,142.0 1005.0,238.0 1051.2,238.0 C1097.5,238.0 1166.9,158.0 1190.0,142.0" fill="none" stroke="url(#trail)" stroke-width="3" stroke-linecap="round" class="draw"/>
+<path d="M80.0,142.0 C103.1,158.0 172.5,238.0 218.8,238.0 C265.0,238.0 311.2,142.0 357.5,142.0 C403.8,142.0 450.0,238.0 496.2,238.0 C542.5,238.0 588.8,142.0 635.0,142.0 C681.2,142.0 727.5,238.0 773.8,238.0 C820.0,238.0 866.2,142.0 912.5,142.0 C958.8,142.0 1005.0,238.0 1051.2,238.0 C1097.5,238.0 1166.9,158.0 1190.0,142.0" fill="none" stroke="#F5F1E8" stroke-opacity="0.35" stroke-width="1.5" class="flow"/>
+
+<g class="node" style="animation-delay:0.35s">
+<circle cx="80.0" cy="142.0" r="8" fill="#0B2A20" stroke="#34D399" stroke-width="2.5"/>
+<circle cx="80.0" cy="142.0" r="3" fill="#34D399"/>
+<text x="66.0" y="80.0" text-anchor="start" font-size="12" font-weight="700" letter-spacing="2" fill="#34D399">2016</text>
+<text x="66.0" y="98.0" text-anchor="start" font-size="14" font-weight="700" fill="#F5F1E8">Digital Marketing</text>
+<text x="66.0" y="114.0" text-anchor="start" font-size="11.5" fill="#CFE9DD">Tidalwave · Digiperform</text>
+<text x="66.0" y="130.0" text-anchor="start" font-size="11.5" font-weight="600" fill="#A7F3D0">campaigns</text>
+</g>
+<g class="node" style="animation-delay:0.80s">
+<circle cx="218.8" cy="238.0" r="8" fill="#0B2A20" stroke="#34D399" stroke-width="2.5"/>
+<circle cx="218.8" cy="238.0" r="3" fill="#34D399"/>
+<text x="218.8" y="276.0" text-anchor="middle" font-size="12" font-weight="700" letter-spacing="2" fill="#34D399">2017</text>
+<text x="218.8" y="294.0" text-anchor="middle" font-size="14" font-weight="700" fill="#F5F1E8">Supply Chain</text>
+<text x="218.8" y="310.0" text-anchor="middle" font-size="11.5" fill="#CFE9DD">Globus Logisys</text>
+<text x="218.8" y="326.0" text-anchor="middle" font-size="11.5" font-weight="600" fill="#A7F3D0">−30% stockouts</text>
+</g>
+<g class="node" style="animation-delay:1.25s">
+<circle cx="357.5" cy="142.0" r="8" fill="#0B2A20" stroke="#34D399" stroke-width="2.5"/>
+<circle cx="357.5" cy="142.0" r="3" fill="#34D399"/>
+<text x="357.5" y="80.0" text-anchor="middle" font-size="12" font-weight="700" letter-spacing="2" fill="#34D399">2019</text>
+<text x="357.5" y="98.0" text-anchor="middle" font-size="14" font-weight="700" fill="#F5F1E8">Fintech Sales</text>
+<text x="357.5" y="114.0" text-anchor="middle" font-size="11.5" fill="#CFE9DD">Paisabazaar</text>
+<text x="357.5" y="130.0" text-anchor="middle" font-size="11.5" font-weight="600" fill="#A7F3D0">28% conversion</text>
+</g>
+<g class="node" style="animation-delay:1.70s">
+<circle cx="496.2" cy="238.0" r="8" fill="#0B2A20" stroke="#34D399" stroke-width="2.5"/>
+<circle cx="496.2" cy="238.0" r="3" fill="#34D399"/>
+<text x="496.2" y="276.0" text-anchor="middle" font-size="12" font-weight="700" letter-spacing="2" fill="#34D399">2021</text>
+<text x="496.2" y="294.0" text-anchor="middle" font-size="14" font-weight="700" fill="#F5F1E8">Dubai Real Estate</text>
+<text x="496.2" y="310.0" text-anchor="middle" font-size="11.5" fill="#CFE9DD">Square Yards</text>
+<text x="496.2" y="326.0" text-anchor="middle" font-size="11.5" font-weight="600" fill="#A7F3D0">100+ HNI clients</text>
+</g>
+<g class="node" style="animation-delay:2.15s">
+<circle cx="635.0" cy="142.0" r="8" fill="#0B2A20" stroke="#34D399" stroke-width="2.5"/>
+<circle cx="635.0" cy="142.0" r="3" fill="#34D399"/>
+<text x="635.0" y="80.0" text-anchor="middle" font-size="12" font-weight="700" letter-spacing="2" fill="#34D399">2021</text>
+<text x="635.0" y="98.0" text-anchor="middle" font-size="14" font-weight="700" fill="#F5F1E8">Automotive</text>
+<text x="635.0" y="114.0" text-anchor="middle" font-size="11.5" fill="#CFE9DD">Spinny · OLX Autos</text>
+<text x="635.0" y="130.0" text-anchor="middle" font-size="11.5" font-weight="600" fill="#A7F3D0">87% FCR</text>
+</g>
+<g class="node" style="animation-delay:2.60s">
+<circle cx="773.8" cy="238.0" r="8" fill="#0B2A20" stroke="#34D399" stroke-width="2.5"/>
+<circle cx="773.8" cy="238.0" r="3" fill="#34D399"/>
+<text x="773.8" y="276.0" text-anchor="middle" font-size="12" font-weight="700" letter-spacing="2" fill="#34D399">2025</text>
+<text x="773.8" y="294.0" text-anchor="middle" font-size="14" font-weight="700" fill="#F5F1E8">Closure Manager</text>
+<text x="773.8" y="310.0" text-anchor="middle" font-size="11.5" fill="#CFE9DD">Spinny</text>
+<text x="773.8" y="326.0" text-anchor="middle" font-size="11.5" font-weight="600" fill="#A7F3D0">250+ deals</text>
+</g>
+<g class="node" style="animation-delay:3.05s">
+<circle cx="912.5" cy="142.0" r="8" fill="#0B2A20" stroke="#34D399" stroke-width="2.5"/>
+<circle cx="912.5" cy="142.0" r="3" fill="#34D399"/>
+<text x="912.5" y="80.0" text-anchor="middle" font-size="12" font-weight="700" letter-spacing="2" fill="#34D399">2026</text>
+<text x="912.5" y="98.0" text-anchor="middle" font-size="14" font-weight="700" fill="#F5F1E8">Data &amp; AI</text>
+<text x="912.5" y="114.0" text-anchor="middle" font-size="11.5" fill="#CFE9DD">HEXA · Zidio · Infotact</text>
+<text x="912.5" y="130.0" text-anchor="middle" font-size="11.5" font-weight="600" fill="#A7F3D0">WAPE 8.8%</text>
+</g>
+<g class="node" style="animation-delay:3.50s">
+<circle cx="1051.2" cy="238.0" r="8" fill="#0B2A20" stroke="#34D399" stroke-width="2.5"/>
+<circle cx="1051.2" cy="238.0" r="3" fill="#34D399"/>
+<text x="1051.2" y="276.0" text-anchor="middle" font-size="12" font-weight="700" letter-spacing="2" fill="#34D399">2026</text>
+<text x="1051.2" y="294.0" text-anchor="middle" font-size="14" font-weight="700" fill="#F5F1E8">Engineering &amp; Security</text>
+<text x="1051.2" y="310.0" text-anchor="middle" font-size="11.5" fill="#CFE9DD">Codec · GraySentinel</text>
+<text x="1051.2" y="326.0" text-anchor="middle" font-size="11.5" font-weight="600" fill="#A7F3D0">50 builds · 1,000+ tests</text>
+</g>
+<g class="node" style="animation-delay:3.95s">
+<circle cx="1190.0" cy="142.0" r="46" fill="url(#halo)" class="pulse"/>
+<circle cx="1190.0" cy="142.0" r="15" fill="#0B2A20" stroke="#E9C46A" stroke-width="3"/>
+<text x="1190.0" y="147.0" text-anchor="middle" font-size="12" font-weight="700" fill="#E9C46A" font-family="Georgia,serif">MJ</text>
+<text x="1230.0" y="56.0" text-anchor="end" font-size="12" font-weight="700" letter-spacing="2" fill="#E9C46A">NOW</text>
+<text x="1230.0" y="74.0" text-anchor="end" font-size="16" font-weight="700" fill="#F5F1E8">FOUNDER</text>
+<text x="1230.0" y="90.0" text-anchor="end" font-size="11.5" fill="#CFE9DD">M.JayaEswar Ventures</text>
+<text x="1230.0" y="106.0" text-anchor="end" font-size="11.5" font-weight="600" fill="#E9C46A">4 brands · Europe</text>
+</g>
+</g>
+<rect x="1" y="1" width="1278" height="378" rx="20" fill="none" stroke="#E9C46A" stroke-opacity="0.35"/>
+</svg>
