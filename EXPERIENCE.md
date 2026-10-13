@@ -44,6 +44,16 @@
 </details>
 
 <details open>
+<summary>🛒 <b>Entrepreneurship — E-commerce</b> — own venture</summary>
+<br>
+
+| Role | Company | Period | What I Run |
+|---|---|---|---|
+| 🛒 **Founder & Operator** | M.JayaEswar Ventures *(remote · Europe-facing)* | 2026 – Present | Parent brand of 4 storefronts — [Enjoyvo](https://enjoyvo.com) flagship (**156 live products**, 10 categories, EUR, own domain) · Enjoyvo Boutique · Lookvio · Lovprint (print-on-demand) · supplier apps + Printful · trust layer, catalogue QA and customer-eye audit of all 5 sites · Stage 1 setup complete Oct 2026, go-live in progress → [Ventures](./VENTURES.md) |
+
+</details>
+
+<details open>
 <summary>⚙️ <b>Engineering & Security — 2026 internship tracks</b></summary>
 <br>
 
@@ -53,7 +63,7 @@
 | 🤖 **Robotics & Automation Intern** | Codec Technologies India *(remote)* | Aug – Sep 2026 | [10 simulation projects](https://github.com/Eswar5313/Codec-Technologies-Internship-Portfolio-2026/tree/main/Robotics-Automation) — A*/Dijkstra AMR (**0 collisions**), Kalman + PID balancing, SLAM search & rescue, drone surveillance, conveyor vision **99.7 %** · 143 tests |
 | ⚡ **Electric Vehicle Intern** | Codec Technologies India *(remote)* | Aug – Sep 2026 | [10 EV projects](https://github.com/Eswar5313/Codec-Technologies-Internship-Portfolio-2026/tree/main/Electric-Vehicle) — BMS with EKF (SOC RMSE **0.63 %**), solar charging techno-economics on NASA POWER data, drivetrain, wireless charging, IEA market forecast · 226 tests |
 | 🛡️ **Cyber Security Intern** | Codec Technologies India *(remote)* | Aug – Sep 2026 | [20 defensive projects](https://github.com/Eswar5313/Codec-Technologies-Internship-Portfolio-2026/tree/main/Cyber-Security) — IDS on NSL-KDD (F1 0.998), phishing detection, ransomware-behaviour detector, forensics, honeypot · 226 tests |
-| 🔵 **Blue Team Operator & Trainee** | GraySentinel Cyber Defence Lab | Jul 2026 – Present | [Blue-team programme](https://github.com/Eswar5313/GraySentinel-DSOU-45Day-2026) — guided zero-day and macOS attack-chain labs · Sigma / Wazuh detection rules · 2 SOC tools, 25 tests |
+| 🔵 **Blue Team Operator & Trainee** | GraySentinel Cyber Defence Lab | Jul 2026 – Present | [Blue-team programme](https://github.com/Eswar5313/GraySentinel-DSOU-45Day-2026) — 2 certified labs (zero-day, macOS attack chain) · 7 war rooms across SOC, threat intel and red-team analysis · Sigma / Wazuh / KQL detections · **11 SOC tools, 174 tests** |
 
 *All 50 Codec projects: one repo, one dashboard → [https://eswar5313.github.io/Codec-Technologies-Internship-Portfolio-2026/](https://eswar5313.github.io/Codec-Technologies-Internship-Portfolio-2026/)*
 
@@ -126,6 +136,7 @@
 | 👥 **The Team Lead** | OLX team leadership · 87% FCR · mentoring & escalation handling |
 | 🌍 **The International Operator** | Dubai HNI portfolio · 15+ nationalities · 4 languages · EU Blue Card track |
 | 🚚 **The Ops Improver** | 30% stockout ↓ · 22% cycle-delay ↓ · Six Sigma Black Belt DMAIC mindset |
+| 🛒 **The Founder-Operator** | M.JayaEswar Ventures — 4 storefronts across Europe built end to end: brands, domain, suppliers, 156-product catalogue, trust layer, staged go-live |
 | 🤖 **The AI-Fluent Professional** | Infotact GenAI associate (LLM apps, RAG) · micro1 AI training · 4 Anthropic certifications · AI-First PM cohort · RAG/agents study |
 
 <img src="https://raw.githubusercontent.com/Eswar5313/Eswar5313/main/assets/divider.svg" width="100%" alt="" />
@@ -143,7 +154,7 @@ timeline
     2021-22 : OLX Autos — Team Lead 📞
     2025-26 : Spinny — Closure Manager 🏆
     2026 : HEXA Solutions — Data Analyst 📊 : Codec Technologies — 4 engineering tracks ⚙️
-    2026-Now : Zidio Development — Data Scientist 📈 ⭐ : Infotact — Generative AI Associate 🧠
+    2026-Now : Zidio Development — Data Scientist 📈 ⭐ : Founder — M.JayaEswar Ventures 🛒 : Infotact — Generative AI Associate 🧠
 ```
 
 > **Why the breadth matters:** most analysts have seen one industry's data. I've operated inside seven — so when I analyze a supply chain, a sales funnel, or a customer-service queue, I've *worked* the process behind the numbers.

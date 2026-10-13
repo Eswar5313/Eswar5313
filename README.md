@@ -3,7 +3,7 @@
 
 <img src="https://raw.githubusercontent.com/Eswar5313/Eswar5313/main/assets/kailash-header.svg" width="100%" alt="Eswar Mahalingam — Career Control Tower" />
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Orbitron&size=22&duration=3000&pause=800&color=00E5FF&center=true&vCenter=true&width=760&lines=Data+Scientist+%40+Zidio+Development;Turning+messy+data+into+business+decisions;SQL+%E2%80%A2+Python+%E2%80%A2+Power+BI+%E2%80%A2+AI+Tools;110%2B+projects+%7C+50+engineering+builds+%7C+live+forecast+in+production;MBA+%7C+Six+Sigma+Black+Belt+%7C+CSCMP+SCPro)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Orbitron&size=22&duration=3000&pause=800&color=00E5FF&center=true&vCenter=true&width=760&lines=Data+Scientist+%40+Zidio+Development;Founder+%E2%80%94+M.JayaEswar+Ventures+(4+e-commerce+brands);Turning+messy+data+into+business+decisions;SQL+%E2%80%A2+Python+%E2%80%A2+Power+BI+%E2%80%A2+AI+Tools;110%2B+projects+%7C+50+engineering+builds+%7C+live+forecast+in+production;MBA+%7C+Six+Sigma+Black+Belt+%7C+CSCMP+SCPro)](https://git.io/typing-svg)
 
 ### 🔱 Open a Panel in Full
 
@@ -13,6 +13,7 @@
 [![Projects](https://img.shields.io/badge/✦-PROJECTS-0B1026?style=for-the-badge&labelColor=00E5FF)](./PROJECTS.md)
 [![Simulations](https://img.shields.io/badge/✦-SIMULATIONS-0B1026?style=for-the-badge&labelColor=B388FF)](./SIMULATIONS.md)
 [![Publications](https://img.shields.io/badge/✦-PUBLICATIONS-0B1026?style=for-the-badge&labelColor=00E5FF)](./PUBLICATIONS.md)
+[![Ventures](https://img.shields.io/badge/✦-VENTURES-0B1026?style=for-the-badge&labelColor=FF4DD8)](./VENTURES.md)
 
 ### 🪔 Capability Panels
 
@@ -46,12 +47,17 @@
 <img src="https://img.shields.io/badge/CSAT-92%25%2B-B388FF?style=for-the-badge&labelColor=0B1026" />
 
 <img src="https://img.shields.io/badge/DATA_PROJECTS-13-3D5AFE?style=for-the-badge&labelColor=0B1026" />
-<img src="https://img.shields.io/badge/PM_CASE_STUDIES-12-3D5AFE?style=for-the-badge&labelColor=0B1026" />
+<img src="https://img.shields.io/badge/PM_CASE_STUDIES-13-3D5AFE?style=for-the-badge&labelColor=0B1026" />
 <img src="https://img.shields.io/badge/ENGINEERING_PROJECTS-50-3D5AFE?style=for-the-badge&labelColor=0B1026" />
-<img src="https://img.shields.io/badge/AUTOMATED_TESTS-620%2B-3D5AFE?style=for-the-badge&labelColor=0B1026" />
+<img src="https://img.shields.io/badge/AUTOMATED_TESTS-765%2B-3D5AFE?style=for-the-badge&labelColor=0B1026" />
 <img src="https://img.shields.io/badge/JOB_SIMULATIONS-66-3D5AFE?style=for-the-badge&labelColor=0B1026" />
 <img src="https://img.shields.io/badge/FORECAST_WAPE-8.8%25_vs_11.2%25_naive-00E5FF?style=for-the-badge&labelColor=0B1026" />
-<img src="https://img.shields.io/badge/SOC_LABS_%2B_TOOLS-4-00E5FF?style=for-the-badge&labelColor=0B1026" />
+<img src="https://img.shields.io/badge/SOC_TOOLS-11-00E5FF?style=for-the-badge&labelColor=0B1026" />
+
+<img src="https://img.shields.io/badge/FOUNDER-M.JayaEswar_Ventures-FF4DD8?style=for-the-badge&labelColor=0B1026" />
+<img src="https://img.shields.io/badge/E--COMMERCE_STOREFRONTS-4-FF4DD8?style=for-the-badge&labelColor=0B1026" />
+<img src="https://img.shields.io/badge/FLAGSHIP_LIVE_PRODUCTS-156-FF4DD8?style=for-the-badge&labelColor=0B1026" />
+<img src="https://img.shields.io/badge/MARKET-Europe_·_EUR-FF4DD8?style=for-the-badge&labelColor=0B1026" />
 
 </div>
 
@@ -67,10 +73,11 @@
 | Signal | Status |
 |---|---|
 | 💼 **Role** | Data Scientist @ **Zidio Development** (Data Science & Analytics) — **Project FORESIGHT** demand-forecast platform [live](https://foresight-northbay.netlify.app), WAPE 8.8 % vs 11.2 % seasonal-naive |
+| 🛒 **Founder** | **M.JayaEswar Ventures** — parent brand of 4 Europe-facing e-commerce storefronts: [Enjoyvo](https://enjoyvo.com) (flagship, 156 products, EUR) · Enjoyvo Boutique · Lookvio · Lovprint — setup stage 1 complete, go-live in progress → [Ventures panel](./VENTURES.md) |
 | 📍 **Base** | Ghaziabad, NCR, India |
 | 🧠 **Also** | Infotact Solutions — Associate L1, Generative AI (LLM apps · RAG) · GraySentinel DSOU — Blue Team Operator · CadetX — warehouse analytics squad · micro1 — AI Trainer |
 | ✅ **Completed 2026** | HEXA Solutions — Data Analyst (13 projects) · Codec Technologies — 4 engineering tracks, 50 projects |
-| 📚 **Learning** | AI-First PM — 12 cases (latest: Airbnb PLG · QuickBite & SkillBridge system design) · now *AI in Product Management* module · SAP MM · German A1 🇩🇪 |
+| 📚 **Learning** | AI-First PM — 13 cases (latest: **WorkRadar** AI manager-dashboard MVP) · *AI in Product Management* module · SAP MM · German A1 🇩🇪 |
 | 🎯 **Targeting** | Sr Manager / AVP — Analytics · SCM · Ops |
 | 🌍 **Open to** | India · EU (Blue Card) · Gulf · Immediate |
 
@@ -95,6 +102,29 @@
 </td>
 </tr>
 </table>
+
+<img src="https://raw.githubusercontent.com/Eswar5313/Eswar5313/main/assets/divider.svg" width="100%" alt="" />
+
+<!-- ═══════════════ VENTURES PANEL ═══════════════ -->
+<div align="center">
+
+### 🛒 Ventures Panel — M.JayaEswar Ventures
+
+**Founder & Operator** · parent brand of four e-commerce storefronts selling across 🇪🇺 Europe in EUR
+
+</div>
+
+| Brand | What it sells | Platform | Status |
+|---|---|---|---|
+| 🛍️ **[Enjoyvo](https://enjoyvo.com)** — flagship | Everyday essentials — home, kitchen, beauty, fashion, electronics, car accessories · **156 live products** · 10 categories | FatherShops + FatherStock supplier app · own domain | 🟢 Storefront live · checkout activating |
+| 💎 **[Enjoyvo Boutique](https://enjoymart-store.myshopify.com)** | Silver jewellery, hair extensions, cotton basics | Shopify | 🟢 Live · PayPal checkout |
+| ✨ **[Lookvio](https://lookkart-store.myshopify.com)** | Trending finds — fitness, beauty, pets, home | Shopify | 🟡 Storefront live · checkout activating |
+| 🎨 **Lovprint** | Print-on-demand T-shirts, hoodies, mugs, gifts | Shopify + Printful | ⏳ Launching soon |
+| 🏛️ **[M.JayaEswar Ventures](https://mjayaeswar-ventures.polsia.app)** | Group site bringing all four brands together | Polsia | 🟢 Live · brand list being updated |
+
+**Setup roadmap:** ✅ **Stage 1 · Setup** — brand architecture, names, domain, 4 stores built, 156-product catalogue, trust layer, customer-eye audit of all 5 sites *(done 12 Oct 2026)* → 🔄 **Stage 2 · Go-live** — payments, shipping, test orders, Lovprint launch *(finishing now)* → ⏳ **Stage 3 · Growth** — tracking pixels, own domains, Instagram per brand, Meta ads under the parent brand
+
+➡️ [Full Ventures page — what was built, skills used and the roadmap](./VENTURES.md)
 
 <img src="https://raw.githubusercontent.com/Eswar5313/Eswar5313/main/assets/divider.svg" width="100%" alt="" />
 
@@ -125,6 +155,7 @@
 ![Sigma](https://img.shields.io/badge/Sigma_rules-1B1F4B?style=flat-square)
 ![Git](https://img.shields.io/badge/Git-0B1026?style=flat-square&logo=git&logoColor=00E5FF)
 ![Netlify](https://img.shields.io/badge/Netlify-0B1026?style=flat-square&logo=netlify&logoColor=00E5FF)
+![Shopify](https://img.shields.io/badge/Shopify-0B1026?style=flat-square&logo=shopify&logoColor=00E5FF)
 
 </div>
 
@@ -140,10 +171,10 @@
 | Repo | Contents |
 |---|---|
 | 📊 [`hexa-data-analytics-portfolio`](https://github.com/Eswar5313/hexa-data-analytics-portfolio) | **13 projects** — EDA · SQL · ML · API · dashboards |
-| 🧭 [`product-management-case-studies`](https://github.com/Eswar5313/product-management-case-studies) | **12 cases** — Uber · Zepto · Nykaa · B2B SaaS · Blinkit · VitaFit PRD · Zomato funnel · **Airbnb PLG · QuickBite · SkillBridge Compass** |
+| 🧭 [`product-management-case-studies`](https://github.com/Eswar5313/product-management-case-studies) | **13 cases** — Uber · Zepto · Nykaa · B2B SaaS · Blinkit · VitaFit PRD · Zomato funnel · Airbnb PLG · QuickBite · SkillBridge Compass · **WorkRadar AI dashboard MVP ([live](https://eswar5313.github.io/product-management-case-studies/13-workradar/))** |
 | ⚙️ [`Codec-Technologies-Internship-Portfolio-2026`](https://github.com/Eswar5313/Codec-Technologies-Internship-Portfolio-2026) | **50 projects** — VLSI · Robotics · EV · Cyber · 50 report PDFs · [live dashboard](https://eswar5313.github.io/Codec-Technologies-Internship-Portfolio-2026/) |
 | 📈 [`zidio-data-science-projects`](https://github.com/Eswar5313/zidio-data-science-projects) — **Project FORESIGHT** | **Live** — [foresight-northbay.netlify.app](https://foresight-northbay.netlify.app) · weekly SKU forecast + stockout/overstock risk scoring + `/api/score` service · WAPE **8.8 %** vs 11.2 % naive |
-| 🔵 [`GraySentinel-DSOU-45Day-2026`](https://github.com/Eswar5313/GraySentinel-DSOU-45Day-2026) | **Blue Team programme** — Day 1 Zero-Day lab + Sigma rule · Day 2 macOS miner chain · Auth-Log Investigation Tool · SOC Incident Summary Generator · 25 tests · root dashboard |
+| 🔵 [`GraySentinel-DSOU-45Day-2026`](https://github.com/Eswar5313/GraySentinel-DSOU-45Day-2026) | **Blue Team programme** — 2 certified labs · **7 war rooms** (SOC · threat intel · red-team analysis) · **11 SOC tools** · **174 tests** · Sigma / Wazuh / KQL rules · 0 exploit code · [live dashboard](https://eswar5313.github.io/GraySentinel-DSOU-45Day-2026/) |
 | 🏗️ [`Cadetx-Junior-DA`](https://github.com/Eswar5313/Cadetx-Junior-DA) | **Heavy Warehouse Intelligence** — 12-sprint warehouse & supplier analytics (6 branches · 30 SKUs · 8 suppliers · 2019–24) |
 | 🎓 [`Internship-Studio-Projects-2026`](https://github.com/Eswar5313/Internship-Studio-Projects-2026) | **18 subject projects** — AI · data science · testing · C++ · energy · RCC · finance · HR · AWS · export finance |
 | 🗂️ [`Eswar-Master-Project-Portfolio-2026`](https://github.com/Eswar5313/Eswar-Master-Project-Portfolio-2026) · [`Eswar-Portfolio-Lens-Index-2026`](https://github.com/Eswar5313/Eswar-Portfolio-Lens-Index-2026) | **110+ projects** in one navigable registry, plus 10 lenses (skills · tools · sectors · roles · methods…) |
@@ -201,6 +232,9 @@ GraySentinel DSOU Day 1 Zero-Day certificate · Codec Technologies — Cyber Sec
 
 | Date | What shipped | Proof |
 |---|---|---|
+| 12 Oct | **M.JayaEswar Ventures — Stage 1 business setup complete**: parent brand + 4 Europe-facing storefronts (Enjoyvo flagship · Enjoyvo Boutique · Lookvio · Lovprint); enjoyvo.com finished with 156 live products in EUR, trust layer and captcha; customer-eye audit of all 5 sites | [Ventures](./VENTURES.md) · [enjoyvo.com](https://enjoyvo.com) |
+| 12 Oct | **WorkRadar** — AI-powered manager dashboard: 2-page PRD → UX → working MVP (plain HTML/JS, transparent priority score), PM case 13 | [Live MVP](https://eswar5313.github.io/product-management-case-studies/13-workradar/) |
+| 5–8 Oct | **GraySentinel war rooms** — 7 cases: Silent RDP Login · Ghost Admin · Cloud Token Blackout · Broken Pipeline · Silent Credential Theft · Consent Trap · Ghost Session — 174 tests, 11 SOC tools, Sigma / Wazuh / KQL detections | [GraySentinel-DSOU-45Day-2026](https://github.com/Eswar5313/GraySentinel-DSOU-45Day-2026) |
 | 3 Oct | **PM Case Notes** blog live — VitaFit PRD · Zomato funnel · Airbnb PLG | [Live](https://eswar-pm-case-notes.netlify.app) |
 | 27 Sep | **SkillBridge "Compass"** learning-recommendation system design (hybrid batch + real-time re-rank) and **QuickBite** 5k → 2M-user rollout design brief | [PM cases](https://github.com/Eswar5313/product-management-case-studies) |
 | 25 Sep | Joined **Infotact Solutions** as Associate L1 — Generative AI (LLM apps · RAG · evaluation) | [Experience](./EXPERIENCE.md) |
@@ -233,7 +267,7 @@ timeline
     2021-22 : Team Lead — OLX Autos 📞
     2025-26 : Closure Manager — Spinny (250+ deals, Top Consultant Q2)
     2026 : Data Analyst — HEXA Solutions 📊 : Codec Technologies — VLSI · Robotics · EV · Cyber ⚙️
-    2026-Now : Data Scientist — Zidio Development 📈 ⭐ : GenAI Associate — Infotact 🧠 : Blue Team Operator — GraySentinel 🔵
+    2026-Now : Data Scientist — Zidio Development 📈 ⭐ : Founder — M.JayaEswar Ventures 🛒 : GenAI Associate — Infotact 🧠 : Blue Team Operator — GraySentinel 🔵
 ```
 
 <div align="center">
@@ -241,7 +275,8 @@ timeline
 | 🏢 | Role | Key Number |
 |---|---|---|
 | **Zidio Development** | Data Scientist 🔥 | **Project FORESIGHT live** · WAPE 8.8 % vs 11.2 % naive · 8 reorder / 8 markdown / 34 healthy SKUs |
-| **GraySentinel Cyber Defence Lab** | Blue Team Operator & Trainee | Zero-Day lab cert · Sigma rule (ATT&CK T1053.003) · 2 SOC tools · 25 tests |
+| **M.JayaEswar Ventures** | Founder & Operator 🛒 | 4 Europe-facing storefronts + parent brand · **156 live products** on enjoyvo.com · Stage 1 setup complete Oct 2026 |
+| **GraySentinel Cyber Defence Lab** | Blue Team Operator & Trainee | 2 certified labs · 7 war rooms · **11 SOC tools · 174 tests** · Sigma / Wazuh / KQL rules |
 | **Infotact Solutions** | Associate L1 — Generative AI | LLM apps · RAG · prompt engineering (Sep 2026 →) |
 | **Codec Technologies** | Engineering intern — 4 tracks (Aug–Sep 2026) | **50 projects · 595+ tests · 50 reports** |
 | **HEXA Solutions** | Data Analyst (Jun–Sep 2026) | 13-project portfolio |
@@ -305,6 +340,7 @@ timeline
 [![Phone](https://img.shields.io/badge/✦-+91_9360548243-0B1026?style=for-the-badge&labelColor=B388FF)](tel:+919360548243)
 [![Portfolio](https://img.shields.io/badge/✦-PORTFOLIO_SITE-0B1026?style=for-the-badge&labelColor=00E5FF)](https://eswar-3d-portfolio.netlify.app)
 [![Master](https://img.shields.io/badge/✦-MASTER_PORTFOLIO-0B1026?style=for-the-badge&labelColor=B388FF)](https://eswar5313.github.io/Eswar-Master-Project-Portfolio-2026/)
+[![Enjoyvo](https://img.shields.io/badge/✦-ENJOYVO.COM-0B1026?style=for-the-badge&labelColor=FF4DD8)](https://enjoyvo.com)
 
 <img src="https://raw.githubusercontent.com/Eswar5313/Eswar5313/main/assets/kailash-footer.svg" width="100%" alt="" />
 

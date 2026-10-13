@@ -22,7 +22,7 @@
 <div align="center">
 
 <img src="https://img.shields.io/badge/DATA_PROJECTS-13-B388FF?style=for-the-badge&labelColor=0B1026" />
-<img src="https://img.shields.io/badge/PM_CASE_STUDIES-12-00E5FF?style=for-the-badge&labelColor=B388FF" />
+<img src="https://img.shields.io/badge/PM_CASE_STUDIES-13-00E5FF?style=for-the-badge&labelColor=B388FF" />
 <img src="https://img.shields.io/badge/LIVE_TOOLS-3%2B-B388FF?style=for-the-badge&labelColor=0B1026" />
 <img src="https://img.shields.io/badge/ENGINEERING_PROJECTS-50-00E5FF?style=for-the-badge&labelColor=B388FF" />
 
@@ -36,7 +36,8 @@
 |---|---|---|---|
 | 📈 **Project FORESIGHT** — demand forecasting & inventory-risk platform for NorthBay Living (D2C home & lifestyle) | Zidio Development · Data Scientist | Rolling-origin backtest **WAPE 8.8 % (LightGBM) vs 11.2 % seasonal-naive** · Dec-2025 holdout 9.3 % vs 12.4 % · 8 reorder-now / 8 markdown / 34 healthy SKUs · live `/api/score` | [Live](https://foresight-northbay.netlify.app) · [repo](https://github.com/Eswar5313/zidio-data-science-projects) |
 | 🏗️ **Heavy Warehouse Intelligence (HWI)** — 12-sprint analytics framework, 6 branches · 30 heavy-machinery SKUs · 8 suppliers · 500 customers · 2019–2024 | CadetX Virtual Work Experience · team of 3 | Data dictionary, KPI framework, data-quality report, profiling + cleaning notebooks, `hwi` Python package, Excel control book | [repo](https://github.com/Eswar5313/Cadetx-Junior-DA) |
-| 🔵 **SOC tooling & detection labs** — Auth-Log Investigation Tool · SOC Incident Summary Generator · Sigma / Wazuh rules | GraySentinel DSOU · Blue Team | 2 guided labs · 2 stdlib-Python tools · **25 tests** · ATT&CK-mapped Sigma rule (T1053.003) | [repo](https://github.com/Eswar5313/GraySentinel-DSOU-45Day-2026) |
+| 🔵 **SOC tooling & detection labs** — Auth-Log Investigation Tool · SOC Incident Summary Generator · 7 war rooms (SOC · threat intel · red-team analysis) · Sigma / Wazuh / KQL rules | GraySentinel DSOU · Blue Team | 2 certified labs · **11 SOC tools** · **174 tests** · ATT&CK-mapped detections · 0 exploit code | [repo](https://github.com/Eswar5313/GraySentinel-DSOU-45Day-2026) · [dashboard](https://eswar5313.github.io/GraySentinel-DSOU-45Day-2026/) |
+| 🛒 **M.JayaEswar Ventures — 4-store e-commerce setup** — Enjoyvo (flagship) · Enjoyvo Boutique · Lookvio · Lovprint | Own venture · Founder & Operator | **156 live products** · 10 categories · EUR · own domain · customer-eye audit of all 5 sites · Stage 1 complete Oct 2026 | [Ventures](./VENTURES.md) · [enjoyvo.com](https://enjoyvo.com) |
 | 🌍 **Export order payment & finance model** — 5 payment terms, PV @ 12 %, UCP 600 discrepancy check | Internship Studio · International Business | Recommend **confirmed sight LC** — PV USD 579,735, all-in 3.38 % · 249 formulas, 0 errors | [repo](https://github.com/Eswar5313/Internship-Studio-Projects-2026) |
 
 <img src="https://raw.githubusercontent.com/Eswar5313/Eswar5313/main/assets/divider.svg" width="100%" alt="" />
@@ -112,8 +113,9 @@
 | 🏡 Airbnb India — PLG loops, MVPs & revenue model | 6 enablers · 6 loops · 4 MVPs · five-layer revenue model · 177 formulas |
 | 🛵 QuickBite — national-rollout system design brief | 5k → 2M users · data model · architecture · incident drill · 280 formulas |
 | 🎓 SkillBridge "Compass" — learning recommendation system | Hybrid batch top-50 + real-time re-rank · NFRs in 7 categories · 159 formulas |
+| 📡 WorkRadar — AI-powered manager dashboard | 2-page PRD → UX → [working MVP](https://eswar5313.github.io/product-management-case-studies/13-workradar/) · transparent priority score · plain HTML/JS, no build step |
 
-*All 12 cases → [product-management-case-studies](https://github.com/Eswar5313/product-management-case-studies)*
+*All 13 cases → [product-management-case-studies](https://github.com/Eswar5313/product-management-case-studies)*
 
 </details>
 
