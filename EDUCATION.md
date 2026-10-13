@@ -1,0 +1,97 @@
+<!-- ═══════════════ HORIZON 2047 · EDUCATION ═══════════════ -->
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/Eswar5313/Eswar5313/main/assets/headers/EDUCATION.svg" width="100%" alt="Education — Eswar Mahalingam, Founder Dashboard" />
+
+<a href="./README.md"><img src="https://img.shields.io/badge/⬅-FOUNDER_DASHBOARD-0B1026?style=for-the-badge&labelColor=00E5FF" alt="Back to Founder Dashboard"/></a> <a href="https://eswar5313.github.io/Eswar-Master-Project-Portfolio-2026/"><img src="https://img.shields.io/badge/✦-MASTER_PORTFOLIO_·_110%2B-0B1026?style=for-the-badge&labelColor=00E5FF" alt="Master Portfolio"/></a> <a href="https://eswar5313.github.io/Codec-Technologies-Internship-Portfolio-2026/"><img src="https://img.shields.io/badge/✦-CODEC_·_50_ENGINEERING-0B1026?style=for-the-badge&labelColor=B388FF" alt="Codec portfolio"/></a> <a href="https://eswar5313.github.io/Eswar-Portfolio-Lens-Index-2026/"><img src="https://img.shields.io/badge/✦-LENS_INDEX-0B1026?style=for-the-badge&labelColor=B388FF" alt="Lens Index"/></a>
+
+<table><tbody>
+<tr><td align="right"><sub><b>WHO I AM</b></sub></td><td><a href="./FOUNDER.md"><img src="https://img.shields.io/badge/✦-FOUNDER-0B1026?style=for-the-badge&labelColor=E9C46A" alt="FOUNDER"/></a> <img src="https://img.shields.io/badge/✦-EDUCATION-00E5FF?style=for-the-badge&labelColor=0B1026" alt="EDUCATION (this page)"/> <a href="./EXPERIENCE.md"><img src="https://img.shields.io/badge/✦-EXPERIENCE-0B1026?style=for-the-badge&labelColor=B388FF" alt="EXPERIENCE"/></a> <a href="./CERTIFICATIONS.md"><img src="https://img.shields.io/badge/✦-CERTIFICATIONS-0B1026?style=for-the-badge&labelColor=B388FF" alt="CERTIFICATIONS"/></a></td></tr>
+<tr><td align="right"><sub><b>WHAT I BUILT</b></sub></td><td><a href="./PROJECTS.md"><img src="https://img.shields.io/badge/✦-PROJECTS-0B1026?style=for-the-badge&labelColor=B388FF" alt="PROJECTS"/></a> <a href="./SIMULATIONS.md"><img src="https://img.shields.io/badge/✦-SIMULATIONS-0B1026?style=for-the-badge&labelColor=B388FF" alt="SIMULATIONS"/></a> <a href="./PUBLICATIONS.md"><img src="https://img.shields.io/badge/✦-PUBLICATIONS-0B1026?style=for-the-badge&labelColor=B388FF" alt="PUBLICATIONS"/></a></td></tr>
+<tr><td align="right"><sub><b>WHAT I CAN DO</b></sub></td><td><a href="./SKILLS.md"><img src="https://img.shields.io/badge/◆-SKILLS-0B1026?style=for-the-badge&labelColor=B388FF" alt="SKILLS"/></a> <a href="./TOOLS.md"><img src="https://img.shields.io/badge/◆-TOOLS-0B1026?style=for-the-badge&labelColor=B388FF" alt="TOOLS"/></a> <a href="./METHODS.md"><img src="https://img.shields.io/badge/◆-METHODS-0B1026?style=for-the-badge&labelColor=B388FF" alt="METHODS"/></a></td></tr>
+<tr><td align="right"><sub><b>WHERE I HAVE WORKED</b></sub></td><td><a href="./DOMAINS.md"><img src="https://img.shields.io/badge/◆-DOMAINS-0B1026?style=for-the-badge&labelColor=B388FF" alt="DOMAINS"/></a> <a href="./SECTORS.md"><img src="https://img.shields.io/badge/◆-SECTORS-0B1026?style=for-the-badge&labelColor=B388FF" alt="SECTORS"/></a> <a href="./INDUSTRIES.md"><img src="https://img.shields.io/badge/◆-INDUSTRIES-0B1026?style=for-the-badge&labelColor=B388FF" alt="INDUSTRIES"/></a></td></tr>
+<tr><td align="right"><sub><b>HOW I WORK</b></sub></td><td><a href="./RESPONSIBILITIES.md"><img src="https://img.shields.io/badge/◆-RESPONSIBILITIES-0B1026?style=for-the-badge&labelColor=B388FF" alt="RESPONSIBILITIES"/></a> <a href="./DUTIES.md"><img src="https://img.shields.io/badge/◆-DUTIES-0B1026?style=for-the-badge&labelColor=B388FF" alt="DUTIES"/></a> <a href="./SOFT_SKILLS.md"><img src="https://img.shields.io/badge/◆-SOFT_SKILLS-0B1026?style=for-the-badge&labelColor=B388FF" alt="SOFT_SKILLS"/></a> <a href="./LEADERSHIP.md"><img src="https://img.shields.io/badge/◆-LEADERSHIP-0B1026?style=for-the-badge&labelColor=B388FF" alt="LEADERSHIP"/></a></td></tr>
+<tr><td align="right"><sub><b>WHY HIRE ME</b></sub></td><td><a href="./ROLES.md"><img src="https://img.shields.io/badge/◆-ROLES-0B1026?style=for-the-badge&labelColor=B388FF" alt="ROLES"/></a> <a href="./EMPLOYABILITY.md"><img src="https://img.shields.io/badge/◆-EMPLOYABILITY-0B1026?style=for-the-badge&labelColor=B388FF" alt="EMPLOYABILITY"/></a> <a href="./IMPACT.md"><img src="https://img.shields.io/badge/◆-IMPACT-0B1026?style=for-the-badge&labelColor=B388FF" alt="IMPACT"/></a> <a href="./LEARNING.md"><img src="https://img.shields.io/badge/◆-LEARNING-0B1026?style=for-the-badge&labelColor=B388FF" alt="LEARNING"/></a> <a href="./MOBILITY.md"><img src="https://img.shields.io/badge/◆-MOBILITY-0B1026?style=for-the-badge&labelColor=B388FF" alt="MOBILITY"/></a> <a href="./INTEGRITY.md"><img src="https://img.shields.io/badge/◆-INTEGRITY-0B1026?style=for-the-badge&labelColor=B388FF" alt="INTEGRITY"/></a></td></tr>
+</tbody></table>
+
+<sub>🟢 <b>NOW · OCT 2026</b> — <b>Founder, M.JayaEswar Ventures</b> (four online brands selling across Europe in EUR) · 2026 journey: Data Scientist (Zidio) · Generative AI Associate (Infotact) · Blue Team Operator (GraySentinel) · 110+ projects · 13 PM cases · 1,000+ automated tests · open to partnerships and senior roles · <a href="./FOUNDER.md">Founder page →</a></sub>
+
+</div>
+
+
+<img src="https://raw.githubusercontent.com/Eswar5313/Eswar5313/main/assets/divider.svg" width="100%" alt="" />
+
+## 🎓 Formal Degrees
+
+| Qualification | Institution | Specialization | Result |
+|---|---|---|---|
+| 🎓 **Master of Business Administration (MBA)** | SRM Institute of Science & Technology, Chennai | Operations & Marketing (dual) | **First Class** |
+| 🎓 **Bachelor of Commerce (B.Com)** | University of Madras | Commerce | Completed |
+| 📜 **PG Diploma in Logistics & Supply Chain Management** | — | Logistics & SCM | Completed |
+
+**Post-nominals:** B.Com, MBA, PGDLSCM, SSBB, SCPro, SFCA, GCDA, GCBI, GCPM
+
+<img src="https://raw.githubusercontent.com/Eswar5313/Eswar5313/main/assets/divider.svg" width="100%" alt="" />
+
+## 📚 Ongoing Structured Programs (2026–27)
+
+| Program | Provider | Duration | Focus |
+|---|---|---|---|
+| 🧠 **AI-First Product Management** | Airtribe | Jun 2026 – Jan 2027 | Product sense · strategy · user research · frameworks (RICE, Five Forces, STP, JTBD) · now the *AI in Product Management* module — [13 cases incl. WorkRadar MVP](https://github.com/Eswar5313/product-management-case-studies) |
+| 📊 **PG in Data Analytics** | Entri Elevate | Aug 2026 – Feb 2027 | Advanced analytics · SQL · Python · BI |
+| ⚙️ **SAP MM — Logistics/SCM** | Entri Elevate | Jul 2026 – | Materials management · procurement · inventory |
+| 🤖 **AI Generalist Program** | Outskill | Jun 2026 – Feb 2027 | LLMs · prompt engineering · RAG · AI agents |
+| ⚡ **Engineering internship tracks ×4** | Codec Technologies India | Aug – Sep 2026 | EV · Cyber Security · Digital Electronics & VLSI · Robotics & Automation — [50 projects, 50 reports](https://github.com/Eswar5313/Codec-Technologies-Internship-Portfolio-2026) |
+| 🔵 **Blue Team / SOC training** | GraySentinel Cyber Defence Lab | 2026 | Defensive security operations — [2 certified labs · 7 war rooms · 174 tests](https://github.com/Eswar5313/GraySentinel-DSOU-45Day-2026) |
+
+<img src="https://raw.githubusercontent.com/Eswar5313/Eswar5313/main/assets/divider.svg" width="100%" alt="" />
+
+## 🗣️ Languages
+
+| Language | Level |
+|---|---|
+| 🇬🇧 English | Fluent — professional working |
+| 🇮🇳 Hindi | Fluent |
+| 🇮🇳 Tamil | Fluent (native) |
+| 🇮🇳 Telugu | Fluent |
+| 🇩🇪 German | A1 — in progress (EU Blue Card track) |
+
+<img src="https://raw.githubusercontent.com/Eswar5313/Eswar5313/main/assets/divider.svg" width="100%" alt="" />
+
+## 🧩 How the Education Stack Fits Together
+
+```mermaid
+%%{init: {'theme':'base','themeVariables':{'primaryColor':'#0B1026','primaryTextColor':'#E8F6FF','primaryBorderColor':'#00E5FF','lineColor':'#B388FF','secondaryColor':'#12062B','tertiaryColor':'#1B1F4B','cScale0':'#0B1026','cScale1':'#12062B','cScale2':'#1B1F4B','cScale3':'#0B1026','fontFamily':'Orbitron, Segoe UI, sans-serif'}}}%%
+flowchart TD
+    A[🎓 B.Com — Commerce Foundation] --> B[🎓 MBA — Operations + Marketing]
+    B --> C[📜 PGDLSCM — Supply Chain Depth]
+    C --> D[📊 Data Analytics — Google + Entri PG]
+    D --> E[🤖 AI Layer — Anthropic + Outskill + Airtribe + Infotact GenAI]
+    E --> G[⚡ Engineering + Security — Codec 4 tracks · GraySentinel Blue Team]
+    G --> F[🎯 Target: Sr Manager / AVP\nAnalytics · SCM · Ops · Technical PM]
+    style A fill:#0B1026,color:#E8F6FF,stroke:#00E5FF
+    style B fill:#0B1026,color:#E8F6FF,stroke:#00E5FF
+    style C fill:#0B1026,color:#E8F6FF,stroke:#00E5FF
+    style D fill:#12062B,color:#E8F6FF,stroke:#B388FF
+    style E fill:#12062B,color:#E8F6FF,stroke:#B388FF
+    style G fill:#12062B,color:#E8F6FF,stroke:#B388FF
+    style F fill:#00E5FF,color:#0B1026,stroke:#00E5FF
+```
+
+> **The through-line:** commerce fundamentals → business management → supply chain specialization → data analytics capability → AI fluency → hands-on engineering (RTL, robotics, EV, defensive security). Each layer is applied in real projects — see [🚀 Projects](./PROJECTS.md).
+
+<img src="https://raw.githubusercontent.com/Eswar5313/Eswar5313/main/assets/divider.svg" width="100%" alt="" />
+
+<div align="center">
+
+**Eswar Mahalingam** · Founder, M.JayaEswar Ventures · MBA · CSCMP SCPro · Six Sigma Black Belt · Ghaziabad NCR, India · Open to partnerships and senior roles — India · EU · Gulf
+
+[![LinkedIn](https://img.shields.io/badge/✦-LINKEDIN-0B1026?style=for-the-badge&labelColor=B388FF)](https://linkedin.com/in/eswar-mahalingam)
+[![Email](https://img.shields.io/badge/✦-EMAIL-0B1026?style=for-the-badge&labelColor=00E5FF)](mailto:eswarmba05313@gmail.com)
+[![Phone](https://img.shields.io/badge/✦-+91_9360548243-0B1026?style=for-the-badge&labelColor=B388FF)](tel:+919360548243)
+[![Portfolio](https://img.shields.io/badge/✦-PORTFOLIO_SITE-0B1026?style=for-the-badge&labelColor=00E5FF)](https://eswar-3d-portfolio.netlify.app)
+[![Top](https://img.shields.io/badge/⬆-FOUNDER_DASHBOARD-0B1026?style=for-the-badge&labelColor=00E5FF)](./README.md)
+
+<img src="https://raw.githubusercontent.com/Eswar5313/Eswar5313/main/assets/kailash-footer.svg" width="100%" alt="" />
+
+</div>

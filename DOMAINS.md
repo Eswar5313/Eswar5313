@@ -1,0 +1,77 @@
+<!-- ═══════════════ HORIZON 2047 · DOMAINS ═══════════════ -->
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/Eswar5313/Eswar5313/main/assets/headers/DOMAINS.svg" width="100%" alt="Domains — Eswar Mahalingam, Founder Dashboard" />
+
+<a href="./README.md"><img src="https://img.shields.io/badge/⬅-FOUNDER_DASHBOARD-0B1026?style=for-the-badge&labelColor=00E5FF" alt="Back to Founder Dashboard"/></a> <a href="https://eswar5313.github.io/Eswar-Master-Project-Portfolio-2026/"><img src="https://img.shields.io/badge/✦-MASTER_PORTFOLIO_·_110%2B-0B1026?style=for-the-badge&labelColor=00E5FF" alt="Master Portfolio"/></a> <a href="https://eswar5313.github.io/Codec-Technologies-Internship-Portfolio-2026/"><img src="https://img.shields.io/badge/✦-CODEC_·_50_ENGINEERING-0B1026?style=for-the-badge&labelColor=B388FF" alt="Codec portfolio"/></a> <a href="https://eswar5313.github.io/Eswar-Portfolio-Lens-Index-2026/"><img src="https://img.shields.io/badge/✦-LENS_INDEX-0B1026?style=for-the-badge&labelColor=B388FF" alt="Lens Index"/></a>
+
+<table><tbody>
+<tr><td align="right"><sub><b>WHO I AM</b></sub></td><td><a href="./FOUNDER.md"><img src="https://img.shields.io/badge/✦-FOUNDER-0B1026?style=for-the-badge&labelColor=E9C46A" alt="FOUNDER"/></a> <a href="./EDUCATION.md"><img src="https://img.shields.io/badge/✦-EDUCATION-0B1026?style=for-the-badge&labelColor=B388FF" alt="EDUCATION"/></a> <a href="./EXPERIENCE.md"><img src="https://img.shields.io/badge/✦-EXPERIENCE-0B1026?style=for-the-badge&labelColor=B388FF" alt="EXPERIENCE"/></a> <a href="./CERTIFICATIONS.md"><img src="https://img.shields.io/badge/✦-CERTIFICATIONS-0B1026?style=for-the-badge&labelColor=B388FF" alt="CERTIFICATIONS"/></a></td></tr>
+<tr><td align="right"><sub><b>WHAT I BUILT</b></sub></td><td><a href="./PROJECTS.md"><img src="https://img.shields.io/badge/✦-PROJECTS-0B1026?style=for-the-badge&labelColor=B388FF" alt="PROJECTS"/></a> <a href="./SIMULATIONS.md"><img src="https://img.shields.io/badge/✦-SIMULATIONS-0B1026?style=for-the-badge&labelColor=B388FF" alt="SIMULATIONS"/></a> <a href="./PUBLICATIONS.md"><img src="https://img.shields.io/badge/✦-PUBLICATIONS-0B1026?style=for-the-badge&labelColor=B388FF" alt="PUBLICATIONS"/></a></td></tr>
+<tr><td align="right"><sub><b>WHAT I CAN DO</b></sub></td><td><a href="./SKILLS.md"><img src="https://img.shields.io/badge/◆-SKILLS-0B1026?style=for-the-badge&labelColor=B388FF" alt="SKILLS"/></a> <a href="./TOOLS.md"><img src="https://img.shields.io/badge/◆-TOOLS-0B1026?style=for-the-badge&labelColor=B388FF" alt="TOOLS"/></a> <a href="./METHODS.md"><img src="https://img.shields.io/badge/◆-METHODS-0B1026?style=for-the-badge&labelColor=B388FF" alt="METHODS"/></a></td></tr>
+<tr><td align="right"><sub><b>WHERE I HAVE WORKED</b></sub></td><td><img src="https://img.shields.io/badge/◆-DOMAINS-00E5FF?style=for-the-badge&labelColor=0B1026" alt="DOMAINS (this page)"/> <a href="./SECTORS.md"><img src="https://img.shields.io/badge/◆-SECTORS-0B1026?style=for-the-badge&labelColor=B388FF" alt="SECTORS"/></a> <a href="./INDUSTRIES.md"><img src="https://img.shields.io/badge/◆-INDUSTRIES-0B1026?style=for-the-badge&labelColor=B388FF" alt="INDUSTRIES"/></a></td></tr>
+<tr><td align="right"><sub><b>HOW I WORK</b></sub></td><td><a href="./RESPONSIBILITIES.md"><img src="https://img.shields.io/badge/◆-RESPONSIBILITIES-0B1026?style=for-the-badge&labelColor=B388FF" alt="RESPONSIBILITIES"/></a> <a href="./DUTIES.md"><img src="https://img.shields.io/badge/◆-DUTIES-0B1026?style=for-the-badge&labelColor=B388FF" alt="DUTIES"/></a> <a href="./SOFT_SKILLS.md"><img src="https://img.shields.io/badge/◆-SOFT_SKILLS-0B1026?style=for-the-badge&labelColor=B388FF" alt="SOFT_SKILLS"/></a> <a href="./LEADERSHIP.md"><img src="https://img.shields.io/badge/◆-LEADERSHIP-0B1026?style=for-the-badge&labelColor=B388FF" alt="LEADERSHIP"/></a></td></tr>
+<tr><td align="right"><sub><b>WHY HIRE ME</b></sub></td><td><a href="./ROLES.md"><img src="https://img.shields.io/badge/◆-ROLES-0B1026?style=for-the-badge&labelColor=B388FF" alt="ROLES"/></a> <a href="./EMPLOYABILITY.md"><img src="https://img.shields.io/badge/◆-EMPLOYABILITY-0B1026?style=for-the-badge&labelColor=B388FF" alt="EMPLOYABILITY"/></a> <a href="./IMPACT.md"><img src="https://img.shields.io/badge/◆-IMPACT-0B1026?style=for-the-badge&labelColor=B388FF" alt="IMPACT"/></a> <a href="./LEARNING.md"><img src="https://img.shields.io/badge/◆-LEARNING-0B1026?style=for-the-badge&labelColor=B388FF" alt="LEARNING"/></a> <a href="./MOBILITY.md"><img src="https://img.shields.io/badge/◆-MOBILITY-0B1026?style=for-the-badge&labelColor=B388FF" alt="MOBILITY"/></a> <a href="./INTEGRITY.md"><img src="https://img.shields.io/badge/◆-INTEGRITY-0B1026?style=for-the-badge&labelColor=B388FF" alt="INTEGRITY"/></a></td></tr>
+</tbody></table>
+
+<sub>🟢 <b>NOW · OCT 2026</b> — <b>Founder, M.JayaEswar Ventures</b> (four online brands selling across Europe in EUR) · 2026 journey: Data Scientist (Zidio) · Generative AI Associate (Infotact) · Blue Team Operator (GraySentinel) · 110+ projects · 13 PM cases · 1,000+ automated tests · open to partnerships and senior roles · <a href="./FOUNDER.md">Founder page →</a></sub>
+
+</div>
+
+
+<img src="https://raw.githubusercontent.com/Eswar5313/Eswar5313/main/assets/divider.svg" width="100%" alt="" />
+
+## 🧭 Functional domains
+
+| Domain | Depth | Years | Projects | Credentials | Evidence |
+|---|---|:-:|:-:|---|---|
+| **E-commerce & D2C operations** | Founder | 2026 | 4 | — | [Founder page](./FOUNDER.md) — 4 brands, 156-product flagship, supplier apps + print-on-demand |
+| **Data Analytics & BI** | Expert-track | 2 (+8 as consumer) | 30+ | Google Data Analytics · Google BI · HEXA certificate | [HEXA](https://eswar5313.github.io/Eswar-Master-Project-Portfolio-2026/#01-HEXA-Data-Analytics) · [Excel Module](https://eswar5313.github.io/Eswar-Master-Project-Portfolio-2026/#05-Excel-Data-Analytics-Module) |
+| **Supply Chain & Logistics** | Expert | 8+ | 4 | CSCMP SCPro (6 domains) · IIM-A SC Digitization · PGDLSCM · Six Sigma BB · PepsiCo SC Stars · Flipkart SCOA | Globus results · 2,000-SKU study · FedEx EDA |
+| **Operations & Process Excellence** | Expert | 8+ | 6 | Six Sigma Black Belt · Google PM | Cycle-delay −22 % · APFD/energy/HR process projects |
+| **Sales, CRM & Customer Success** | Expert | 6 | 3 | Salesforce Administrator · PepsiCo Sales Star | ₹13.5 Cr+ facilitated · 90 %+ retention · 87 % FCR |
+| **Product Management (AI-first)** | Advanced | 1 | 13 | Airtribe AI-First PM · Google PM | [PM cases](https://eswar5313.github.io/Eswar-Master-Project-Portfolio-2026/#02-Product-Management-Case-Studies) |
+| **Finance & FP&A modelling** | Advanced | 3 | 5 | MBA (Finance electives) · B.Com Bank Management | Aurora Foods · revenue/sensitivity models |
+| **AI / Generative AI** | Advanced | 2 | 10+ | Anthropic AI Fluency ×2 · Outskill AI Generalist · Gen AI Academy APAC | Infotact Associate L1 — GenAI (LLM apps · RAG) · micro1 AI Trainer · Panopticon · Driving Optimizer · [WorkRadar MVP](https://eswar5313.github.io/product-management-case-studies/13-workradar/) |
+| **Cyber Security (defensive)** | Working | 0.5 | 35 | GraySentinel Blue Team · Codec Cyber | [Codec Cyber track](https://github.com/Eswar5313/Codec-Technologies-Internship-Portfolio-2026/tree/main/Cyber-Security) — 20 projects, 226 tests, 20 report PDFs · [GraySentinel](https://github.com/Eswar5313/GraySentinel-DSOU-45Day-2026) — 15 deliverables, 7 war rooms, 174 tests |
+| **Electric Vehicles & Embedded** | Working | 0.5 | 11 | Codec EV | [Codec EV track](https://github.com/Eswar5313/Codec-Technologies-Internship-Portfolio-2026/tree/main/Electric-Vehicle) — EKF SOC RMSE 0.63 % · India EV dashboard |
+| **Digital Electronics & VLSI** | Working | 0.5 | 10 | Codec Digital Electronics & VLSI | [Codec VLSI track](https://github.com/Eswar5313/Codec-Technologies-Internship-Portfolio-2026/tree/main/Digital-Electronics-VLSI) — Verilog/VHDL RTL, Yosys + nextpnr-ice40 P&R, ALU power −63.8 %, UART Fmax 135 MHz, own RTL-to-GDSII flow |
+| **Robotics & Automation** | Working | 0.5 | 10 | Codec Robotics & Automation | [Codec Robotics track](https://github.com/Eswar5313/Codec-Technologies-Internship-Portfolio-2026/tree/main/Robotics-Automation) — A*/Dijkstra, PID + Kalman, SLAM (pose RMSE 0.34 m vs 1.41 m odometry), DH kinematics + IK, OpenCV 99.7 % |
+| **HR & Organisational Psychology** | Working | 1 | 3 | Internship Studio HR + Psychology | HR manual · TechX Thrive |
+| **Marketing & Growth** | Advanced | 3 | 4 | Digiperform · Imagine.bo Growth Partner | EcoStyle ROAS 4.53× · Zepto AOV · LinkedIn playbook |
+| **UX & Design** | Working | 1 | 4 | GWEN UX intern · Zidio UI/UX · Illustrator | Nykaa UX · VitaFit wireframes · 34 SVGs |
+| **Civil / Energy / CAD** | Working | 0.5 | 4 | Internship Studio | RCC IS 456 · AutoCAD · energy audit |
+| **Software & Web** | Advanced | 2 | 15 | — | CartShare · portfolio sites · C++ library system |
+
+## 🔗 Domain combinations that make me unusual
+
+| Combination | Why it matters to an employer |
+|---|---|
+| Supply chain **+** data analytics | I can build the stockout model *and* know why the picker skipped the bin |
+| Analytics **+** hardware/robotics engineering | Same measurement discipline applied to RTL timing reports and robot simulations — 50 Codec projects, every number produced by the code beside it |
+| Sales **+** analytics | Conversion dashboards built by someone who hit 28 % conversion himself |
+| Product **+** operations | PRDs with real rollout, kill criteria and ops constraints, not just features |
+| AI fluency **+** integrity discipline | AI-accelerated output with disclosure, verification and declared substitutions |
+
+## ✅ Fitment Snapshot — Domains
+
+| What the best roles ask for | What I bring | Proof |
+|---|---|---|
+| T-shaped: one deep domain, many adjacent | Deep in SCM/ops and analytics; working knowledge across 10 more with shipped projects in each | [Lens index](https://github.com/Eswar5313/Eswar-Portfolio-Lens-Index-2026) |
+| Credentialed, not just self-taught | CSCMP, IIM-A, Google ×4, Salesforce, Six Sigma BB, Anthropic ×2 | [Certifications](./CERTIFICATIONS.md) |
+
+<img src="https://raw.githubusercontent.com/Eswar5313/Eswar5313/main/assets/divider.svg" width="100%" alt="" />
+
+<div align="center">
+
+**Eswar Mahalingam** · Founder, M.JayaEswar Ventures · MBA · CSCMP SCPro · Six Sigma Black Belt · Ghaziabad NCR, India · Open to partnerships and senior roles — India · EU · Gulf
+
+[![LinkedIn](https://img.shields.io/badge/✦-LINKEDIN-0B1026?style=for-the-badge&labelColor=B388FF)](https://linkedin.com/in/eswar-mahalingam)
+[![Email](https://img.shields.io/badge/✦-EMAIL-0B1026?style=for-the-badge&labelColor=00E5FF)](mailto:eswarmba05313@gmail.com)
+[![Phone](https://img.shields.io/badge/✦-+91_9360548243-0B1026?style=for-the-badge&labelColor=B388FF)](tel:+919360548243)
+[![Portfolio](https://img.shields.io/badge/✦-PORTFOLIO_SITE-0B1026?style=for-the-badge&labelColor=00E5FF)](https://eswar-3d-portfolio.netlify.app)
+[![Top](https://img.shields.io/badge/⬆-FOUNDER_DASHBOARD-0B1026?style=for-the-badge&labelColor=00E5FF)](./README.md)
+
+<img src="https://raw.githubusercontent.com/Eswar5313/Eswar5313/main/assets/kailash-footer.svg" width="100%" alt="" />
+
+</div>

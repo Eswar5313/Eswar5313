@@ -1,12 +1,12 @@
 <!-- ═══════════════ HORIZON 2047 · RESPONSIBILITIES ═══════════════ -->
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Eswar5313/Eswar5313/main/assets/headers/RESPONSIBILITIES.svg" width="100%" alt="Responsibilities — Eswar Mahalingam, Career Control Tower" />
+<img src="https://raw.githubusercontent.com/Eswar5313/Eswar5313/main/assets/headers/RESPONSIBILITIES.svg" width="100%" alt="Responsibilities — Eswar Mahalingam, Founder Dashboard" />
 
-<a href="./README.md"><img src="https://img.shields.io/badge/⬅-CAREER_CONTROL_TOWER-0B1026?style=for-the-badge&labelColor=00E5FF" alt="Back to Career Control Tower"/></a> <a href="https://eswar5313.github.io/Eswar-Master-Project-Portfolio-2026/"><img src="https://img.shields.io/badge/✦-MASTER_PORTFOLIO_·_110%2B-0B1026?style=for-the-badge&labelColor=00E5FF" alt="Master Portfolio"/></a> <a href="https://eswar5313.github.io/Codec-Technologies-Internship-Portfolio-2026/"><img src="https://img.shields.io/badge/✦-CODEC_·_50_ENGINEERING-0B1026?style=for-the-badge&labelColor=B388FF" alt="Codec portfolio"/></a> <a href="https://eswar5313.github.io/Eswar-Portfolio-Lens-Index-2026/"><img src="https://img.shields.io/badge/✦-LENS_INDEX-0B1026?style=for-the-badge&labelColor=B388FF" alt="Lens Index"/></a>
+<a href="./README.md"><img src="https://img.shields.io/badge/⬅-FOUNDER_DASHBOARD-0B1026?style=for-the-badge&labelColor=00E5FF" alt="Back to Founder Dashboard"/></a> <a href="https://eswar5313.github.io/Eswar-Master-Project-Portfolio-2026/"><img src="https://img.shields.io/badge/✦-MASTER_PORTFOLIO_·_110%2B-0B1026?style=for-the-badge&labelColor=00E5FF" alt="Master Portfolio"/></a> <a href="https://eswar5313.github.io/Codec-Technologies-Internship-Portfolio-2026/"><img src="https://img.shields.io/badge/✦-CODEC_·_50_ENGINEERING-0B1026?style=for-the-badge&labelColor=B388FF" alt="Codec portfolio"/></a> <a href="https://eswar5313.github.io/Eswar-Portfolio-Lens-Index-2026/"><img src="https://img.shields.io/badge/✦-LENS_INDEX-0B1026?style=for-the-badge&labelColor=B388FF" alt="Lens Index"/></a>
 
 <table><tbody>
-<tr><td align="right"><sub><b>WHO I AM</b></sub></td><td><a href="./EDUCATION.md"><img src="https://img.shields.io/badge/✦-EDUCATION-0B1026?style=for-the-badge&labelColor=B388FF" alt="EDUCATION"/></a> <a href="./EXPERIENCE.md"><img src="https://img.shields.io/badge/✦-EXPERIENCE-0B1026?style=for-the-badge&labelColor=B388FF" alt="EXPERIENCE"/></a> <a href="./CERTIFICATIONS.md"><img src="https://img.shields.io/badge/✦-CERTIFICATIONS-0B1026?style=for-the-badge&labelColor=B388FF" alt="CERTIFICATIONS"/></a></td></tr>
+<tr><td align="right"><sub><b>WHO I AM</b></sub></td><td><a href="./FOUNDER.md"><img src="https://img.shields.io/badge/✦-FOUNDER-0B1026?style=for-the-badge&labelColor=E9C46A" alt="FOUNDER"/></a> <a href="./EDUCATION.md"><img src="https://img.shields.io/badge/✦-EDUCATION-0B1026?style=for-the-badge&labelColor=B388FF" alt="EDUCATION"/></a> <a href="./EXPERIENCE.md"><img src="https://img.shields.io/badge/✦-EXPERIENCE-0B1026?style=for-the-badge&labelColor=B388FF" alt="EXPERIENCE"/></a> <a href="./CERTIFICATIONS.md"><img src="https://img.shields.io/badge/✦-CERTIFICATIONS-0B1026?style=for-the-badge&labelColor=B388FF" alt="CERTIFICATIONS"/></a></td></tr>
 <tr><td align="right"><sub><b>WHAT I BUILT</b></sub></td><td><a href="./PROJECTS.md"><img src="https://img.shields.io/badge/✦-PROJECTS-0B1026?style=for-the-badge&labelColor=B388FF" alt="PROJECTS"/></a> <a href="./SIMULATIONS.md"><img src="https://img.shields.io/badge/✦-SIMULATIONS-0B1026?style=for-the-badge&labelColor=B388FF" alt="SIMULATIONS"/></a> <a href="./PUBLICATIONS.md"><img src="https://img.shields.io/badge/✦-PUBLICATIONS-0B1026?style=for-the-badge&labelColor=B388FF" alt="PUBLICATIONS"/></a></td></tr>
 <tr><td align="right"><sub><b>WHAT I CAN DO</b></sub></td><td><a href="./SKILLS.md"><img src="https://img.shields.io/badge/◆-SKILLS-0B1026?style=for-the-badge&labelColor=B388FF" alt="SKILLS"/></a> <a href="./TOOLS.md"><img src="https://img.shields.io/badge/◆-TOOLS-0B1026?style=for-the-badge&labelColor=B388FF" alt="TOOLS"/></a> <a href="./METHODS.md"><img src="https://img.shields.io/badge/◆-METHODS-0B1026?style=for-the-badge&labelColor=B388FF" alt="METHODS"/></a></td></tr>
 <tr><td align="right"><sub><b>WHERE I HAVE WORKED</b></sub></td><td><a href="./DOMAINS.md"><img src="https://img.shields.io/badge/◆-DOMAINS-0B1026?style=for-the-badge&labelColor=B388FF" alt="DOMAINS"/></a> <a href="./SECTORS.md"><img src="https://img.shields.io/badge/◆-SECTORS-0B1026?style=for-the-badge&labelColor=B388FF" alt="SECTORS"/></a> <a href="./INDUSTRIES.md"><img src="https://img.shields.io/badge/◆-INDUSTRIES-0B1026?style=for-the-badge&labelColor=B388FF" alt="INDUSTRIES"/></a></td></tr>
@@ -14,7 +14,7 @@
 <tr><td align="right"><sub><b>WHY HIRE ME</b></sub></td><td><a href="./ROLES.md"><img src="https://img.shields.io/badge/◆-ROLES-0B1026?style=for-the-badge&labelColor=B388FF" alt="ROLES"/></a> <a href="./EMPLOYABILITY.md"><img src="https://img.shields.io/badge/◆-EMPLOYABILITY-0B1026?style=for-the-badge&labelColor=B388FF" alt="EMPLOYABILITY"/></a> <a href="./IMPACT.md"><img src="https://img.shields.io/badge/◆-IMPACT-0B1026?style=for-the-badge&labelColor=B388FF" alt="IMPACT"/></a> <a href="./LEARNING.md"><img src="https://img.shields.io/badge/◆-LEARNING-0B1026?style=for-the-badge&labelColor=B388FF" alt="LEARNING"/></a> <a href="./MOBILITY.md"><img src="https://img.shields.io/badge/◆-MOBILITY-0B1026?style=for-the-badge&labelColor=B388FF" alt="MOBILITY"/></a> <a href="./INTEGRITY.md"><img src="https://img.shields.io/badge/◆-INTEGRITY-0B1026?style=for-the-badge&labelColor=B388FF" alt="INTEGRITY"/></a></td></tr>
 </tbody></table>
 
-<sub>🟢 <b>NOW · OCT 2026</b> — Data Scientist @ Zidio Development · Associate L1, Generative AI @ Infotact · Blue Team Operator @ GraySentinel · AI Trainer @ micro1 · 110+ projects · 13 PM cases · 1,000+ automated tests · open to Sr Manager / AVP roles</sub>
+<sub>🟢 <b>NOW · OCT 2026</b> — <b>Founder, M.JayaEswar Ventures</b> (four online brands selling across Europe in EUR) · 2026 journey: Data Scientist (Zidio) · Generative AI Associate (Infotact) · Blue Team Operator (GraySentinel) · 110+ projects · 13 PM cases · 1,000+ automated tests · open to partnerships and senior roles · <a href="./FOUNDER.md">Founder page →</a></sub>
 
 </div>
 
@@ -25,9 +25,10 @@
 
 | Role | Ownership area | Responsibilities | Measured outcome |
 |---|---|---|---|
-| **Data Scientist — Zidio Development** *(current)* | Forecasting & inventory risk | Weekly SKU demand forecast · rolling-origin backtesting · stockout / overstock risk scoring · scoring API · live dashboard | [Project FORESIGHT](https://github.com/Eswar5313/zidio-data-science-projects) — WAPE 8.8 % vs 11.2 % naive |
-| **Associate L1, Generative AI — Infotact Solutions** *(current)* | LLM applications | Prompt engineering · embeddings & RAG · GenAI back-end / API integration · model evaluation and responsible-AI checks | Sep 2026 → |
-| **Blue Team Operator & Trainee — GraySentinel** *(current)* | SOC investigations | Alert triage · hypothesis testing · log hunting · Sigma / Wazuh / KQL detections · intel briefs · CISO summaries | [7 war rooms · 11 SOC tools · 174 tests](https://github.com/Eswar5313/GraySentinel-DSOU-45Day-2026) |
+| **Founder — M.JayaEswar Ventures** *(now)* | The whole business | Brand architecture · supplier selection & sourcing · catalogue quality (options audit) · storefront, trust and checkout set-up · EUR pricing & shipping · launch and marketing plan | 4 brands · 156 live products on the flagship · Stage 1 complete Oct 2026 |
+| **Data Scientist — Zidio Development** *(2026)* | Forecasting & inventory risk | Weekly SKU demand forecast · rolling-origin backtesting · stockout / overstock risk scoring · scoring API · live dashboard | [Project FORESIGHT](https://github.com/Eswar5313/zidio-data-science-projects) — WAPE 8.8 % vs 11.2 % naive |
+| **Associate L1, Generative AI — Infotact Solutions** *(2026)* | LLM applications | Prompt engineering · embeddings & RAG · GenAI back-end / API integration · model evaluation and responsible-AI checks | 2026 |
+| **Blue Team Operator & Trainee — GraySentinel** *(2026)* | SOC investigations | Alert triage · hypothesis testing · log hunting · Sigma / Wazuh / KQL detections · intel briefs · CISO summaries | [7 war rooms · 11 SOC tools · 174 tests](https://github.com/Eswar5313/GraySentinel-DSOU-45Day-2026) |
 | **Data Analyst — HEXA Solutions** | Analytics delivery | Scope business questions · acquire/clean data · EDA · SQL modelling · ML where justified · dashboards · executive reporting · weekly learning decks · portfolio submission to leadership | 13 projects, 110-page Master Book, Completion + Experience Certificate |
 | **Closure Manager — Spinny** | Revenue closure | Own the closure stage of used-car deals · negotiation · documentation · finance/RC coordination · CSAT ownership · daily closure reporting | 250+ deals · 18 % closure-rate lift · 14 % closure-time cut · 4.8/5 CSAT · Top Closure Consultant Q2 |
 | **Team Lead — OLX Autos** | Service desk | Queue and SLA management · coaching advisors · escalations · first-contact resolution tracking | 87 % FCR |
@@ -69,13 +70,13 @@
 
 <div align="center">
 
-**Eswar Mahalingam** · MBA · CSCMP SCPro · Six Sigma Black Belt · Ghaziabad NCR, India · Open to India · EU (Blue Card) · Gulf · Immediate joiner
+**Eswar Mahalingam** · Founder, M.JayaEswar Ventures · MBA · CSCMP SCPro · Six Sigma Black Belt · Ghaziabad NCR, India · Open to partnerships and senior roles — India · EU · Gulf
 
 [![LinkedIn](https://img.shields.io/badge/✦-LINKEDIN-0B1026?style=for-the-badge&labelColor=B388FF)](https://linkedin.com/in/eswar-mahalingam)
 [![Email](https://img.shields.io/badge/✦-EMAIL-0B1026?style=for-the-badge&labelColor=00E5FF)](mailto:eswarmba05313@gmail.com)
 [![Phone](https://img.shields.io/badge/✦-+91_9360548243-0B1026?style=for-the-badge&labelColor=B388FF)](tel:+919360548243)
 [![Portfolio](https://img.shields.io/badge/✦-PORTFOLIO_SITE-0B1026?style=for-the-badge&labelColor=00E5FF)](https://eswar-3d-portfolio.netlify.app)
-[![Top](https://img.shields.io/badge/⬆-CAREER_CONTROL_TOWER-0B1026?style=for-the-badge&labelColor=00E5FF)](./README.md)
+[![Top](https://img.shields.io/badge/⬆-FOUNDER_DASHBOARD-0B1026?style=for-the-badge&labelColor=00E5FF)](./README.md)
 
 <img src="https://raw.githubusercontent.com/Eswar5313/Eswar5313/main/assets/kailash-footer.svg" width="100%" alt="" />
 
